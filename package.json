@@ -1,0 +1,1 @@
+{ "name": "conserje", "version": "0.1.0", "private": true, "scripts": { "start": "node conserje.js", "demo": "node conserje.js --mock", "test": "node test.js" } }
