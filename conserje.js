@@ -29,6 +29,7 @@ async function yt(key, endpoint, params) {
 }
 async function fetchChannel(key, ch, st) {
   st.uploads = st.uploads || {};
+  if (!st.uploads[ch.handle] && ch.channelId) st.uploads[ch.handle] = 'UU' + ch.channelId.slice(2);
   if (!st.uploads[ch.handle]) {
     const c = await yt(key, 'channels', { part: 'contentDetails', forHandle: ch.handle });
     const up = c.items && c.items[0] && c.items[0].contentDetails.relatedPlaylists.uploads;
@@ -44,8 +45,14 @@ async function fetchChannel(key, ch, st) {
 
 // ---------- detección: qué programa y qué personas aparecen ----------
 function enrich(v, cfg) {
-  const text = v.title + ' ' + v.description;
-  const programs = cfg.programs.filter(p => p.channel === v.handle && (!p.match || p.match.some(t => hasTerm(text, t)))).map(p => p.name);
+  const programs = [], via = {};
+  for (const p of cfg.programs) {
+    if (p.channel !== v.handle) continue;
+    if (!p.match) { programs.push(p.name); continue; }
+    const head = (v.description || '').slice(0, p.descChars || 300);   // solo el comienzo de la descripción
+    if (p.match.some(t => hasTerm(v.title, t))) { programs.push(p.name); via[p.name] = 'el título'; }
+    else if (p.match.some(t => hasTerm(head, t))) { programs.push(p.name); via[p.name] = 'la descripción'; }
+  }
   const people = [];
   for (const p of cfg.persons) {
     const names = [p.name, ...(p.aliases || [])];
@@ -53,7 +60,7 @@ function enrich(v, cfg) {
     if (inTitle || inDesc) people.push({ name: p.name, confidence: inTitle ? 'alta' : 'media' });
   }
   const { description, ...rest } = v;
-  return { ...rest, programs, people };
+  return { ...rest, programs, via, people };
 }
 function rulesFor(it, cfg) {                         // mención (confianza media) va solo al resumen
   const rs = [];
@@ -68,11 +75,14 @@ async function step(videos, cfg, st, now, send) {
   st.items = st.items || {}; st.sent = st.sent || {};
   if (!st.day || st.day.date !== today) st.day = { date: today, count: 0 };
   const first = !st.initialized;
+  if (!st.known) { st.known = {}; for (const it of Object.values(st.items)) st.known[it.handle] = true; }
+  const fresh = new Set(videos.map(v => v.handle).filter(h => !st.known[h]));
   for (const v of videos) {
     const it = enrich(v, cfg), old = st.items[it.id];
     st.items[it.id] = { ...it, firstSeen: old ? old.firstSeen : nowMs };
-    if (first) st.sent[it.id + ':new'] = nowMs;      // primera corrida: no avisar lo ya publicado
+    if (!old && (first || fresh.has(v.handle))) st.sent[it.id + ':new'] = nowMs;   // canal nuevo: no avisar lo ya publicado
   }
+  fresh.forEach(h => { st.known[h] = true; });
   if (first) { st.initialized = true; st.lastDigest = today; st.lastDigestAt = nowMs; }
   const quiet = inQuiet(cfg, now);
   const attempt = async text => { try { await send(text); return true; } catch (e) { console.error('No se pudo enviar:', e.message); return false; } };
@@ -127,7 +137,7 @@ function render(st, cfg) {
     const l = i.status === 'live', up = i.status === 'upcoming' && !l;
     const chip = (l || up) ? `<span class="k" style="background:#FFE3E0"><i class="dot"></i>${l ? 'En vivo' : 'Directo'}</span>` : '<span class="k">Video</span>';
     const ppl = i.people.map(p => `<span class="k ${p.confidence === 'alta' ? 'cy' : 'gr'}">${p.confidence === 'alta' ? 'Aparece' : 'Mención'}</span><b class="b">${esc(p.name)}</b>`).join('');
-    const why = [...i.programs, ...i.people.map(p => p.name)].join(' y ');
+    const why = [...i.programs.map(n => n + (i.via && i.via[n] ? ` (en ${i.via[n]})` : '')), ...i.people.map(p => p.name)].join(' y ');
     return `<a class="c" href="https://youtu.be/${esc(i.id)}"><div class="r">${chip}<span class="g">${up ? esc(whenStr(i.start, tz)) : esc(ago(i.publishedAt))}</span></div><div class="h">${esc(i.title)}</div><div class="g">${esc(i.channel)}</div>${ppl ? `<div class="p">${ppl}</div>` : ''}<div class="q">Porque sigues a ${esc(why)}</div></a>`;
   };
   const empty = t => `<p class="g">${t}</p>`;
@@ -166,11 +176,13 @@ async function main() {
   else {
     const key = process.env.YOUTUBE_API_KEY;
     if (!key) throw new Error('Falta YOUTUBE_API_KEY en .env (mira el README)');
-    for (const ch of cfg.channels) { try { videos.push(...await fetchChannel(key, ch, st)); } catch (e) { console.error(`${ch.handle}: ${e.message}`); } }
+    for (const ch of cfg.channels) { try { const list = await fetchChannel(key, ch, st); videos.push(...list); console.log(`${ch.name}: ${list.length} videos leídos`); } catch (e) { console.error(`${ch.handle}: ${e.message}`); } }
   }
   await step(videos, cfg, st, now, sender(cfg, args.includes('--dry') || mock));
   if (!mock) fs.writeFileSync(STATE, JSON.stringify(st, null, 1));
   fs.mkdirSync(path.dirname(SITE), { recursive: true }); fs.writeFileSync(SITE, render(st, cfg));
+  const hits = Object.values(st.items).filter(i => i.programs.length || i.people.length).sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt)).slice(0, 10);
+  for (const i of hits) console.log(`  · ${i.title.slice(0, 70)} → ${[...i.programs.map(n => n + ' (' + ((i.via || {})[n] || '-') + ')'), ...i.people.map(p => p.name + ' (' + p.confidence + ')')].join(', ')}`);
   console.log(`\nListo: ${Object.keys(st.items).length} videos en seguimiento. Página en site/index.html`);
 }
 module.exports = { norm, hasTerm, enrich, step, render, mockVideos };

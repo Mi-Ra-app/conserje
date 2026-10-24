@@ -5,7 +5,7 @@ const base = JSON.parse(require('fs').readFileSync(__dirname + '/config.json', '
 const mkCfg = o => ({ ...JSON.parse(JSON.stringify(base)), timezone: 'UTC', ...o });
 const at = (h, m = 0, d = 20) => new Date(Date.UTC(2026, 9, d, h, m));
 const cr = (id, title, description, extra = {}) => ({ id, channel: 'El Cronista Stream', handle: '@Cronista_ar', title, description, status: 'none', start: null, publishedAt: at(8).toISOString(), ...extra });
-const fab = id => ({ id, channel: 'La Fábrica Podcast', handle: '@LaFabricaPodcast_ok', title: 'Episodio ' + id, description: '', status: 'none', start: null, publishedAt: at(8).toISOString() });
+const fab = id => ({ id, channel: 'La Fábrica Podcast', handle: '@LaFabricaDelPodcast', title: 'Episodio ' + id, description: '', status: 'none', start: null, publishedAt: at(8).toISOString() });
 const fo = id => ({ ...fab(id), channel: 'La Fórmula Podcast', handle: '@laformulapod' });
 const run = async (videos, cfg, st, now) => { const out = []; await step(videos, cfg, st, now, async t => { out.push(t); }); return out; };
 let n = 0;
@@ -35,32 +35,44 @@ const t = async (name, fn) => { try { await fn(); n++; console.log('ok  ' + name
   });
   await t('video nuevo después de iniciar: un solo aviso', async () => {
     const cfg = mkCfg({ digest: { enabled: false } }), st = {};
-    await run([], cfg, st, at(10));
-    assert.equal((await run([fab('n1')], cfg, st, at(11))).length, 1);
-    assert.equal((await run([fab('n1')], cfg, st, at(12))).length, 0);
+    await run([fab('base')], cfg, st, at(10));
+    assert.equal((await run([fab('base'), fab('n1')], cfg, st, at(11))).length, 1);
+    assert.equal((await run([fab('base'), fab('n1')], cfg, st, at(12))).length, 0);
   });
   await t('horas de silencio: espera y avisa al terminar', async () => {
     const cfg = mkCfg({ digest: { enabled: false } }), st = {};
-    await run([], cfg, st, at(12, 0, 19));
-    assert.equal((await run([fab('q1')], cfg, st, at(2, 0, 20))).length, 0);
-    assert.equal((await run([fab('q1')], cfg, st, at(8, 0, 20))).length, 1);
+    await run([fab('base')], cfg, st, at(12, 0, 19));
+    assert.equal((await run([fab('base'), fab('q1')], cfg, st, at(2, 0, 20))).length, 0);
+    assert.equal((await run([fab('base'), fab('q1')], cfg, st, at(8, 0, 20))).length, 1);
   });
   await t('tope diario', async () => {
     const cfg = mkCfg({ digest: { enabled: false }, dailyCap: 1 }), st = {};
-    await run([], cfg, st, at(10));
-    assert.equal((await run([fab('c1'), fab('c2')], cfg, st, at(11))).length, 1);
+    await run([fab('base')], cfg, st, at(10));
+    assert.equal((await run([fab('base'), fab('c1'), fab('c2')], cfg, st, at(11))).length, 1);
   });
   await t('resumen diario: una vez por día, incluye lo "solo resumen" y las menciones', async () => {
     const cfg = mkCfg({}), st = {};
-    await run([], cfg, st, at(8, 0, 19));
-    const a = await run([fo('r1'), cr('r2', 'Entrevista', 'con Marcos Galperín')], cfg, st, at(9, 30, 20));
+    await run([fo('b0'), cr('b1', 'Nada', '')], cfg, st, at(8, 0, 19));
+    const a = await run([fo('b0'), cr('b1', 'Nada', ''), fo('r1'), cr('r2', 'Entrevista', 'con Marcos Galperín')], cfg, st, at(9, 30, 20));
     assert.equal(a.length, 1); assert.match(a[0], /resumen/i); assert.match(a[0], /mención: Marcos Galperin/);
     assert.equal((await run([fo('r1')], cfg, st, at(10, 30, 20))).length, 0);
+  });
+  await t('el nombre del programa repetido al pie de la descripción NO cuenta', () => {
+    const grilla = 'Suscribite AHORA a El Cronista Stream. Entrevista con un empresario.' + ' '.repeat(400) + 'PROGRAMACIÓN: SIN MANUAL con Jonatan Loidi - Miércoles';
+    assert.deepEqual(enrich(cr('g1', 'Sello Argento: una marca', grilla), base).programs, []);
+    const ok = enrich(cr('g2', 'Mercados', 'Suscribite AHORA. Charló con Loidi en Sin Manual.' + grilla), base);
+    assert.deepEqual(ok.programs, ['Sin Manual']); assert.equal(ok.via['Sin Manual'], 'la descripción');
+  });
+  await t('un canal agregado más tarde se lee en silencio (no avisa su historial)', async () => {
+    const cfg = mkCfg({ digest: { enabled: false } }), st = {};
+    await run([cr('k1', 'Nada', '')], cfg, st, at(10));
+    assert.equal((await run([cr('k1', 'Nada', ''), fab('h1'), fab('h2')], cfg, st, at(11))).length, 0);
+    assert.equal((await run([cr('k1', 'Nada', ''), fab('h1'), fab('h2'), fab('h3')], cfg, st, at(12))).length, 1);
   });
   await t('la página se genera con apariciones y directos', () => {
     const st = { items: { x: { ...enrich(cr('x', 'Claudio Zuchovicki en vivo', 'Sin Manual', { status: 'upcoming', start: new Date(Date.now() + 36e5).toISOString() }), base), firstSeen: 1 } } };
     const html = render(st, base);
-    assert.match(html, /Aparece/); assert.match(html, /Directo/); assert.match(html, /Porque sigues a Sin Manual y Claudio Zuchovicki/);
+    assert.match(html, /Aparece/); assert.match(html, /Directo/); assert.match(html, /Porque sigues a Sin Manual \(en la descripción\) y Claudio Zuchovicki/);
   });
   console.log(`\n${n} pruebas pasaron`);
 })();

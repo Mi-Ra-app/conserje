@@ -28,8 +28,8 @@ GitHub Pages lo exige) y tres "secrets" en Settings > Secrets and variables > Ac
 `YOUTUBE_API_KEY`, `TELEGRAM_BOT_TOKEN` y `TELEGRAM_CHAT_ID`. En Settings > Pages, la fuente debe ser "GitHub Actions".
 
 ## Personalizar (config.json)
-- `channels`: canales a vigilar (`@handle`). `recent` = cuántos videos recientes revisar.
-- `programs`: un programa = canal + filtro opcional `match` (texto en título o descripción).
+- `channels`: canales a vigilar (`@handle`). `recent` = cuántos videos recientes revisar. `channelId` (opcional, empieza con UC) es más estable que el @handle si el canal cambia de nombre.
+- `programs`: un programa = canal + filtro opcional `match`: se busca en el título o en el comienzo de la descripción (`descChars`, 300 por defecto), para no confundirse con textos repetidos al pie.
   Reglas: `onPublish` (avisar al publicarse), `leadMinutes` (avisos antes de un directo, ej. `[300, 60]`),
   `digestOnly` (solo en el resumen).
 - `persons`: nombre + `aliases`. Nombre en el título = aparición (usa sus reglas);

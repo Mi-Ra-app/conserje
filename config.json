@@ -2,12 +2,12 @@
   "timezone": "America/Argentina/Buenos_Aires",
   "channels": [
     { "handle": "@Cronista_ar", "name": "El Cronista Stream", "recent": 30 },
-    { "handle": "@LaFabricaPodcast_ok", "name": "La Fábrica Podcast" },
+    { "handle": "@LaFabricaDelPodcast", "channelId": "UCDFajagyC0Rq7l5mRSdUnIA", "name": "La Fábrica Podcast" },
     { "handle": "@laformulapod", "name": "La Fórmula Podcast" }
   ],
   "programs": [
-    { "name": "Sin Manual", "channel": "@Cronista_ar", "match": ["sin manual"], "rule": { "leadMinutes": [300, 60], "onPublish": true } },
-    { "name": "La Fábrica Podcast", "channel": "@LaFabricaPodcast_ok", "rule": { "onPublish": true } },
+    { "name": "Sin Manual", "channel": "@Cronista_ar", "match": ["sin manual", "loidi"], "rule": { "leadMinutes": [300, 60], "onPublish": true } },
+    { "name": "La Fábrica Podcast", "channel": "@LaFabricaDelPodcast", "rule": { "onPublish": true } },
     { "name": "La Fórmula Podcast", "channel": "@laformulapod", "rule": { "digestOnly": true } }
   ],
   "persons": [
