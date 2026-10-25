@@ -908,6 +908,36 @@
    "via": {},
    "people": [],
    "firstSeen": 1792888048469
+  },
+  "CYhn8aKO2Ag": {
+   "id": "CYhn8aKO2Ag",
+   "title": "El amateurismo del Hockey, un deporte campeón del mundo",
+   "publishedAt": "2026-10-25T14:00:29Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1792936997724
+  },
+  "TKaW_-wAxTg": {
+   "id": "TKaW_-wAxTg",
+   "title": "#125 - De un proyecto de 100 páginas a empresa de 100 empleados, Miguel Iglesias",
+   "publishedAt": "2026-10-24T18:13:52Z",
+   "status": "upcoming",
+   "start": "2026-10-25T23:00:00Z",
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1792936997724
   }
  },
  "sent": {
@@ -970,15 +1000,17 @@
   "KMJ8LGSDfv0:new": 1792856811282,
   "dtbBS5ehmGM:new": 1792856811282,
   "6zSAvB9QrhU:new": 1792856811282,
-  "CTAk2mkIq0A:new": 1792856811282
+  "CTAk2mkIq0A:new": 1792856811282,
+  "CYhn8aKO2Ag:new": 1792936997724,
+  "TKaW_-wAxTg:new": 1792936997724
  },
  "day": {
   "date": "2026-10-25",
-  "count": 0
+  "count": 2
  },
  "initialized": true,
- "lastDigest": "2026-10-24",
- "lastDigestAt": 1792854830280,
+ "lastDigest": "2026-10-25",
+ "lastDigestAt": 1792936997724,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
