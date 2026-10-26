@@ -572,66 +572,6 @@
    "people": [],
    "firstSeen": 1792854830280
   },
-  "4I9dmgNWOyc": {
-   "id": "4I9dmgNWOyc",
-   "title": "Rafa Guerrero: ¿POR QUÉ REACCIONAMOS ASÍ? | La Fórmula Podcast",
-   "publishedAt": "2026-10-14T19:00:25Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792854830280
-  },
-  "tipWfAC96ss": {
-   "id": "tipWfAC96ss",
-   "title": "Rafa Guerrero: “LA ADICCIÓN NO ES EL PROBLEMA, ES LA SOLUCIÓN” | La Fórmula Podcast",
-   "publishedAt": "2026-10-14T18:00:29Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792854830280
-  },
-  "JlBUsWYY9ug": {
-   "id": "JlBUsWYY9ug",
-   "title": "Rafa Guerrero: LA ÚNICA FORMA DE REGULAR TUS EMOCIONES | La Fórmula Podcast",
-   "publishedAt": "2026-10-14T17:00:09Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792854830280
-  },
-  "usH0-TSY91A": {
-   "id": "usH0-TSY91A",
-   "title": "Rafa Guerrero: ¿POR QUÉ ESTAMOS TRISTES TENIÉNDOLO TODO? | La Fórmula Podcast",
-   "publishedAt": "2026-10-14T15:24:47Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792854830280
-  },
   "G5sOW8MhtVM": {
    "id": "G5sOW8MhtVM",
    "title": "Producto vs. Servicio",
@@ -1104,6 +1044,84 @@
    "via": {},
    "people": [],
    "firstSeen": 1792966825388
+  },
+  "NXk7tiRCWnk": {
+   "id": "NXk7tiRCWnk",
+   "title": "\"VA A TENER UN MANDATO MUY DIFÍCIL\": La PREDICCIÓN de un ANALISTA sobre el TRIUNFO de LULA en BRASIL",
+   "publishedAt": "2026-10-26T17:09:49Z",
+   "status": "none",
+   "start": "2026-10-26T15:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793035838084
+  },
+  "JlLl5nsw2aY": {
+   "id": "JlLl5nsw2aY",
+   "title": "Argentina ante una OPORTUNIDAD HISTÓRICA: ¿El PLAN de MILEI CAMBIA TODO?",
+   "publishedAt": "2026-10-26T17:00:01Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793035838084
+  },
+  "WwwhAdA0B8U": {
+   "id": "WwwhAdA0B8U",
+   "title": "LUNES NEGRO EN BRASIL: ¿QUÉ HERENCIA SE DEJA LULA A SÍ MISMO?",
+   "publishedAt": "2026-10-26T16:27:02Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793035838084
+  },
+  "Aih79Sxjv40": {
+   "id": "Aih79Sxjv40",
+   "title": "“EL PROBLEMA DE LULA ES SU PROPIA HERENCIA”: Willy Laborda REACCIONA a las ELECCIONES en BRASIL",
+   "publishedAt": "2026-10-26T12:36:21Z",
+   "status": "none",
+   "start": "2026-10-26T14:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793035838084
+  },
+  "dxWQ-ZFoOM8": {
+   "id": "dxWQ-ZFoOM8",
+   "title": "LULA DIO EL BATACAZO EN BRASIL: Así REACCIONARON los MERCADOS MUNDIALES | Pulso Financiero",
+   "publishedAt": "2026-10-26T15:14:53Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793035838084
+  },
+  "2_lW-EbwSHU": {
+   "id": "2_lW-EbwSHU",
+   "title": "ETCHEBARNE SORPRENDE: \"SI LLA Y EL PRO VAN JUNTOS, GANAN PBA\" | Pulso Financiero",
+   "publishedAt": "2026-10-26T13:05:42Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793035838084
   }
  },
  "sent": {
@@ -1179,8 +1197,8 @@
   "count": 0
  },
  "initialized": true,
- "lastDigest": "2026-10-25",
- "lastDigestAt": 1792936997724,
+ "lastDigest": "2026-10-26",
+ "lastDigestAt": 1793035838084,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
