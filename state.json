@@ -5,19 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "j4R_-ams79Q": {
-   "id": "j4R_-ams79Q",
-   "title": "ESTE LIBRO TE EXPLICA POR QUÉ GANAR PLATA NO ALCANZA",
-   "publishedAt": "2026-10-24T14:09:55Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792854830280
-  },
   "G5sOW8MhtVM": {
    "id": "G5sOW8MhtVM",
    "title": "Producto vs. Servicio",
@@ -112,126 +99,6 @@
    "id": "g_1LBcKAt9E",
    "title": "De empleada corpo a dueña de empresa",
    "publishedAt": "2026-10-23T19:51:27Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792856811282
-  },
-  "5K4SW31EGWc": {
-   "id": "5K4SW31EGWc",
-   "title": "¿Qué significa ser una leona?",
-   "publishedAt": "2026-10-23T19:48:12Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792856811282
-  },
-  "ZIQb_SS15FA": {
-   "id": "ZIQb_SS15FA",
-   "title": "¿Por qué seguir cuando ya ganaste todo?",
-   "publishedAt": "2026-10-23T19:45:00Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792856811282
-  },
-  "c07-aJviIVs": {
-   "id": "c07-aJviIVs",
-   "title": "¿Qué pasa si Inglaterra encuentra petroleo en Malvinas?",
-   "publishedAt": "2026-10-23T19:43:58Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792856811282
-  },
-  "tmk8_s9D4H8": {
-   "id": "tmk8_s9D4H8",
-   "title": "¿Puede Argentina recuperar las Malvinas?",
-   "publishedAt": "2026-10-23T19:41:05Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792856811282
-  },
-  "KMJ8LGSDfv0": {
-   "id": "KMJ8LGSDfv0",
-   "title": "¿Qué es el dolor?",
-   "publishedAt": "2026-10-23T19:39:51Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792856811282
-  },
-  "dtbBS5ehmGM": {
-   "id": "dtbBS5ehmGM",
-   "title": "#2 - Misión 2: Un escenario de malvinización planetaria, Juan Augusto Rattenbach y Ezequiel Magnani",
-   "publishedAt": "2026-10-23T01:00:10Z",
-   "status": "none",
-   "start": "2026-10-23T01:00:00Z",
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792856811282
-  },
-  "6zSAvB9QrhU": {
-   "id": "6zSAvB9QrhU",
-   "title": "#64 - ¿Cómo se sale de la Jaula de Oro?, Varina Baldi",
-   "publishedAt": "2026-10-22T23:00:11Z",
-   "status": "none",
-   "start": "2026-10-22T23:00:00Z",
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792856811282
-  },
-  "CTAk2mkIq0A": {
-   "id": "CTAk2mkIq0A",
-   "title": "De actuar en un bar a tener un bar",
-   "publishedAt": "2026-10-22T15:00:15Z",
    "status": "none",
    "start": null,
    "channel": "La Fábrica Podcast",
@@ -1038,9 +905,9 @@
   },
   "-3UVngUU05U": {
    "id": "-3UVngUU05U",
-   "title": "🔵 EN VIVO | Astrid Mirkin, jefa REGIONAL de TikTok, en Sello Argento con Jairo Straccia",
+   "title": "🔵 EN VIVO | Astrid Mirkin, Gerenta General Cono Sur de TikTok, en Sello Argento con Jairo Straccia",
    "publishedAt": "2026-10-27T16:04:13Z",
-   "status": "upcoming",
+   "status": "live",
    "start": "2026-10-27T22:00:00Z",
    "channel": "El Cronista Stream",
    "handle": "@Cronista_ar",
@@ -1051,8 +918,8 @@
   },
   "732MF84FmYM": {
    "id": "732MF84FmYM",
-   "title": "\"EFECTO CAIPIRINHA\": Willy Laborda REACCIONA al RIESGO PAÍS en Argentina tras el triunfo de LULA",
-   "publishedAt": "2026-10-27T13:01:30Z",
+   "title": "\"ESTAMOS VIVIENDO UNA REVOLUCIÓN\": MILEI APROBÓ UN NUEVO RIGI POR UN PROYECTO MILLONARIO",
+   "publishedAt": "2026-10-27T18:40:55Z",
    "status": "none",
    "start": "2026-10-27T14:00:00Z",
    "channel": "El Cronista Stream",
@@ -1130,6 +997,133 @@
    "via": {},
    "people": [],
    "firstSeen": 1793124531494
+  },
+  "q7clSIEoJ1M": {
+   "id": "q7clSIEoJ1M",
+   "title": "TIKTOK POR DENTRO EN #SELLOARGENTO",
+   "publishedAt": "2026-10-27T22:06:04Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793139062585
+  },
+  "i_U6BOPLETI": {
+   "id": "i_U6BOPLETI",
+   "title": "YOSOVITCH confía en la REELECCIÓN de MILEI: \"NOS INUNDAMOS DE DÓLARES\"",
+   "publishedAt": "2026-10-27T21:00:33Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793139062585
+  },
+  "ccfRU7zaGGc": {
+   "id": "ccfRU7zaGGc",
+   "title": "POLÉMICA EN BRASIL: ¿LULA VIOL0 LA CONSTITUCIÓN?",
+   "publishedAt": "2026-10-27T19:16:21Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793139062585
+  },
+  "SHBhggatHhs": {
+   "id": "SHBhggatHhs",
+   "title": "La señal que esperan los inversores para APOSTAR otra vez por Argentina | Enrique Picasso",
+   "publishedAt": "2026-10-27T19:02:03Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793139062585
+  },
+  "ex61addrEs4": {
+   "id": "ex61addrEs4",
+   "title": "¿Cómo hackear tu mente para ganarle a tu cuerpo?",
+   "publishedAt": "2026-10-27T21:00:14Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793139062585
+  },
+  "vRgydoJhuzI": {
+   "id": "vRgydoJhuzI",
+   "title": "¿Cómo ganaba USD 3.000 a los 14 años?",
+   "publishedAt": "2026-10-27T20:00:26Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793139062585
+  },
+  "d2_THKpdiL4": {
+   "id": "d2_THKpdiL4",
+   "title": "El plan de negocios que lo llevó a La Pampaa",
+   "publishedAt": "2026-10-27T20:00:11Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793139062585
+  },
+  "hvNVEbUFCr0": {
+   "id": "hvNVEbUFCr0",
+   "title": "¿Van a prohibir el ingreso de argentinos a Malvinas?",
+   "publishedAt": "2026-10-27T19:00:22Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793139062585
+  },
+  "FiPC4tls4ag": {
+   "id": "FiPC4tls4ag",
+   "title": "#11 - El Co-Fundador de Belo, Edwin Rager",
+   "publishedAt": "2026-10-27T13:19:44Z",
+   "status": "upcoming",
+   "start": "2026-10-28T01:00:00Z",
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793139062585
   }
  },
  "sent": {
@@ -1204,11 +1198,15 @@
   "6iKI9Nw5Oe4:new": 1793103521901,
   "STXKfnCefGs:new": 1793103521901,
   "TPt5xxwmXBg:new": 1793124531494,
-  "j-fblqtB4OY:new": 1793124531494
+  "j-fblqtB4OY:new": 1793124531494,
+  "ex61addrEs4:new": 1793139062585,
+  "vRgydoJhuzI:new": 1793139062585,
+  "d2_THKpdiL4:new": 1793139062585,
+  "hvNVEbUFCr0:new": 1793139062585
  },
  "day": {
   "date": "2026-10-27",
-  "count": 4
+  "count": 8
  },
  "initialized": true,
  "lastDigest": "2026-10-27",
