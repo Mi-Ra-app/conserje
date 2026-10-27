@@ -161,19 +161,6 @@
    "people": [],
    "firstSeen": 1792854830280
   },
-  "AF2uZNaITQQ": {
-   "id": "AF2uZNaITQQ",
-   "title": "El modelo económico que MILEI busca DESTRUIR | Ramiro Castiñeira",
-   "publishedAt": "2026-10-23T18:39:31Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792854830280
-  },
   "G5sOW8MhtVM": {
    "id": "G5sOW8MhtVM",
    "title": "Producto vs. Servicio",
@@ -1126,6 +1113,19 @@
    "via": {},
    "people": [],
    "firstSeen": 1793081705390
+  },
+  "VDepmVRXnd4": {
+   "id": "VDepmVRXnd4",
+   "title": "¿CÓMO NACIÓ EL NEGRONI?",
+   "publishedAt": "2026-10-27T11:07:49Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793103521901
   }
  },
  "sent": {
@@ -1196,15 +1196,17 @@
   "WCiR4m7hLQk:new": 1792949915741,
   "FIHXS9_8heE:new": 1792949915741,
   "r6V3ArKOj4Q:new": 1793051514139,
-  "8rcJBiM6SAI:new": 1793051514139
+  "8rcJBiM6SAI:new": 1793051514139,
+  "6iKI9Nw5Oe4:new": 1793103521901,
+  "STXKfnCefGs:new": 1793103521901
  },
  "day": {
   "date": "2026-10-27",
-  "count": 0
+  "count": 2
  },
  "initialized": true,
- "lastDigest": "2026-10-26",
- "lastDigestAt": 1793035838084,
+ "lastDigest": "2026-10-27",
+ "lastDigestAt": 1793103521901,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
