@@ -174,45 +174,6 @@
    "people": [],
    "firstSeen": 1792854830280
   },
-  "sSGn-Mnp7SA": {
-   "id": "sSGn-Mnp7SA",
-   "title": "¿QUÉ PASA CON LAS ACCIONES?",
-   "publishedAt": "2026-10-23T17:45:26Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792854830280
-  },
-  "yCaesvYOphY": {
-   "id": "yCaesvYOphY",
-   "title": "\"DEMUESTRA DETERMINACIÓN Y CORAJE\": De Pablo reaccionó a MILEI | Cuentas Claras",
-   "publishedAt": "2026-10-23T17:06:03Z",
-   "status": "none",
-   "start": "2026-10-23T15:00:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792854830280
-  },
-  "e9ZuZJTaFAM": {
-   "id": "e9ZuZJTaFAM",
-   "title": "La \"catarata de DÓLARES\" que puede TRANSFORMAR a la Argentina | Juan Pablo Gusmano",
-   "publishedAt": "2026-10-23T16:23:11Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792854830280
-  },
   "G5sOW8MhtVM": {
    "id": "G5sOW8MhtVM",
    "title": "Producto vs. Servicio",
@@ -1120,6 +1081,51 @@
    "via": {},
    "people": [],
    "firstSeen": 1793062975343
+  },
+  "6iKI9Nw5Oe4": {
+   "id": "6iKI9Nw5Oe4",
+   "title": "Consiguió inversiones por USD 18 millones para su sueño",
+   "publishedAt": "2026-10-27T04:21:25Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793081705390
+  },
+  "STXKfnCefGs": {
+   "id": "STXKfnCefGs",
+   "title": "#49 - El hombre detrás de la mentalidad ganadora, Estanislao Bachrach",
+   "publishedAt": "2026-10-27T04:10:15Z",
+   "status": "upcoming",
+   "start": "2026-10-27T23:00:00Z",
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793081705390
+  },
+  "5w_1KjkLvUg": {
+   "id": "5w_1KjkLvUg",
+   "title": "Sofía Contreras: MENTALIDAD FIJA VS. MENTALIDAD DE CRECIMIENTO | La Fórmula Podcast",
+   "publishedAt": "2026-10-23T17:00:28Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793081705390
   }
  },
  "sent": {
@@ -1193,8 +1199,8 @@
   "8rcJBiM6SAI:new": 1793051514139
  },
  "day": {
-  "date": "2026-10-26",
-  "count": 2
+  "date": "2026-10-27",
+  "count": 0
  },
  "initialized": true,
  "lastDigest": "2026-10-26",
