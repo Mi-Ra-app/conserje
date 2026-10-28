@@ -65,21 +65,6 @@
    "people": [],
    "firstSeen": 1792856811282
   },
-  "gzc0pBK_GoA": {
-   "id": "gzc0pBK_GoA",
-   "title": "El creador de Takenos",
-   "publishedAt": "2026-10-23T22:45:16Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792856811282
-  },
   "Wctdj8pjuGQ": {
    "id": "Wctdj8pjuGQ",
    "title": "MILEI vs. KICILLOF: MARIANA BREY los comparó y desató la FURIA | Nada Personal",
@@ -915,7 +900,7 @@
   "pgWQ-b4Wd_U": {
    "id": "pgWQ-b4Wd_U",
    "title": "EN VIVO | Conferencia de prensa del vocero presidencial Adrián Ravier",
-   "publishedAt": "2026-10-27T13:37:07Z",
+   "publishedAt": "2026-10-28T02:59:48Z",
    "status": "none",
    "start": "2026-10-27T14:15:00Z",
    "channel": "El Cronista Stream",
@@ -1084,7 +1069,7 @@
    "id": "FiPC4tls4ag",
    "title": "#11 - El Co-Fundador de Belo, Edwin Rager",
    "publishedAt": "2026-10-28T01:00:10Z",
-   "status": "live",
+   "status": "none",
    "start": "2026-10-28T01:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -1120,6 +1105,21 @@
    "via": {},
    "people": [],
    "firstSeen": 1793150389382
+  },
+  "VBio4uM8Cuc": {
+   "id": "VBio4uM8Cuc",
+   "title": "De barman a fundar una empresa líder en Latam",
+   "publishedAt": "2026-10-28T02:51:26Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793170926656
   }
  },
  "sent": {
@@ -1201,8 +1201,8 @@
   "hvNVEbUFCr0:new": 1793139062585
  },
  "day": {
-  "date": "2026-10-27",
-  "count": 8
+  "date": "2026-10-28",
+  "count": 0
  },
  "initialized": true,
  "lastDigest": "2026-10-27",
