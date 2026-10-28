@@ -80,36 +80,6 @@
    "people": [],
    "firstSeen": 1792856811282
   },
-  "kXmRkVNvwWU": {
-   "id": "kXmRkVNvwWU",
-   "title": "¿Cómo salir de la jaula de oro?",
-   "publishedAt": "2026-10-23T20:13:02Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792856811282
-  },
-  "g_1LBcKAt9E": {
-   "id": "g_1LBcKAt9E",
-   "title": "De empleada corpo a dueña de empresa",
-   "publishedAt": "2026-10-23T19:51:27Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792856811282
-  },
   "Wctdj8pjuGQ": {
    "id": "Wctdj8pjuGQ",
    "title": "MILEI vs. KICILLOF: MARIANA BREY los comparó y desató la FURIA | Nada Personal",
@@ -606,7 +576,7 @@
   },
   "MV6aJ2NLU0Y": {
    "id": "MV6aJ2NLU0Y",
-   "title": "¿Por qué el RIESGO PAÍS en BRASIL es MUCHO MÁS BAJO que en ARGENTINA? | Julián Yosovitch",
+   "title": "El resultado en Brasil que obliga a MILEI a cambiar la ESTRATEGIA | Julián Yosovitch",
    "publishedAt": "2026-10-26T23:00:14Z",
    "status": "none",
    "start": null,
@@ -811,8 +781,8 @@
   "STXKfnCefGs": {
    "id": "STXKfnCefGs",
    "title": "#49 - El hombre detrás de la mentalidad ganadora, Estanislao Bachrach",
-   "publishedAt": "2026-10-27T04:10:15Z",
-   "status": "upcoming",
+   "publishedAt": "2026-10-27T23:00:11Z",
+   "status": "none",
    "start": "2026-10-27T23:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -905,9 +875,9 @@
   },
   "-3UVngUU05U": {
    "id": "-3UVngUU05U",
-   "title": "🔵 EN VIVO | Astrid Mirkin, Gerenta General Cono Sur de TikTok, en Sello Argento con Jairo Straccia",
-   "publishedAt": "2026-10-27T16:04:13Z",
-   "status": "live",
+   "title": "¿TikTok trabaja para CHINA? La jefa regional revela TODA la verdad | Sello Argento",
+   "publishedAt": "2026-10-27T23:02:42Z",
+   "status": "none",
    "start": "2026-10-27T22:00:00Z",
    "channel": "El Cronista Stream",
    "handle": "@Cronista_ar",
@@ -1113,8 +1083,8 @@
   "FiPC4tls4ag": {
    "id": "FiPC4tls4ag",
    "title": "#11 - El Co-Fundador de Belo, Edwin Rager",
-   "publishedAt": "2026-10-27T13:19:44Z",
-   "status": "upcoming",
+   "publishedAt": "2026-10-28T01:00:10Z",
+   "status": "live",
    "start": "2026-10-28T01:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -1124,6 +1094,32 @@
    "via": {},
    "people": [],
    "firstSeen": 1793139062585
+  },
+  "cGDk4IY1eeU": {
+   "id": "cGDk4IY1eeU",
+   "title": "¿TIKTOK TRABAJA CON CHINA?",
+   "publishedAt": "2026-10-28T00:33:03Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793150389382
+  },
+  "uzGUQEHPOMs": {
+   "id": "uzGUQEHPOMs",
+   "title": "\"LA INVERSIÓN ES LA PROTAGONISTA DEL MODELO MILEI\" | Julián Yosovitch en Cuentas Claras",
+   "publishedAt": "2026-10-27T23:00:01Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793150389382
   }
  },
  "sent": {
