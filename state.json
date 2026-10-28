@@ -5,83 +5,10 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "G5sOW8MhtVM": {
-   "id": "G5sOW8MhtVM",
-   "title": "Producto vs. Servicio",
-   "publishedAt": "2026-10-24T15:00:34Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792856811282
-  },
-  "ts3OEA6CKxc": {
-   "id": "ts3OEA6CKxc",
-   "title": "La soledad del emprendedor",
-   "publishedAt": "2026-10-24T14:00:25Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792856811282
-  },
-  "uX3OMzWVpNY": {
-   "id": "uX3OMzWVpNY",
-   "title": "Emprender, fundirse y volver a intentarlo",
-   "publishedAt": "2026-10-24T14:00:00Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792856811282
-  },
-  "WRNG-0ty31U": {
-   "id": "WRNG-0ty31U",
-   "title": "#32 - De startup a transaccionar 4.000.000.000 por año, Lucas Posada",
-   "publishedAt": "2026-10-23T23:00:09Z",
-   "status": "none",
-   "start": "2026-10-23T23:00:00Z",
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792856811282
-  },
   "Wctdj8pjuGQ": {
    "id": "Wctdj8pjuGQ",
    "title": "MILEI vs. KICILLOF: MARIANA BREY los comparó y desató la FURIA | Nada Personal",
    "publishedAt": "2026-10-24T17:30:32Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792864269143
-  },
-  "ZD4LWkeb1uY": {
-   "id": "ZD4LWkeb1uY",
-   "title": "LACUNZA: \"HAY QUE REEMPLAZAR LA MOTOSIERRA POR LA PALA\"",
-   "publishedAt": "2026-10-24T17:07:04Z",
    "status": "none",
    "start": null,
    "channel": "El Cronista Stream",
@@ -1120,6 +1047,73 @@
    "via": {},
    "people": [],
    "firstSeen": 1793170926656
+  },
+  "qOjn8Q2jw-k": {
+   "id": "qOjn8Q2jw-k",
+   "title": "🔴 EN VIVO | DISCURSO DE JAVIER MILEI DESDE CATAMARCA",
+   "publishedAt": "2026-10-28T13:57:55Z",
+   "status": "live",
+   "start": "2026-10-28T13:57:55Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793195994946
+  },
+  "zCI-QAnLPhY": {
+   "id": "zCI-QAnLPhY",
+   "title": "🟡 EN VIVO | PULSO FINANCIERO con Willy Laborda, Yayi Morales y Santi Escobar",
+   "publishedAt": "2026-10-28T12:54:10Z",
+   "status": "live",
+   "start": "2026-10-28T14:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793195994946
+  },
+  "eFhBqWIT-3w": {
+   "id": "eFhBqWIT-3w",
+   "title": "🟣 EN VIVO | CUENTAS CLARAS con Sebas Davidovsky y Cata De Elía",
+   "publishedAt": "2026-10-28T12:54:48Z",
+   "status": "upcoming",
+   "start": "2026-10-28T15:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793195994946
+  },
+  "7tqiDUhC9sM": {
+   "id": "7tqiDUhC9sM",
+   "title": "ANALISTA INTERNACIONAL, LAPIDARIO CON LULA: \"ES UN ESCÁNDALO\"",
+   "publishedAt": "2026-10-28T11:07:15Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793195994946
+  },
+  "RmpjkCHorWs": {
+   "id": "RmpjkCHorWs",
+   "title": "#69 - Creció en una villa y hoy es el agente más premiado de Remax, Mario Castro",
+   "publishedAt": "2026-10-28T06:15:09Z",
+   "status": "upcoming",
+   "start": "2026-10-28T23:00:00Z",
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793195994946
   }
  },
  "sent": {
@@ -1198,15 +1192,18 @@
   "ex61addrEs4:new": 1793139062585,
   "vRgydoJhuzI:new": 1793139062585,
   "d2_THKpdiL4:new": 1793139062585,
-  "hvNVEbUFCr0:new": 1793139062585
+  "hvNVEbUFCr0:new": 1793139062585,
+  "FiPC4tls4ag:new": 1793195994946,
+  "VBio4uM8Cuc:new": 1793195994946,
+  "RmpjkCHorWs:new": 1793195994946
  },
  "day": {
   "date": "2026-10-28",
-  "count": 0
+  "count": 3
  },
  "initialized": true,
- "lastDigest": "2026-10-27",
- "lastDigestAt": 1793103521901,
+ "lastDigest": "2026-10-28",
+ "lastDigestAt": 1793195994946,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
