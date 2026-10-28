@@ -5,75 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "GyP8UF-2wgA": {
-   "id": "GyP8UF-2wgA",
-   "title": "Brasil elige entre LULA y BOLSONARO: cómo impacta en MILEI y la DERECHA REGIONAL | Fabián Calle",
-   "publishedAt": "2026-10-25T17:18:57Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792949915741
-  },
-  "QDu4ZpBjOFQ": {
-   "id": "QDu4ZpBjOFQ",
-   "title": "\"LE INVENTAN CAUSAS\" la DEFENSA de EDUARDO VALDÉS a CRISTINA KIRCHNER",
-   "publishedAt": "2026-10-25T17:12:34Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792949915741
-  },
-  "W8ubWhT-ljs": {
-   "id": "W8ubWhT-ljs",
-   "title": "\"NOS LLENARON LA CARA DE DÉFICIT FISCAL\"",
-   "publishedAt": "2026-10-25T17:07:50Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792949915741
-  },
-  "ji_23q2JZ50": {
-   "id": "ji_23q2JZ50",
-   "title": "CRECER puede FUNDIR tu EMPRESA: ¿CÓMO EVITARLO? | Jonatan Loidi",
-   "publishedAt": "2026-10-25T15:26:40Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [
-    "Sin Manual"
-   ],
-   "via": {
-    "Sin Manual": "el título"
-   },
-   "people": [],
-   "firstSeen": 1792949915741
-  },
-  "rpdCuGwK2H4": {
-   "id": "rpdCuGwK2H4",
-   "title": "¿SIRVE LA LEY DE ETIQUETADO FRONTAL?",
-   "publishedAt": "2026-10-25T14:42:11Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1792949915741
-  },
   "x8KKmZkhjAc": {
    "id": "x8KKmZkhjAc",
    "title": "Bolsonaro y Milei: por qué un cambio político en Brasil FAVORECERÍA a Argentina",
@@ -976,8 +907,8 @@
   "RmpjkCHorWs": {
    "id": "RmpjkCHorWs",
    "title": "#69 - Creció en una villa y hoy es el agente más premiado de Remax, Mario Castro",
-   "publishedAt": "2026-10-28T06:15:09Z",
-   "status": "upcoming",
+   "publishedAt": "2026-10-28T23:00:10Z",
+   "status": "live",
    "start": "2026-10-28T23:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -990,7 +921,7 @@
   },
   "e-kI0al2sBI": {
    "id": "e-kI0al2sBI",
-   "title": "Milei, entre LULA y TRUMP: la alianza que definirá el futuro comercial de Argentina | Fabián Calle",
+   "title": "¿LA ARGENTINA DE MILEI SE LA JUEGA POR TRUMP Y EE.UU? Fabián Calle",
    "publishedAt": "2026-10-28T19:00:04Z",
    "status": "none",
    "start": null,
@@ -1029,9 +960,9 @@
   },
   "IsRxvbctsQk": {
    "id": "IsRxvbctsQk",
-   "title": "🔴 EN VIVO | NADA PERSONAL con Mariana Brey, Antonio Aracre, Agustín D´Attellis y Mariano Gorodisch",
+   "title": "LULA REELECTO Y BOLSONARO ABANDONA BRASIL: \"SOY EL PRESIDENTE ELECTO\" | NADA PERSONAL EN VIVO",
    "publishedAt": "2026-10-28T17:02:27Z",
-   "status": "upcoming",
+   "status": "live",
    "start": "2026-10-28T23:00:00Z",
    "channel": "El Cronista Stream",
    "handle": "@Cronista_ar",
@@ -1108,6 +1039,73 @@
    "via": {},
    "people": [],
    "firstSeen": 1793215539387
+  },
+  "29sy62R9xJY": {
+   "id": "29sy62R9xJY",
+   "title": "Viajar en COLECTIVO podría costar casi el TRIPLE sin subsidios | Rochi Grimaldi",
+   "publishedAt": "2026-10-28T22:00:22Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793229820475
+  },
+  "9xuUp-T5Pn4": {
+   "id": "9xuUp-T5Pn4",
+   "title": "¿CÓMO PASAMOS DEL ORO AL DÓLAR?",
+   "publishedAt": "2026-10-28T21:05:18Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793229820475
+  },
+  "jOXBk0XDBuY": {
+   "id": "jOXBk0XDBuY",
+   "title": "El Gobierno dice que tiene los dólares, pero el mercado detecta un faltante | Cuentas Claras",
+   "publishedAt": "2026-10-28T20:30:30Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793229820475
+  },
+  "4BoqytWhDMg": {
+   "id": "4BoqytWhDMg",
+   "title": "\"LOS ARGENTINOS QUEREMOS GASTAR MÁS DE LO QUE TENEMOS Y DESPUÉS NO QUEREMOS PAGAR\"",
+   "publishedAt": "2026-10-28T19:50:03Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793229820475
+  },
+  "U-W3IHbpQDU": {
+   "id": "U-W3IHbpQDU",
+   "title": "El entrenamiento mental de Enzo Fernández",
+   "publishedAt": "2026-10-28T20:00:36Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793229820475
   }
  },
  "sent": {
@@ -1191,11 +1189,12 @@
   "VBio4uM8Cuc:new": 1793195994946,
   "RmpjkCHorWs:new": 1793195994946,
   "FBdzjY066uw:new": 1793215539387,
-  "iyMbOdVJ3Hc:new": 1793215539387
+  "iyMbOdVJ3Hc:new": 1793215539387,
+  "U-W3IHbpQDU:new": 1793229820475
  },
  "day": {
   "date": "2026-10-28",
-  "count": 5
+  "count": 6
  },
  "initialized": true,
  "lastDigest": "2026-10-28",
