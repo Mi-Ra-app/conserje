@@ -5,71 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "NXk7tiRCWnk": {
-   "id": "NXk7tiRCWnk",
-   "title": "\"VA A TENER UN MANDATO MUY DIFÍCIL\": La PREDICCIÓN de un ANALISTA sobre el TRIUNFO de LULA en BRASIL",
-   "publishedAt": "2026-10-26T17:09:49Z",
-   "status": "none",
-   "start": "2026-10-26T15:00:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793035838084
-  },
-  "JlLl5nsw2aY": {
-   "id": "JlLl5nsw2aY",
-   "title": "Argentina ante una OPORTUNIDAD HISTÓRICA: ¿El PLAN de MILEI CAMBIA TODO?",
-   "publishedAt": "2026-10-26T17:00:01Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793035838084
-  },
-  "WwwhAdA0B8U": {
-   "id": "WwwhAdA0B8U",
-   "title": "LUNES NEGRO EN BRASIL: ¿QUÉ HERENCIA SE DEJA LULA A SÍ MISMO?",
-   "publishedAt": "2026-10-26T16:27:02Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793035838084
-  },
-  "Aih79Sxjv40": {
-   "id": "Aih79Sxjv40",
-   "title": "“EL PROBLEMA DE LULA ES SU PROPIA HERENCIA”: Willy Laborda REACCIONA a las ELECCIONES en BRASIL",
-   "publishedAt": "2026-10-26T17:57:44Z",
-   "status": "none",
-   "start": "2026-10-26T14:00:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793035838084
-  },
-  "dxWQ-ZFoOM8": {
-   "id": "dxWQ-ZFoOM8",
-   "title": "LULA DIO EL BATACAZO EN BRASIL: Así REACCIONARON los MERCADOS MUNDIALES | Pulso Financiero",
-   "publishedAt": "2026-10-26T15:14:53Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793035838084
-  },
   "GAvZ5p6J44o": {
    "id": "GAvZ5p6J44o",
    "title": "BRASIL CAMBIÓ DE RUMBO Y EL MERCADO REACCIONÓ: ¿qué pierde la Argentina? | Yayi Morales",
@@ -156,51 +91,6 @@
    "id": "4I9dmgNWOyc",
    "title": "Rafa Guerrero: ¿POR QUÉ REACCIONAMOS ASÍ? | La Fórmula Podcast",
    "publishedAt": "2026-10-14T19:00:25Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793051514139
-  },
-  "tipWfAC96ss": {
-   "id": "tipWfAC96ss",
-   "title": "Rafa Guerrero: “LA ADICCIÓN NO ES EL PROBLEMA, ES LA SOLUCIÓN” | La Fórmula Podcast",
-   "publishedAt": "2026-10-14T18:00:29Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793051514139
-  },
-  "JlBUsWYY9ug": {
-   "id": "JlBUsWYY9ug",
-   "title": "Rafa Guerrero: LA ÚNICA FORMA DE REGULAR TUS EMOCIONES | La Fórmula Podcast",
-   "publishedAt": "2026-10-14T17:00:09Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793051514139
-  },
-  "usH0-TSY91A": {
-   "id": "usH0-TSY91A",
-   "title": "Rafa Guerrero: ¿POR QUÉ ESTAMOS TRISTES TENIÉNDOLO TODO? | La Fórmula Podcast",
-   "publishedAt": "2026-10-14T15:24:47Z",
    "status": "none",
    "start": null,
    "channel": "La Fórmula Podcast",
@@ -1106,6 +996,116 @@
    "via": {},
    "people": [],
    "firstSeen": 1793241381117
+  },
+  "5zpqBeUiYxA": {
+   "id": "5zpqBeUiYxA",
+   "title": "MILEI Y CAPUTO RENOVARON TODA LA DEUDA: JULIÁN YOSOVITCH | CUENTAS CLARAS EN VIVO",
+   "publishedAt": "2026-10-29T12:47:17Z",
+   "status": "live",
+   "start": "2026-10-29T15:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793288828749
+  },
+  "fd3J554s1Zs": {
+   "id": "fd3J554s1Zs",
+   "title": "\"NO RECUERDO UN PRESIDENTE QUE CAUSE TANTA IMPRESIÓN COMO ÉL\": Experto REACCIONA a Milei",
+   "publishedAt": "2026-10-29T12:45:45Z",
+   "status": "none",
+   "start": "2026-10-29T14:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793288828749
+  },
+  "KKKfD8T3lKc": {
+   "id": "KKKfD8T3lKc",
+   "title": "COMPRAR, VENDER O MANTENER: RECOMENDACIONES PARA TU CARTERA por Pablo Finanzas",
+   "publishedAt": "2026-10-29T14:50:41Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793288828749
+  },
+  "HVKaAzwXd3s": {
+   "id": "HVKaAzwXd3s",
+   "title": "Flavio Bolsonaro dejó Brasil y lanzó una GRAVE ACUSACIÓN contra Lula | Nada Personal",
+   "publishedAt": "2026-10-29T14:30:37Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793288828749
+  },
+  "UUFiyBKRPTU": {
+   "id": "UUFiyBKRPTU",
+   "title": "Habilitaciones digitales y silencio positivo: la reforma que impulsa La Libertad Avanza",
+   "publishedAt": "2026-10-29T13:18:04Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793288828749
+  },
+  "2lwwg8247yc": {
+   "id": "2lwwg8247yc",
+   "title": "🔵 EN VIVO | SIN MANUAL con Jonatan Loidi, Gaita González, Elena Financiera y Seba Koroch",
+   "publishedAt": "2026-10-29T12:49:35Z",
+   "status": "upcoming",
+   "start": "2026-10-29T17:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [
+    "Sin Manual"
+   ],
+   "via": {
+    "Sin Manual": "el título"
+   },
+   "people": [],
+   "firstSeen": 1793288828749
+  },
+  "S_hovV6Vx3o": {
+   "id": "S_hovV6Vx3o",
+   "title": "¿ESTÁ BIEN QUE SE HAYA IDO BOLSONARO?",
+   "publishedAt": "2026-10-29T11:10:56Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793288828749
+  },
+  "_DbLfH2QlZw": {
+   "id": "_DbLfH2QlZw",
+   "title": "¡Vamos a recuperar las Malvinas y los ingleses lo saben!",
+   "publishedAt": "2026-10-29T15:00:04Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793288828749
   }
  },
  "sent": {
@@ -1190,15 +1190,18 @@
   "RmpjkCHorWs:new": 1793195994946,
   "FBdzjY066uw:new": 1793215539387,
   "iyMbOdVJ3Hc:new": 1793215539387,
-  "U-W3IHbpQDU:new": 1793229820475
+  "U-W3IHbpQDU:new": 1793229820475,
+  "2lwwg8247yc:new": 1793288828749,
+  "2lwwg8247yc:300": 1793288828749,
+  "_DbLfH2QlZw:new": 1793288828749
  },
  "day": {
   "date": "2026-10-29",
-  "count": 0
+  "count": 2
  },
  "initialized": true,
- "lastDigest": "2026-10-28",
- "lastDigestAt": 1793195994946,
+ "lastDigest": "2026-10-29",
+ "lastDigestAt": 1793288828749,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
