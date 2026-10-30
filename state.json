@@ -5,73 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "q7clSIEoJ1M": {
-   "id": "q7clSIEoJ1M",
-   "title": "TIKTOK POR DENTRO EN #SELLOARGENTO",
-   "publishedAt": "2026-10-27T22:06:04Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793139062585
-  },
-  "i_U6BOPLETI": {
-   "id": "i_U6BOPLETI",
-   "title": "YOSOVITCH confía en la REELECCIÓN de MILEI: \"NOS INUNDAMOS DE DÓLARES\"",
-   "publishedAt": "2026-10-27T21:00:33Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793139062585
-  },
-  "cGDk4IY1eeU": {
-   "id": "cGDk4IY1eeU",
-   "title": "¿TIKTOK TRABAJA CON CHINA?",
-   "publishedAt": "2026-10-28T00:33:03Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793150389382
-  },
-  "uzGUQEHPOMs": {
-   "id": "uzGUQEHPOMs",
-   "title": "\"LA INVERSIÓN ES LA PROTAGONISTA DEL MODELO MILEI\" | Julián Yosovitch en Cuentas Claras",
-   "publishedAt": "2026-10-27T23:00:01Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793150389382
-  },
-  "VBio4uM8Cuc": {
-   "id": "VBio4uM8Cuc",
-   "title": "De barman a fundar una empresa líder en Latam",
-   "publishedAt": "2026-10-28T02:51:26Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793170926656
-  },
   "qOjn8Q2jw-k": {
    "id": "qOjn8Q2jw-k",
    "title": "🔴 EN VIVO | DISCURSO DE JAVIER MILEI DESDE CATAMARCA",
@@ -107,34 +40,6 @@
    "channel": "El Cronista Stream",
    "handle": "@Cronista_ar",
    "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793195994946
-  },
-  "7tqiDUhC9sM": {
-   "id": "7tqiDUhC9sM",
-   "title": "ANALISTA INTERNACIONAL, LAPIDARIO CON LULA: \"ES UN ESCÁNDALO\"",
-   "publishedAt": "2026-10-28T11:07:15Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793195994946
-  },
-  "RmpjkCHorWs": {
-   "id": "RmpjkCHorWs",
-   "title": "#69 - Creció en una villa y hoy es el agente más premiado de Remax, Mario Castro",
-   "publishedAt": "2026-10-28T23:00:10Z",
-   "status": "none",
-   "start": "2026-10-28T23:00:00Z",
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
    "via": {},
    "people": [],
    "firstSeen": 1793195994946
@@ -420,7 +325,7 @@
   },
   "HVKaAzwXd3s": {
    "id": "HVKaAzwXd3s",
-   "title": "Flavio Bolsonaro dejó Brasil y lanzó una GRAVE ACUSACIÓN contra Lula | Nada Personal",
+   "title": "BOLSONARO agradeció a TRUMP y MILEI y se declara el LÍDER de BRASIL | Nada Personal",
    "publishedAt": "2026-10-29T14:30:37Z",
    "status": "none",
    "start": null,
@@ -941,7 +846,7 @@
   "XWgXwcrLrrk": {
    "id": "XWgXwcrLrrk",
    "title": "\"LA CLAVE ESTÁ EN EL SENADO\": MILEI, CON UN OJO PUESTO EN LAS ELECCIONES DE EE.UU",
-   "publishedAt": "2026-10-30T12:58:58Z",
+   "publishedAt": "2026-10-30T19:44:15Z",
    "status": "none",
    "start": "2026-10-30T15:00:00Z",
    "channel": "El Cronista Stream",
@@ -981,9 +886,9 @@
   },
   "Suvm1fAshTs": {
    "id": "Suvm1fAshTs",
-   "title": "🔴 EN VIVO | LQD con Juli Zancada, Andrew Losano, Sofi Altuna y Pablo Finanzas",
-   "publishedAt": "2026-10-30T14:45:16Z",
-   "status": "live",
+   "title": "\"EL HACKEO MÁS GRANDE DE LA HISTORIA\": La mirada de PABLO FINANZAS sobre BINANCE | LQD",
+   "publishedAt": "2026-10-30T19:39:04Z",
+   "status": "none",
    "start": "2026-10-30T17:00:00Z",
    "channel": "El Cronista Stream",
    "handle": "@Cronista_ar",
@@ -1118,6 +1023,101 @@
    "via": {},
    "people": [],
    "firstSeen": 1793385747676
+  },
+  "NuxwYI8WsGU": {
+   "id": "NuxwYI8WsGU",
+   "title": "¿POR QUÉ NO REPUNTA LA ECONOMÍA?",
+   "publishedAt": "2026-10-30T22:34:21Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793399971937
+  },
+  "FY4JhaCPcF0": {
+   "id": "FY4JhaCPcF0",
+   "title": "¿CÓMO APROVECHAR EL CYBERMONDAY=",
+   "publishedAt": "2026-10-30T20:46:27Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793399971937
+  },
+  "s8c25eNgh8U": {
+   "id": "s8c25eNgh8U",
+   "title": "EE.UU prepara una LLUVIA de DÓLARES para ARGENTINA: ¿apuestan por MILEI?",
+   "publishedAt": "2026-10-30T20:30:17Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793399971937
+  },
+  "Fb8dl4U7IHU": {
+   "id": "Fb8dl4U7IHU",
+   "title": "¿EL MODELO DE MILEI NO ALCANZA? La advertencia sobre el futuro de la Argentina | Luis Naidenoff",
+   "publishedAt": "2026-10-30T19:35:57Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793399971937
+  },
+  "AH-YdVvDxaU": {
+   "id": "AH-YdVvDxaU",
+   "title": "¿QUÉ CERVEZA VA CON VOS?",
+   "publishedAt": "2026-10-30T19:27:17Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793399971937
+  },
+  "XMOreU9Xyos": {
+   "id": "XMOreU9Xyos",
+   "title": "Joven inversor: Dónde está la clave para invertir?",
+   "publishedAt": "2026-10-30T19:57:46Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793399971937
+  },
+  "uX8r0FmCRPg": {
+   "id": "uX8r0FmCRPg",
+   "title": "#33 - El joven inversor: de cero a 1M de suscriptores, Agustín Natoli",
+   "publishedAt": "2026-10-30T08:11:40Z",
+   "status": "upcoming",
+   "start": "2026-10-30T23:00:00Z",
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793399971937
   }
  },
  "sent": {
@@ -1213,11 +1213,13 @@
   "DCn1_9FXUzw:new": 1793306871317,
   "V-WGfICCUa4:new": 1793306871317,
   "wm35atoc7VI:new": 1793385747676,
-  "OhJdLu2yJ6o:new": 1793385747676
+  "OhJdLu2yJ6o:new": 1793385747676,
+  "XMOreU9Xyos:new": 1793399971937,
+  "uX8r0FmCRPg:new": 1793399971937
  },
  "day": {
   "date": "2026-10-30",
-  "count": 2
+  "count": 4
  },
  "initialized": true,
  "lastDigest": "2026-10-30",
