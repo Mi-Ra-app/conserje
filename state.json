@@ -83,60 +83,6 @@
    "people": [],
    "firstSeen": 1793124531494
   },
-  "r44pKon-fKI": {
-   "id": "r44pKon-fKI",
-   "title": "FESTEJAN MILEI Y CAPUTO: EL RIGI SUMA UNA NUEVA INVERSIÓN RÉCORD | Pulso Financiero",
-   "publishedAt": "2026-10-27T14:56:54Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793124531494
-  },
-  "pgWQ-b4Wd_U": {
-   "id": "pgWQ-b4Wd_U",
-   "title": "EN VIVO | Conferencia de prensa del vocero presidencial Adrián Ravier",
-   "publishedAt": "2026-10-28T02:59:48Z",
-   "status": "none",
-   "start": "2026-10-27T14:15:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793124531494
-  },
-  "8pPMtObQBIQ": {
-   "id": "8pPMtObQBIQ",
-   "title": "¿LA OPOSICIÓN FRENA LAS INVERSIONES?",
-   "publishedAt": "2026-10-27T14:08:44Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793124531494
-  },
-  "TPt5xxwmXBg": {
-   "id": "TPt5xxwmXBg",
-   "title": "El equilibrio entre la maternidad y la profesión",
-   "publishedAt": "2026-10-27T16:00:25Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793124531494
-  },
   "q7clSIEoJ1M": {
    "id": "q7clSIEoJ1M",
    "title": "TIKTOK POR DENTRO EN #SELLOARGENTO",
@@ -1110,6 +1056,66 @@
    "via": {},
    "people": [],
    "firstSeen": 1793320371931
+  },
+  "STXKfnCefGs": {
+   "id": "STXKfnCefGs",
+   "title": "#49 - El hombre detrás de la mentalidad ganadora, Estanislao Bachrach",
+   "publishedAt": "2026-10-27T23:00:11Z",
+   "status": "none",
+   "start": "2026-10-27T23:00:00Z",
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793341631248
+  },
+  "5w_1KjkLvUg": {
+   "id": "5w_1KjkLvUg",
+   "title": "Sofía Contreras: MENTALIDAD FIJA VS. MENTALIDAD DE CRECIMIENTO | La Fórmula Podcast",
+   "publishedAt": "2026-10-23T17:00:28Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793341631248
+  },
+  "D0u1_jgafn8": {
+   "id": "D0u1_jgafn8",
+   "title": "Sofía Contreras: LAS DOS CLAVES PARA TU ÉXITO PERSONAL | La Fórmula Podcast",
+   "publishedAt": "2026-10-23T14:14:38Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793341631248
+  },
+  "PNwX2iZgt1M": {
+   "id": "PNwX2iZgt1M",
+   "title": "El error que te hace abandonar tus objetivos con Sofía Contreras | La Fórmula Podcast",
+   "publishedAt": "2026-10-23T11:00:03Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793341631248
   }
  },
  "sent": {
@@ -1206,8 +1212,8 @@
   "V-WGfICCUa4:new": 1793306871317
  },
  "day": {
-  "date": "2026-10-29",
-  "count": 8
+  "date": "2026-10-30",
+  "count": 0
  },
  "initialized": true,
  "lastDigest": "2026-10-29",
