@@ -44,45 +44,6 @@
    "people": [],
    "firstSeen": 1793124531494
   },
-  "hrU0OCvVM6w": {
-   "id": "hrU0OCvVM6w",
-   "title": "El problema que puede COMPLICAR los planes de Milei para 2027 | Pulso Financiero",
-   "publishedAt": "2026-10-27T16:13:07Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793124531494
-  },
-  "-3UVngUU05U": {
-   "id": "-3UVngUU05U",
-   "title": "TikTok anticipa el PRÓXIMO BOOM: ¿Estamos preparados? | Sello Argento",
-   "publishedAt": "2026-10-27T23:02:42Z",
-   "status": "none",
-   "start": "2026-10-27T22:00:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793124531494
-  },
-  "732MF84FmYM": {
-   "id": "732MF84FmYM",
-   "title": "\"ESTAMOS VIVIENDO UNA REVOLUCIÓN\": MILEI APROBÓ UN NUEVO RIGI POR UN PROYECTO MILLONARIO",
-   "publishedAt": "2026-10-27T18:40:55Z",
-   "status": "none",
-   "start": "2026-10-27T14:00:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793124531494
-  },
   "q7clSIEoJ1M": {
    "id": "q7clSIEoJ1M",
    "title": "TIKTOK POR DENTRO EN #SELLOARGENTO",
@@ -1116,6 +1077,47 @@
    "via": {},
    "people": [],
    "firstSeen": 1793341631248
+  },
+  "XWgXwcrLrrk": {
+   "id": "XWgXwcrLrrk",
+   "title": "🟣 EN VIVO | CUENTAS CLARAS con Sebas Davidovsky y Cata De Elía",
+   "publishedAt": "2026-10-30T12:58:58Z",
+   "status": "upcoming",
+   "start": "2026-10-30T15:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793366404608
+  },
+  "M1yGb5MmuRs": {
+   "id": "M1yGb5MmuRs",
+   "title": "🟡 EN VIVO | PULSO FINANCIERO con Willy Laborda, Yayi Morales y Santi Escobar",
+   "publishedAt": "2026-10-30T12:56:47Z",
+   "status": "upcoming",
+   "start": "2026-10-30T14:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793366404608
+  },
+  "e0kcMlGVwEE": {
+   "id": "e0kcMlGVwEE",
+   "title": "Lo que la muerte nos enseña sobre la vida con Darío Sztajnszrajber | La Fórmula Podcast",
+   "publishedAt": "2026-10-30T11:00:19Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793366404608
   }
  },
  "sent": {
@@ -1216,8 +1218,8 @@
   "count": 0
  },
  "initialized": true,
- "lastDigest": "2026-10-29",
- "lastDigestAt": 1793288828749,
+ "lastDigest": "2026-10-30",
+ "lastDigestAt": 1793366404608,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
