@@ -5,45 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "qOjn8Q2jw-k": {
-   "id": "qOjn8Q2jw-k",
-   "title": "🔴 EN VIVO | DISCURSO DE JAVIER MILEI DESDE CATAMARCA",
-   "publishedAt": "2026-10-28T16:49:35Z",
-   "status": "none",
-   "start": "2026-10-28T13:57:55Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793195994946
-  },
-  "zCI-QAnLPhY": {
-   "id": "zCI-QAnLPhY",
-   "title": "“EL 70% DEL RIESGO ES EL MISMO GOBIERNO”: la FUERTE ADVERTENCIA de un ECONOMISTA",
-   "publishedAt": "2026-10-28T15:56:57Z",
-   "status": "none",
-   "start": "2026-10-28T14:00:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793195994946
-  },
-  "eFhBqWIT-3w": {
-   "id": "eFhBqWIT-3w",
-   "title": "\"LOS ARGENTINOS SIGUEN AHORRANDO EN DÓLARES\": ECONOMISTA EXPLICA EL POR QUÉ",
-   "publishedAt": "2026-10-28T17:09:46Z",
-   "status": "none",
-   "start": "2026-10-28T15:00:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793195994946
-  },
   "e-kI0al2sBI": {
    "id": "e-kI0al2sBI",
    "title": "¿LA ARGENTINA DE MILEI SE LA JUEGA POR TRUMP Y EE.UU? Fabián Calle",
@@ -139,21 +100,6 @@
    "id": "FBdzjY066uw",
    "title": "\"Mi mujer me hizo más humano\"",
    "publishedAt": "2026-10-28T19:00:02Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793215539387
-  },
-  "iyMbOdVJ3Hc": {
-   "id": "iyMbOdVJ3Hc",
-   "title": "¿La presión es un privilegio?",
-   "publishedAt": "2026-10-28T18:00:37Z",
    "status": "none",
    "start": null,
    "channel": "La Fábrica Podcast",
@@ -1107,8 +1053,8 @@
   "uX8r0FmCRPg": {
    "id": "uX8r0FmCRPg",
    "title": "#33 - El joven inversor: de cero a 1M de suscriptores, Agustín Natoli",
-   "publishedAt": "2026-10-30T08:11:40Z",
-   "status": "upcoming",
+   "publishedAt": "2026-10-30T23:00:11Z",
+   "status": "none",
    "start": "2026-10-30T23:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -1118,6 +1064,62 @@
    "via": {},
    "people": [],
    "firstSeen": 1793399971937
+  },
+  "e97x1m3PfWM": {
+   "id": "e97x1m3PfWM",
+   "title": "¿MILEI SUPERA LA AGRESIVIDAD KIRCHNERISTA?",
+   "publishedAt": "2026-10-31T00:32:11Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793411278415
+  },
+  "ICq9ICgyzVY": {
+   "id": "ICq9ICgyzVY",
+   "title": "TRUMP SE JUEGA MUCHO MÁS QUE UNA ELECCIÓN DE MEDIO TÉRMINO EN ESTADOS UNIDOS",
+   "publishedAt": "2026-10-31T00:00:10Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793411278415
+  },
+  "RmpjkCHorWs": {
+   "id": "RmpjkCHorWs",
+   "title": "#69 - Creció en una villa y hoy es el agente más premiado de Remax, Mario Castro",
+   "publishedAt": "2026-10-28T23:00:10Z",
+   "status": "none",
+   "start": "2026-10-28T23:00:00Z",
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793411278415
+  },
+  "VBio4uM8Cuc": {
+   "id": "VBio4uM8Cuc",
+   "title": "De barman a fundar una empresa líder en Latam",
+   "publishedAt": "2026-10-28T02:51:26Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793411278415
   }
  },
  "sent": {
