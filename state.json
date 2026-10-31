@@ -5,58 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "e-kI0al2sBI": {
-   "id": "e-kI0al2sBI",
-   "title": "¿LA ARGENTINA DE MILEI SE LA JUEGA POR TRUMP Y EE.UU? Fabián Calle",
-   "publishedAt": "2026-10-28T19:00:04Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793215539387
-  },
-  "EpVItchQ5gU": {
-   "id": "EpVItchQ5gU",
-   "title": "¿CUÁL ES EL RIESGO ECONÓMICO?",
-   "publishedAt": "2026-10-28T17:38:09Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793215539387
-  },
-  "C4dLTUWAKS8": {
-   "id": "C4dLTUWAKS8",
-   "title": "Argentina empieza a recibir dólares de una fuente que antes no tenía | María Castiglioni",
-   "publishedAt": "2026-10-28T17:30:06Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793215539387
-  },
-  "IsRxvbctsQk": {
-   "id": "IsRxvbctsQk",
-   "title": "\"FUE UN FRAUDE ELECTORAL\": BOLSONARÓ HABLÓ DESDE EE.UU Y NO SE GUARDÓ NADA",
-   "publishedAt": "2026-10-29T00:51:24Z",
-   "status": "none",
-   "start": "2026-10-28T23:00:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793215539387
-  },
   "29sy62R9xJY": {
    "id": "29sy62R9xJY",
    "title": "Viajar en COLECTIVO podría costar casi el TRIPLE sin subsidios | Rochi Grimaldi",
@@ -105,21 +53,6 @@
    "channel": "El Cronista Stream",
    "handle": "@Cronista_ar",
    "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793229820475
-  },
-  "U-W3IHbpQDU": {
-   "id": "U-W3IHbpQDU",
-   "title": "El entrenamiento mental de Enzo Fernández",
-   "publishedAt": "2026-10-28T20:00:36Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
    "via": {},
    "people": [],
    "firstSeen": 1793229820475
@@ -1124,6 +1057,75 @@
    "via": {},
    "people": [],
    "firstSeen": 1793455928898
+  },
+  "24XPxwYoqsg": {
+   "id": "24XPxwYoqsg",
+   "title": "“ARGENTINA TIENE EL APOYO DE LA PRIMERA POTENCIA”: Economista revela el sostén externo para Milei",
+   "publishedAt": "2026-10-31T18:00:27Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793471641407
+  },
+  "t10e0QfY__o": {
+   "id": "t10e0QfY__o",
+   "title": "¿QUÉ ESTÁ PASANDO EN EUROPA?: \"MEZCLAN FEMINISMO E ISLAMISMO\"",
+   "publishedAt": "2026-10-31T17:09:27Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793471641407
+  },
+  "sgBe9IRTxQQ": {
+   "id": "sgBe9IRTxQQ",
+   "title": "Alquileres de hasta $14 MILLONES: el negocio detrás de la visita del PAPA | Rochi Grimaldi",
+   "publishedAt": "2026-10-31T15:00:38Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793471641407
+  },
+  "9Qx57oh2-2o": {
+   "id": "9Qx57oh2-2o",
+   "title": "Vivir para la longevidad ¿es vivir?",
+   "publishedAt": "2026-10-31T15:00:20Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793471641407
+  },
+  "cISu2oGunhI": {
+   "id": "cISu2oGunhI",
+   "title": "La pasión por el trabajo y el legado familiar",
+   "publishedAt": "2026-10-31T15:00:04Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793471641407
   }
  },
  "sent": {
@@ -1222,11 +1224,13 @@
   "OhJdLu2yJ6o:new": 1793385747676,
   "XMOreU9Xyos:new": 1793399971937,
   "uX8r0FmCRPg:new": 1793399971937,
-  "IGkl9Goiqsg:new": 1793455928898
+  "IGkl9Goiqsg:new": 1793455928898,
+  "9Qx57oh2-2o:new": 1793471641407,
+  "cISu2oGunhI:new": 1793471641407
  },
  "day": {
   "date": "2026-10-31",
-  "count": 1
+  "count": 3
  },
  "initialized": true,
  "lastDigest": "2026-10-31",
