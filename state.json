@@ -96,21 +96,6 @@
    "people": [],
    "firstSeen": 1793215539387
   },
-  "FBdzjY066uw": {
-   "id": "FBdzjY066uw",
-   "title": "\"Mi mujer me hizo más humano\"",
-   "publishedAt": "2026-10-28T19:00:02Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793215539387
-  },
   "29sy62R9xJY": {
    "id": "29sy62R9xJY",
    "title": "Viajar en COLECTIVO podría costar casi el TRIPLE sin subsidios | Rochi Grimaldi",
@@ -1120,6 +1105,21 @@
    "via": {},
    "people": [],
    "firstSeen": 1793411278415
+  },
+  "iyMbOdVJ3Hc": {
+   "id": "iyMbOdVJ3Hc",
+   "title": "¿La presión es un privilegio?",
+   "publishedAt": "2026-10-28T18:00:37Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793433177666
   }
  },
  "sent": {
@@ -1220,8 +1220,8 @@
   "uX8r0FmCRPg:new": 1793399971937
  },
  "day": {
-  "date": "2026-10-30",
-  "count": 4
+  "date": "2026-10-31",
+  "count": 0
  },
  "initialized": true,
  "lastDigest": "2026-10-30",
