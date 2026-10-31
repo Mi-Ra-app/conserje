@@ -5,58 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "29sy62R9xJY": {
-   "id": "29sy62R9xJY",
-   "title": "Viajar en COLECTIVO podría costar casi el TRIPLE sin subsidios | Rochi Grimaldi",
-   "publishedAt": "2026-10-28T22:00:22Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793229820475
-  },
-  "9xuUp-T5Pn4": {
-   "id": "9xuUp-T5Pn4",
-   "title": "¿CÓMO PASAMOS DEL ORO AL DÓLAR?",
-   "publishedAt": "2026-10-28T21:05:18Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793229820475
-  },
-  "jOXBk0XDBuY": {
-   "id": "jOXBk0XDBuY",
-   "title": "El Gobierno dice que tiene los dólares, pero el mercado detecta un faltante | Cuentas Claras",
-   "publishedAt": "2026-10-28T20:30:30Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793229820475
-  },
-  "4BoqytWhDMg": {
-   "id": "4BoqytWhDMg",
-   "title": "\"LOS ARGENTINOS QUEREMOS GASTAR MÁS DE LO QUE TENEMOS Y DESPUÉS NO QUEREMOS PAGAR\"",
-   "publishedAt": "2026-10-28T19:50:03Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793229820475
-  },
   "Jbcm9Mei37I": {
    "id": "Jbcm9Mei37I",
    "title": "¿ARGENTINA está preparada para los AUTOS ELÉCTRICOS? Esto dice un EXPERTO",
@@ -1126,6 +1074,60 @@
    "via": {},
    "people": [],
    "firstSeen": 1793471641407
+  },
+  "775i8vUntos": {
+   "id": "775i8vUntos",
+   "title": "\"ES UN FENÓMENO SUBVERSIVO\": Fabián Calle, SIN FILTRO sobre las protestas en Europa",
+   "publishedAt": "2026-10-31T21:00:11Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793483484631
+  },
+  "0sWSh5DO6XE": {
+   "id": "0sWSh5DO6XE",
+   "title": "¿CÓMO APROVECHAR MEJOR LA IA?",
+   "publishedAt": "2026-10-31T20:04:38Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793483484631
+  },
+  "tpHyaq0ORN4": {
+   "id": "tpHyaq0ORN4",
+   "title": "EL PLAN DEMÓCRATA PARA FRENAR A TRUMP",
+   "publishedAt": "2026-10-31T20:00:02Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793483484631
+  },
+  "U-W3IHbpQDU": {
+   "id": "U-W3IHbpQDU",
+   "title": "El entrenamiento mental de Enzo Fernández",
+   "publishedAt": "2026-10-28T20:00:36Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793483484631
   }
  },
  "sent": {
