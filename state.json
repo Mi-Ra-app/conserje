@@ -100,66 +100,6 @@
    "people": [],
    "firstSeen": 1793306871317
   },
-  "QzCKSunufsQ": {
-   "id": "QzCKSunufsQ",
-   "title": "De vivir en una casa rodante a CEO",
-   "publishedAt": "2026-10-29T20:10:45Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793306871317
-  },
-  "s1mAlOU-oWE": {
-   "id": "s1mAlOU-oWE",
-   "title": "Lo importante no es que venga, sino que vuelva",
-   "publishedAt": "2026-10-29T19:00:20Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793306871317
-  },
-  "6xFvbbW5A30": {
-   "id": "6xFvbbW5A30",
-   "title": "¿Cómo lo mental ayudó a River a volver de la B?",
-   "publishedAt": "2026-10-29T19:00:07Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793306871317
-  },
-  "DCn1_9FXUzw": {
-   "id": "DCn1_9FXUzw",
-   "title": "Los 3 consejos para vivir más y mejor",
-   "publishedAt": "2026-10-29T16:00:37Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793306871317
-  },
   "wbl9K-f88nI": {
    "id": "wbl9K-f88nI",
    "title": "¿QUÉ LE FALTA AL LIDERAZGO?",
@@ -1136,6 +1076,60 @@
    "via": {},
    "people": [],
    "firstSeen": 1793558826954
+  },
+  "juIV6vJWCPA": {
+   "id": "juIV6vJWCPA",
+   "title": "El Gobierno evita otra suba del boleto, pero el costo aparece en otro lugar | Rochi Gimaldi",
+   "publishedAt": "2026-11-01T21:00:33Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793572415681
+  },
+  "wpmokUNp47M": {
+   "id": "wpmokUNp47M",
+   "title": "¿ES MOMENTO DE COMPRAR NVIDIA?",
+   "publishedAt": "2026-11-01T20:04:01Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793572415681
+  },
+  "KgxALyih5Rg": {
+   "id": "KgxALyih5Rg",
+   "title": "CÓMO TENER UN PERFIL DE LINKEDIN MÁS ATRACTIVO PARA RECLUTADORES Y EMPRESAS",
+   "publishedAt": "2026-11-01T20:00:16Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793572415681
+  },
+  "BE1B_78E6o4": {
+   "id": "BE1B_78E6o4",
+   "title": "El recuerdo de una infancia al clic para ir por sus sueños",
+   "publishedAt": "2026-11-01T21:00:16Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793572415681
   }
  },
  "sent": {
