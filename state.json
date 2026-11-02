@@ -87,19 +87,6 @@
    "people": [],
    "firstSeen": 1793306871317
   },
-  "ApXH9ZvTMHk": {
-   "id": "ApXH9ZvTMHk",
-   "title": "¿Existe la MALA PUBLICIDAD? La verdad detrás de las campañas que FRACASAN",
-   "publishedAt": "2026-10-29T16:00:00Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793306871317
-  },
   "wbl9K-f88nI": {
    "id": "wbl9K-f88nI",
    "title": "¿QUÉ LE FALTA AL LIDERAZGO?",
@@ -1035,8 +1022,8 @@
   "wpQhHPWjWg0": {
    "id": "wpQhHPWjWg0",
    "title": "#126 - El colla que le vende millones de dólares a la minería, Luis Vacazur",
-   "publishedAt": "2026-11-01T15:24:56Z",
-   "status": "upcoming",
+   "publishedAt": "2026-11-01T23:00:11Z",
+   "status": "none",
    "start": "2026-11-01T23:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -1130,6 +1117,19 @@
    "via": {},
    "people": [],
    "firstSeen": 1793572415681
+  },
+  "n-7DMxa_qBw": {
+   "id": "n-7DMxa_qBw",
+   "title": "EL TRANSPORTE PÚBLICO ARGENTINO ESTÁ EN GRAVES PROBLEMAS",
+   "publishedAt": "2026-11-01T23:12:01Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793584156340
   }
  },
  "sent": {
