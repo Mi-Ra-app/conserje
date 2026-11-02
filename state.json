@@ -74,19 +74,6 @@
    "people": [],
    "firstSeen": 1793306871317
   },
-  "YEYclOZcCYc": {
-   "id": "YEYclOZcCYc",
-   "title": "¿POR QUÉ MILEI TRASCIENDE FRONTERAS?",
-   "publishedAt": "2026-10-29T16:18:51Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793306871317
-  },
   "wbl9K-f88nI": {
    "id": "wbl9K-f88nI",
    "title": "¿QUÉ LE FALTA AL LIDERAZGO?",
@@ -1130,6 +1117,21 @@
    "via": {},
    "people": [],
    "firstSeen": 1793584156340
+  },
+  "DNo9hhTlkO8": {
+   "id": "DNo9hhTlkO8",
+   "title": "#44 - El restaurante más top de José Ignacio, Federico Desseno",
+   "publishedAt": "2026-11-02T01:53:15Z",
+   "status": "upcoming",
+   "start": "2026-11-02T23:00:00Z",
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793609055912
   }
  },
  "sent": {
@@ -1241,8 +1243,8 @@
   "uS81G9Gu2ZU:new": 1793558826954
  },
  "day": {
-  "date": "2026-11-01",
-  "count": 8
+  "date": "2026-11-02",
+  "count": 0
  },
  "initialized": true,
  "lastDigest": "2026-11-01",
