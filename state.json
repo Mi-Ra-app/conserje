@@ -5,103 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "NuxwYI8WsGU": {
-   "id": "NuxwYI8WsGU",
-   "title": "¿POR QUÉ NO REPUNTA LA ECONOMÍA?",
-   "publishedAt": "2026-10-30T22:34:21Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793399971937
-  },
-  "FY4JhaCPcF0": {
-   "id": "FY4JhaCPcF0",
-   "title": "¿CÓMO APROVECHAR EL CYBERMONDAY=",
-   "publishedAt": "2026-10-30T20:46:27Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793399971937
-  },
-  "e97x1m3PfWM": {
-   "id": "e97x1m3PfWM",
-   "title": "¿MILEI SUPERA LA AGRESIVIDAD KIRCHNERISTA?",
-   "publishedAt": "2026-10-31T00:32:11Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793411278415
-  },
-  "ICq9ICgyzVY": {
-   "id": "ICq9ICgyzVY",
-   "title": "TRUMP SE JUEGA MUCHO MÁS QUE UNA ELECCIÓN DE MEDIO TÉRMINO EN ESTADOS UNIDOS",
-   "publishedAt": "2026-10-31T00:00:10Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793411278415
-  },
-  "RmpjkCHorWs": {
-   "id": "RmpjkCHorWs",
-   "title": "#69 - Creció en una villa y hoy es el agente más premiado de Remax, Mario Castro",
-   "publishedAt": "2026-10-28T23:00:10Z",
-   "status": "none",
-   "start": "2026-10-28T23:00:00Z",
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793411278415
-  },
-  "VBio4uM8Cuc": {
-   "id": "VBio4uM8Cuc",
-   "title": "De barman a fundar una empresa líder en Latam",
-   "publishedAt": "2026-10-28T02:51:26Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793411278415
-  },
-  "iyMbOdVJ3Hc": {
-   "id": "iyMbOdVJ3Hc",
-   "title": "¿La presión es un privilegio?",
-   "publishedAt": "2026-10-28T18:00:37Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793433177666
-  },
   "NCH9wkYhPIU": {
    "id": "NCH9wkYhPIU",
    "title": "La revolución de las compras en TikTok que todavía no llegó a la Argentina | Sello Argento",
@@ -111,36 +14,6 @@
    "channel": "El Cronista Stream",
    "handle": "@Cronista_ar",
    "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793455928898
-  },
-  "IGkl9Goiqsg": {
-   "id": "IGkl9Goiqsg",
-   "title": "¿Cómo se maneja la inteligencia emocional?",
-   "publishedAt": "2026-10-31T14:00:17Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793455928898
-  },
-  "FBdzjY066uw": {
-   "id": "FBdzjY066uw",
-   "title": "\"Mi mujer me hizo más humano\"",
-   "publishedAt": "2026-10-28T19:00:02Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
    "via": {},
    "people": [],
    "firstSeen": 1793455928898
@@ -985,9 +858,9 @@
   },
   "Z9j7t6qF2ac": {
    "id": "Z9j7t6qF2ac",
-   "title": "¿ALIVIO PARA LAS PYMES? NUEVOS ANUNCIOS DE CAPUTO: MARCELO CAPELLO | CUENTAS CLARAS EN VIVO",
-   "publishedAt": "2026-11-03T12:27:36Z",
-   "status": "live",
+   "title": "“ES UN ALIVIO PARA LAS PYMES”: El nuevo paquete de medidas de CAPUTO",
+   "publishedAt": "2026-11-03T17:06:51Z",
+   "status": "none",
    "start": "2026-11-03T15:00:00Z",
    "channel": "El Cronista Stream",
    "handle": "@Cronista_ar",
@@ -1120,6 +993,129 @@
    "via": {},
    "people": [],
    "firstSeen": 1793723092669
+  },
+  "tWhMRpWfjCs": {
+   "id": "tWhMRpWfjCs",
+   "title": "Caputo responde a la INDUSTRIA: las medidas para las pymes en dificultades | Cuentas Claras",
+   "publishedAt": "2026-11-03T20:00:31Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793742757548
+  },
+  "a5YHPnMyMFg": {
+   "id": "a5YHPnMyMFg",
+   "title": "¿QUÉ ECONOMÍA DEJARÁ MILEI?",
+   "publishedAt": "2026-11-03T19:25:46Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793742757548
+  },
+  "u0KIcaEzejc": {
+   "id": "u0KIcaEzejc",
+   "title": "¿PUEDE CRECER LA ECONOMÍA ARGENTINA EN AÑO ELECTORAL? La visión de un ECONOMISTA",
+   "publishedAt": "2026-11-03T18:00:34Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793742757548
+  },
+  "e4R-uHSuG3I": {
+   "id": "e4R-uHSuG3I",
+   "title": "LA \"COPA GILDO INSFRÁN\": \"UNA MINI VENEZUELA EN ARGENTINA\"",
+   "publishedAt": "2026-11-03T16:57:59Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793742757548
+  },
+  "-I_9BHXxgw0": {
+   "id": "-I_9BHXxgw0",
+   "title": "🔴 EN VIVO | NADA PERSONAL con Julián Yosovitch, Tony Aracre, Agustín D´Attellis y Mariano Gorodisch",
+   "publishedAt": "2026-11-03T16:57:11Z",
+   "status": "upcoming",
+   "start": "2026-11-03T23:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793742757548
+  },
+  "0CVaDUYkgsc": {
+   "id": "0CVaDUYkgsc",
+   "title": "🔵 EN VIVO | VICTOR FERA, dueño de MAROLIO, en Sello Argento con Jairo Straccia",
+   "publishedAt": "2026-11-03T16:53:08Z",
+   "status": "upcoming",
+   "start": "2026-11-03T22:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793742757548
+  },
+  "A3plnLtBNXg": {
+   "id": "A3plnLtBNXg",
+   "title": "¿Por qué el laburo no suele reconocerse económicamente?",
+   "publishedAt": "2026-11-03T19:48:55Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793742757548
+  },
+  "PhCjsT_hozU": {
+   "id": "PhCjsT_hozU",
+   "title": "#12 - Creó una empresa global en General Pico, Martín D'Amico",
+   "publishedAt": "2026-11-03T16:00:54Z",
+   "status": "upcoming",
+   "start": "2026-11-04T01:00:00Z",
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793742757548
+  },
+  "tJlHSGlhe4w": {
+   "id": "tJlHSGlhe4w",
+   "title": "#50 - Tiziano Gravier, el hijo esquiador de Valeria Mazza",
+   "publishedAt": "2026-11-03T11:38:52Z",
+   "status": "upcoming",
+   "start": "2026-11-03T23:00:00Z",
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793742757548
   }
  },
  "sent": {
@@ -1232,11 +1228,14 @@
   "BE1B_78E6o4:new": 1793645503538,
   "DNo9hhTlkO8:new": 1793645503538,
   "C2HC8YU9kTo:new": 1793645503538,
-  "mSKXtjvdVCc:new": 1793669146957
+  "mSKXtjvdVCc:new": 1793669146957,
+  "A3plnLtBNXg:new": 1793742757548,
+  "PhCjsT_hozU:new": 1793742757548,
+  "tJlHSGlhe4w:new": 1793742757548
  },
  "day": {
   "date": "2026-11-03",
-  "count": 0
+  "count": 3
  },
  "initialized": true,
  "lastDigest": "2026-11-03",
