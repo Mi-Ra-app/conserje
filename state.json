@@ -5,71 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "Suvm1fAshTs": {
-   "id": "Suvm1fAshTs",
-   "title": "\"EL HACKEO MÁS GRANDE DE LA HISTORIA\": La mirada de PABLO FINANZAS sobre BINANCE | LQD",
-   "publishedAt": "2026-10-30T19:39:04Z",
-   "status": "none",
-   "start": "2026-10-30T17:00:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793385747676
-  },
-  "SSy9slcB5kM": {
-   "id": "SSy9slcB5kM",
-   "title": "BINANCE HACKEADO: ¿QUÉ PASARÁ CON LOS ACTIVOS DE LOS USUARIOS?",
-   "publishedAt": "2026-10-30T17:33:22Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793385747676
-  },
-  "3p65uyuC7a0": {
-   "id": "3p65uyuC7a0",
-   "title": "¿EL PLAN DE MILEI ESTÁ REORDENANDO LA ECONOMÍA ARGENTINA? | Fernando Álvarez",
-   "publishedAt": "2026-10-30T16:16:04Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793385747676
-  },
-  "SF9RQxX-VBM": {
-   "id": "SF9RQxX-VBM",
-   "title": "Las elecciones de EE.UU. ponen EN JUEGO el apoyo de TRUMP a MILEI | Iván Cachanosky",
-   "publishedAt": "2026-10-30T14:42:06Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793385747676
-  },
-  "kPZOnWkJ5DM": {
-   "id": "kPZOnWkJ5DM",
-   "title": "DE ALBAÑIL A CONSTRUIR EL FUTURO: \"NO SOY INGENIERO, SOY INGENIOSO\"",
-   "publishedAt": "2026-10-30T14:38:15Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793385747676
-  },
   "NuxwYI8WsGU": {
    "id": "NuxwYI8WsGU",
    "title": "¿POR QUÉ NO REPUNTA LA ECONOMÍA?",
@@ -92,75 +27,6 @@
    "channel": "El Cronista Stream",
    "handle": "@Cronista_ar",
    "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793399971937
-  },
-  "s8c25eNgh8U": {
-   "id": "s8c25eNgh8U",
-   "title": "EE.UU prepara una LLUVIA de DÓLARES para ARGENTINA: ¿apuestan por MILEI?",
-   "publishedAt": "2026-10-30T20:30:17Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793399971937
-  },
-  "Fb8dl4U7IHU": {
-   "id": "Fb8dl4U7IHU",
-   "title": "¿EL MODELO DE MILEI NO ALCANZA? La advertencia sobre el futuro de la Argentina | Luis Naidenoff",
-   "publishedAt": "2026-10-30T19:35:57Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793399971937
-  },
-  "AH-YdVvDxaU": {
-   "id": "AH-YdVvDxaU",
-   "title": "¿QUÉ CERVEZA VA CON VOS?",
-   "publishedAt": "2026-10-30T19:27:17Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793399971937
-  },
-  "XMOreU9Xyos": {
-   "id": "XMOreU9Xyos",
-   "title": "Joven inversor: Dónde está la clave para invertir?",
-   "publishedAt": "2026-10-30T19:57:46Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793399971937
-  },
-  "uX8r0FmCRPg": {
-   "id": "uX8r0FmCRPg",
-   "title": "#33 - El joven inversor: de cero a 1M de suscriptores, Agustín Natoli",
-   "publishedAt": "2026-10-30T23:00:11Z",
-   "status": "none",
-   "start": "2026-10-30T23:00:00Z",
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
    "via": {},
    "people": [],
    "firstSeen": 1793399971937
@@ -729,7 +595,7 @@
   },
   "oaEkyAR-7Tc": {
    "id": "oaEkyAR-7Tc",
-   "title": "“EL RIESGO KUKA EXISTE”: el FUERTE descargo de Yosovitch contra el KIRCHNERISMO",
+   "title": "MILEI 2027: ¿EL MERCADO TEME UN CAMBIO DE RUMBO? | Julián Yosovitch",
    "publishedAt": "2026-11-02T18:30:26Z",
    "status": "none",
    "start": null,
@@ -862,7 +728,7 @@
   "-L_-NIt4hao": {
    "id": "-L_-NIt4hao",
    "title": "EN VIVO | DISCURSO DE MILEI EN LA NOCHE DE CELEBRACIÓN POR ISRAEL",
-   "publishedAt": "2026-11-02T22:50:42Z",
+   "publishedAt": "2026-11-03T11:23:29Z",
    "status": "none",
    "start": "2026-11-02T22:50:42Z",
    "channel": "El Cronista Stream",
@@ -1116,6 +982,144 @@
    "via": {},
    "people": [],
    "firstSeen": 1793693736785
+  },
+  "Z9j7t6qF2ac": {
+   "id": "Z9j7t6qF2ac",
+   "title": "¿ALIVIO PARA LAS PYMES? NUEVOS ANUNCIOS DE CAPUTO: MARCELO CAPELLO | CUENTAS CLARAS EN VIVO",
+   "publishedAt": "2026-11-03T12:27:36Z",
+   "status": "live",
+   "start": "2026-11-03T15:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793723092669
+  },
+  "XrlvDXJcgBM": {
+   "id": "XrlvDXJcgBM",
+   "title": "Las elecciones en Estados Unidos ponen en juego el apoyo de Trump a Milei",
+   "publishedAt": "2026-11-03T16:00:22Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793723092669
+  },
+  "UFQAYH68zTQ": {
+   "id": "UFQAYH68zTQ",
+   "title": "EL RIESGO PAÍS ROMPE LOS 800 PUNTOS: El dato de WILLY LABORDA que SORPRENDE a los mercados",
+   "publishedAt": "2026-11-03T15:22:34Z",
+   "status": "none",
+   "start": "2026-11-03T14:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793723092669
+  },
+  "PB1BA47unvM": {
+   "id": "PB1BA47unvM",
+   "title": "EN VIVO | Conferencia de prensa del vocero presidencial Adrián Ravier",
+   "publishedAt": "2026-11-03T13:33:07Z",
+   "status": "none",
+   "start": "2026-11-03T14:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793723092669
+  },
+  "Kw2hX2A61Xc": {
+   "id": "Kw2hX2A61Xc",
+   "title": "¿Por qué SUBE el riesgo país y cuánto cuesta cubrirse? Esto dice @elena.financiera",
+   "publishedAt": "2026-11-03T14:31:08Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793723092669
+  },
+  "Gkl7e2CnNAw": {
+   "id": "Gkl7e2CnNAw",
+   "title": "Cyber Monday: la estrategia para reservar vuelos sin gastar todos tus ahorros | Rochi Grimaldi",
+   "publishedAt": "2026-11-03T13:00:29Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793723092669
+  },
+  "BiJETDqwWTI": {
+   "id": "BiJETDqwWTI",
+   "title": "Darío Sztajnszrajber: ¿LA FILOSOFÍA ES INÚTIL? | La Fórmula Podcast",
+   "publishedAt": "2026-10-30T17:30:18Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793723092669
+  },
+  "g6gPfhxNrdU": {
+   "id": "g6gPfhxNrdU",
+   "title": "Darío Sztajnszrajber: “ESTA ES LA ÚNICA MANERA DE CONOCERNOS” | La Fórmula Podcast",
+   "publishedAt": "2026-10-30T15:00:27Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793723092669
+  },
+  "y31hwsgVAZk": {
+   "id": "y31hwsgVAZk",
+   "title": "Darío Sztajnszrajber: “TU MEJOR AMIGO ES TU PEOR ENEMIGO” | La Fórmula Podcast",
+   "publishedAt": "2026-10-30T13:53:41Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793723092669
+  },
+  "e0kcMlGVwEE": {
+   "id": "e0kcMlGVwEE",
+   "title": "Lo que la muerte nos enseña sobre la vida con Darío Sztajnszrajber | La Fórmula Podcast",
+   "publishedAt": "2026-10-30T11:00:19Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793723092669
   }
  },
  "sent": {
@@ -1235,8 +1239,8 @@
   "count": 0
  },
  "initialized": true,
- "lastDigest": "2026-11-02",
- "lastDigestAt": 1793645503538,
+ "lastDigest": "2026-11-03",
+ "lastDigestAt": 1793723092669,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
