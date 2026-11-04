@@ -829,7 +829,7 @@
   "PB1BA47unvM": {
    "id": "PB1BA47unvM",
    "title": "EN VIVO | Conferencia de prensa del vocero presidencial Adrián Ravier",
-   "publishedAt": "2026-11-03T13:33:07Z",
+   "publishedAt": "2026-11-04T02:46:36Z",
    "status": "none",
    "start": "2026-11-03T14:00:00Z",
    "channel": "El Cronista Stream",
@@ -1022,7 +1022,7 @@
    "id": "PhCjsT_hozU",
    "title": "#12 - Creó una empresa global en General Pico, Martín D'Amico",
    "publishedAt": "2026-11-04T01:00:07Z",
-   "status": "live",
+   "status": "none",
    "start": "2026-11-04T01:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -1035,7 +1035,7 @@
   },
   "tJlHSGlhe4w": {
    "id": "tJlHSGlhe4w",
-   "title": "#50 - Tiziano Gravier, el hijo esquiador de Valeria Mazza",
+   "title": "#50 - Tiziano Gravier, el esquiador n1 de Sudamérica",
    "publishedAt": "2026-11-03T23:00:09Z",
    "status": "none",
    "start": "2026-11-03T23:00:00Z",
@@ -1233,8 +1233,8 @@
   "jlf8VSrqG3A:new": 1793756937502
  },
  "day": {
-  "date": "2026-11-03",
-  "count": 4
+  "date": "2026-11-04",
+  "count": 0
  },
  "initialized": true,
  "lastDigest": "2026-11-03",
