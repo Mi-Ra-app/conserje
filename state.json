@@ -5,73 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "qB9BvN4nHi8": {
-   "id": "qB9BvN4nHi8",
-   "title": "El nuevo mapa de poder que puede dejar la elección de medio término en EE.UU.",
-   "publishedAt": "2026-11-01T18:00:00Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793558826954
-  },
-  "2fqGMzk7H_M": {
-   "id": "2fqGMzk7H_M",
-   "title": "¿CÓMO ALIVIAR A LAS PYMES?",
-   "publishedAt": "2026-11-01T17:25:46Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793558826954
-  },
-  "DhE_erpgMuk": {
-   "id": "DhE_erpgMuk",
-   "title": "De albañil a EMPRESARIO: el argentino que vio una OPORTUNIDAD de ORO | Damián Di Pace",
-   "publishedAt": "2026-11-01T15:00:26Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793558826954
-  },
-  "AM6jsZBVlA4": {
-   "id": "AM6jsZBVlA4",
-   "title": "EL CAMBIO QUE TENÉS QUE HACER SÍ O SÍ",
-   "publishedAt": "2026-11-01T14:18:25Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793558826954
-  },
-  "CdIzgD6x33o": {
-   "id": "CdIzgD6x33o",
-   "title": "\"Uno no puede ser fanático de una inversión\"",
-   "publishedAt": "2026-11-01T17:48:39Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793558826954
-  },
   "juIV6vJWCPA": {
    "id": "juIV6vJWCPA",
    "title": "El Gobierno evita otra suba del boleto, pero el costo aparece en otro lugar | Rochi Gimaldi",
@@ -1072,8 +1005,8 @@
   "feklaiVPBg8": {
    "id": "feklaiVPBg8",
    "title": "#7 - El Nro. 1 de la Nutrición Deportiva, Francis Holway",
-   "publishedAt": "2026-11-04T13:04:27Z",
-   "status": "upcoming",
+   "publishedAt": "2026-11-05T01:00:09Z",
+   "status": "live",
    "start": "2026-11-05T01:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -1087,8 +1020,8 @@
   "Acgv3H2IJmE": {
    "id": "Acgv3H2IJmE",
    "title": "#70 - El príncipe de Puerto Madero, Rodrigo Fernández Prieto",
-   "publishedAt": "2026-11-04T10:49:43Z",
-   "status": "upcoming",
+   "publishedAt": "2026-11-04T23:00:09Z",
+   "status": "none",
    "start": "2026-11-04T23:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -1098,6 +1031,77 @@
    "via": {},
    "people": [],
    "firstSeen": 1793829906050
+  },
+  "71I90NOT1f4": {
+   "id": "71I90NOT1f4",
+   "title": "¿QUIÉN PUEDE ENFRENTAR A MILEI?",
+   "publishedAt": "2026-11-05T00:34:03Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793845439329
+  },
+  "bkvgnCT4UtE": {
+   "id": "bkvgnCT4UtE",
+   "title": "De “borrador viejo” al pedido de retiro: la polémica por los CEDEARs, paso a paso | Yayi Morales",
+   "publishedAt": "2026-11-04T22:30:23Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793845439329
+  },
+  "wpQhHPWjWg0": {
+   "id": "wpQhHPWjWg0",
+   "title": "#126 - El colla que le vende millones de dólares a la minería, Luis Vacazur",
+   "publishedAt": "2026-11-01T23:00:11Z",
+   "status": "none",
+   "start": "2026-11-01T23:00:00Z",
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793845439329
+  },
+  "BqfpOGQqG1U": {
+   "id": "BqfpOGQqG1U",
+   "title": "¿Qué es el éxito?",
+   "publishedAt": "2026-11-01T17:47:47Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793845439329
+  },
+  "VHnNMn5kk8s": {
+   "id": "VHnNMn5kk8s",
+   "title": "¿Por qué no podemos sentarnos con alguien que piensa distinto?",
+   "publishedAt": "2026-11-01T17:47:13Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793845439329
   }
  },
  "sent": {
