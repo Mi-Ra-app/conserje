@@ -44,21 +44,6 @@
    "people": [],
    "firstSeen": 1793572415681
   },
-  "BE1B_78E6o4": {
-   "id": "BE1B_78E6o4",
-   "title": "El recuerdo de una infancia al clic para ir por sus sueños",
-   "publishedAt": "2026-11-01T21:00:16Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793572415681
-  },
   "n-7DMxa_qBw": {
    "id": "n-7DMxa_qBw",
    "title": "EL TRANSPORTE PÚBLICO ARGENTINO ESTÁ EN GRAVES PROBLEMAS",
@@ -1006,7 +991,7 @@
    "id": "feklaiVPBg8",
    "title": "#7 - El Nro. 1 de la Nutrición Deportiva, Francis Holway",
    "publishedAt": "2026-11-05T01:00:09Z",
-   "status": "live",
+   "status": "none",
    "start": "2026-11-05T01:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -1102,6 +1087,21 @@
    "via": {},
    "people": [],
    "firstSeen": 1793845439329
+  },
+  "CdIzgD6x33o": {
+   "id": "CdIzgD6x33o",
+   "title": "\"Uno no puede ser fanático de una inversión\"",
+   "publishedAt": "2026-11-01T17:48:39Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793871741488
   }
  },
  "sent": {
@@ -1224,8 +1224,8 @@
   "Acgv3H2IJmE:new": 1793829906050
  },
  "day": {
-  "date": "2026-11-04",
-  "count": 3
+  "date": "2026-11-05",
+  "count": 0
  },
  "initialized": true,
  "lastDigest": "2026-11-04",
