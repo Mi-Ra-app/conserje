@@ -5,45 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "Fx-p-6C3N8U": {
-   "id": "Fx-p-6C3N8U",
-   "title": "POR QUÉ ALGUNOS PRODUCTOS CUESTAN MUCHO MÁS EN ARGENTINA",
-   "publishedAt": "2026-11-02T23:55:03Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793669146957
-  },
-  "93iEjF75jpI": {
-   "id": "93iEjF75jpI",
-   "title": "\"KICILLOF ES FÓBICO A LA GESTIÓN”",
-   "publishedAt": "2026-11-02T23:29:41Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793669146957
-  },
-  "-L_-NIt4hao": {
-   "id": "-L_-NIt4hao",
-   "title": "EN VIVO | DISCURSO DE MILEI EN LA NOCHE DE CELEBRACIÓN POR ISRAEL",
-   "publishedAt": "2026-11-03T11:23:29Z",
-   "status": "none",
-   "start": "2026-11-02T22:50:42Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793669146957
-  },
   "5w_1KjkLvUg": {
    "id": "5w_1KjkLvUg",
    "title": "Sofía Contreras: MENTALIDAD FIJA VS. MENTALIDAD DE CRECIMIENTO | La Fórmula Podcast",
@@ -108,51 +69,6 @@
    "id": "K13DWoTIuh0",
    "title": "Gustavo Ruíz: “VISUALIZAR TE PUEDE LLEVAR AL ORO” | La Fórmula Podcast",
    "publishedAt": "2026-10-21T16:00:26Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793693736785
-  },
-  "soACaoKi7Qs": {
-   "id": "soACaoKi7Qs",
-   "title": "Gustavo Ruíz: CONEXIÓN MENTE Y CUERPO: ¿CÓMO FUNCIONA? | La Fórmula Podcast",
-   "publishedAt": "2026-10-21T15:00:05Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793693736785
-  },
-  "g_06liSU-EY": {
-   "id": "g_06liSU-EY",
-   "title": "Gustavo Ruíz: ¿CÓMO CONTROLAR LA PRESIÓN? | La Fórmula Podcast",
-   "publishedAt": "2026-10-21T13:52:01Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793693736785
-  },
-  "c2DtQZGWbtI": {
-   "id": "c2DtQZGWbtI",
-   "title": "Cómo piensan los mejores: mentalidad ganadora con el psicólogo de Colapinto | La Fórmula Podcast",
-   "publishedAt": "2026-10-21T11:00:08Z",
    "status": "none",
    "start": null,
    "channel": "La Fórmula Podcast",
@@ -1058,8 +974,8 @@
   "k6yQmaq1Cms": {
    "id": "k6yQmaq1Cms",
    "title": "#3 - Misión #3 - El Granero del Mundo,  Gustavo Idígoras y Rosana Negrini",
-   "publishedAt": "2026-11-05T12:00:26Z",
-   "status": "upcoming",
+   "publishedAt": "2026-11-06T01:00:07Z",
+   "status": "none",
    "start": "2026-11-06T01:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -1073,8 +989,8 @@
   "K7lt8t15cjA": {
    "id": "K7lt8t15cjA",
    "title": "#66 - \"Prefiero ajustarme yo como persona que como empresa\", Gustavo Farías",
-   "publishedAt": "2026-11-05T11:02:05Z",
-   "status": "upcoming",
+   "publishedAt": "2026-11-05T23:00:08Z",
+   "status": "none",
    "start": "2026-11-05T23:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -1114,6 +1030,96 @@
    "via": {},
    "people": [],
    "firstSeen": 1793919089846
+  },
+  "5pSJixFMTXg": {
+   "id": "5pSJixFMTXg",
+   "title": "¿QUÉ TIPO DE EMPRENDEDOR SOS?",
+   "publishedAt": "2026-11-06T00:06:41Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [
+    "Sin Manual"
+   ],
+   "via": {
+    "Sin Manual": "la descripción"
+   },
+   "people": [],
+   "firstSeen": 1793934156048
+  },
+  "-UrlMQ-sne8": {
+   "id": "-UrlMQ-sne8",
+   "title": "CÓMO PAGAR LOS CONSUMOS EN DÓLARES DE LA TARJETA",
+   "publishedAt": "2026-11-05T23:59:47Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793934156048
+  },
+  "mSKXtjvdVCc": {
+   "id": "mSKXtjvdVCc",
+   "title": "El restaurante más top de José Ignacio",
+   "publishedAt": "2026-11-02T21:00:11Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793934156048
+  },
+  "XOIJQykaQD8": {
+   "id": "XOIJQykaQD8",
+   "title": "Franco Pisso: ¿POR QUÉ CANTIDAD ES MÁS IMPORTANTE QUE CALIDAD? | La Fórmula Podcast",
+   "publishedAt": "2026-10-16T13:10:46Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793934156048
+  },
+  "D74CUvFoLiM": {
+   "id": "D74CUvFoLiM",
+   "title": "Franco Pisso: ¿ES MÁS GRANDE EL MIEDO O EL BENEFICIO? | La Fórmula Podcast",
+   "publishedAt": "2026-10-16T12:36:32Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793934156048
+  },
+  "WbSDz0uuQuU": {
+   "id": "WbSDz0uuQuU",
+   "title": "No es lo que decís, es como lo decís: cómo influir en el resto con Franco Pisso | La Fórmula Podcast",
+   "publishedAt": "2026-10-16T11:00:07Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793934156048
   }
  },
  "sent": {
@@ -1244,8 +1250,8 @@
   "K7lt8t15cjA:new": 1793919089846
  },
  "day": {
-  "date": "2026-11-05",
-  "count": 8
+  "date": "2026-11-06",
+  "count": 0
  },
  "initialized": true,
  "lastDigest": "2026-11-05",
