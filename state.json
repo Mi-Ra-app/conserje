@@ -5,32 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "Ol3axSzIer8": {
-   "id": "Ol3axSzIer8",
-   "title": "Por qué la derrota de Trump no golpeó a los mercados ni a la Argentina",
-   "publishedAt": "2026-11-04T21:00:03Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793829906050
-  },
-  "1jvn8nmC8vg": {
-   "id": "1jvn8nmC8vg",
-   "title": "Los dos años DECISIVOS de Trump: vetos, tensiones y un legado en juego | Juan Battaleme",
-   "publishedAt": "2026-11-04T20:00:30Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793829906050
-  },
   "71I90NOT1f4": {
    "id": "71I90NOT1f4",
    "title": "¿QUIÉN PUEDE ENFRENTAR A MILEI?",
@@ -76,21 +50,6 @@
    "id": "BqfpOGQqG1U",
    "title": "¿Qué es el éxito?",
    "publishedAt": "2026-11-01T17:47:47Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793845439329
-  },
-  "VHnNMn5kk8s": {
-   "id": "VHnNMn5kk8s",
-   "title": "¿Por qué no podemos sentarnos con alguien que piensa distinto?",
-   "publishedAt": "2026-11-01T17:47:13Z",
    "status": "none",
    "start": null,
    "channel": "La Fábrica Podcast",
@@ -837,8 +796,8 @@
   "aR6W6Kh-LwM": {
    "id": "aR6W6Kh-LwM",
    "title": "#34 - Argentina: ¿la oportunidad que nadie está viendo?, Claudio Maulhardt",
-   "publishedAt": "2026-11-06T10:58:15Z",
-   "status": "upcoming",
+   "publishedAt": "2026-11-06T23:00:10Z",
+   "status": "none",
    "start": "2026-11-06T23:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -1153,6 +1112,45 @@
    "via": {},
    "people": [],
    "firstSeen": 1794004664769
+  },
+  "2KeCxRemIHQ": {
+   "id": "2KeCxRemIHQ",
+   "title": "¿DE CANILLITA A CAFETERÍA?: el NEGOCIO que lanzaron con puestos de diarios",
+   "publishedAt": "2026-11-07T00:36:15Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794018141517
+  },
+  "Pt1oSsUuYew": {
+   "id": "Pt1oSsUuYew",
+   "title": "TRUMP APUESTA A LA POLÍTICA EXTERIOR PARA SU LEGADO",
+   "publishedAt": "2026-11-07T00:30:11Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794018141517
+  },
+  "ixqCvAjPz_o": {
+   "id": "ixqCvAjPz_o",
+   "title": "CRUCE POR LA DEUDA: ¿SE REDUJO CON MILEI?",
+   "publishedAt": "2026-11-06T22:42:26Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794018141517
   }
  },
  "sent": {
