@@ -5,77 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "71I90NOT1f4": {
-   "id": "71I90NOT1f4",
-   "title": "¿QUIÉN PUEDE ENFRENTAR A MILEI?",
-   "publishedAt": "2026-11-05T00:34:03Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793845439329
-  },
-  "bkvgnCT4UtE": {
-   "id": "bkvgnCT4UtE",
-   "title": "De “borrador viejo” al pedido de retiro: la polémica por los CEDEARs, paso a paso | Yayi Morales",
-   "publishedAt": "2026-11-04T22:30:23Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793845439329
-  },
-  "wpQhHPWjWg0": {
-   "id": "wpQhHPWjWg0",
-   "title": "#126 - El colla que le vende millones de dólares a la minería, Luis Vacazur",
-   "publishedAt": "2026-11-01T23:00:11Z",
-   "status": "none",
-   "start": "2026-11-01T23:00:00Z",
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793845439329
-  },
-  "BqfpOGQqG1U": {
-   "id": "BqfpOGQqG1U",
-   "title": "¿Qué es el éxito?",
-   "publishedAt": "2026-11-01T17:47:47Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793845439329
-  },
-  "CdIzgD6x33o": {
-   "id": "CdIzgD6x33o",
-   "title": "\"Uno no puede ser fanático de una inversión\"",
-   "publishedAt": "2026-11-01T17:48:39Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793871741488
-  },
   "Bq-cJ-7PncE": {
    "id": "Bq-cJ-7PncE",
    "title": "Cómo convertir una buena IDEA en una EMPRESA que sobreviva | Sin Manual con Jonatan Loidi",
@@ -795,7 +724,7 @@
   },
   "aR6W6Kh-LwM": {
    "id": "aR6W6Kh-LwM",
-   "title": "#34 - Argentina: ¿la oportunidad que nadie está viendo?, Claudio Maulhardt",
+   "title": "#34 - Maneja USD 200 millones y revela dónde invertir, Claudio Maulhardt",
    "publishedAt": "2026-11-06T23:00:10Z",
    "status": "none",
    "start": "2026-11-06T23:00:00Z",
@@ -1151,6 +1080,75 @@
    "via": {},
    "people": [],
    "firstSeen": 1794018141517
+  },
+  "nfTnplcQ5Gk": {
+   "id": "nfTnplcQ5Gk",
+   "title": "Tipo de cambio flexible: qué le falta al BCRA para que funcione en Argentina | María Castiglioni",
+   "publishedAt": "2026-11-07T15:00:18Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794065917505
+  },
+  "xfxiF9iB7Ss": {
+   "id": "xfxiF9iB7Ss",
+   "title": "¿PESA EL BOLSILLO AL VOTAR?",
+   "publishedAt": "2026-11-07T14:06:50Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794065917505
+  },
+  "kkR-tGCvfGo": {
+   "id": "kkR-tGCvfGo",
+   "title": "\"QUIERO TENER MÁS EMPLEADOS, NO MENOS\" | Víctor Fera en Sello Argento",
+   "publishedAt": "2026-11-07T13:00:04Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794065917505
+  },
+  "ZRyQ14GJ-xQ": {
+   "id": "ZRyQ14GJ-xQ",
+   "title": "La importancia de generar química con los inversores",
+   "publishedAt": "2026-11-07T14:00:33Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794065917505
+  },
+  "fLT-9mfWccI": {
+   "id": "fLT-9mfWccI",
+   "title": "Las cosencuencias de estar entre los mejores restaurantes del mundo",
+   "publishedAt": "2026-11-07T14:00:31Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794065917505
   }
  },
  "sent": {
@@ -1286,15 +1284,23 @@
   "mHKs_bxYk1M:new": 1793962154424,
   "2iobRQ0_leg:new": 1793962154424,
   "dsGOdDGextE:new": 1793962154424,
-  "h5AFuOW5t9A:new": 1793962154424
+  "h5AFuOW5t9A:new": 1793962154424,
+  "txnlcsGcsNo:new": 1794065917505,
+  "ygadXhWNMws:new": 1794065917505,
+  "coYZEKHylVU:new": 1794065917505,
+  "aR6W6Kh-LwM:new": 1794065917505,
+  "qqOT0Ytp7Lo:new": 1794065917505,
+  "Zt_LKNm2IgM:new": 1794065917505,
+  "ZRyQ14GJ-xQ:new": 1794065917505,
+  "fLT-9mfWccI:new": 1794065917505
  },
  "day": {
   "date": "2026-11-07",
-  "count": 0
+  "count": 8
  },
  "initialized": true,
- "lastDigest": "2026-11-06",
- "lastDigestAt": 1793987225600,
+ "lastDigest": "2026-11-07",
+ "lastDigestAt": 1794065917505,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
