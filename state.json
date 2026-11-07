@@ -126,21 +126,6 @@
    "people": [],
    "firstSeen": 1793900392359
   },
-  "BE1B_78E6o4": {
-   "id": "BE1B_78E6o4",
-   "title": "El recuerdo de una infancia al clic para ir por sus sueños",
-   "publishedAt": "2026-11-01T21:00:16Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793900392359
-  },
   "4t6q_rLti6A": {
    "id": "4t6q_rLti6A",
    "title": "¿QUÉ PASA CON LOS VENDEDORES?",
@@ -1149,6 +1134,19 @@
    "via": {},
    "people": [],
    "firstSeen": 1794065917505
+  },
+  "VzThkn2Q6po": {
+   "id": "VzThkn2Q6po",
+   "title": "¿CHINA PONE EN RIESGO A ARGENTINA?",
+   "publishedAt": "2026-11-07T17:10:18Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794080232673
   }
  },
  "sent": {
