@@ -5,178 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "4t6q_rLti6A": {
-   "id": "4t6q_rLti6A",
-   "title": "¿QUÉ PASA CON LOS VENDEDORES?",
-   "publishedAt": "2026-11-05T22:06:43Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793919089846
-  },
-  "ei8CqSm9JZk": {
-   "id": "ei8CqSm9JZk",
-   "title": "Emprender en Argentina: cómo adaptarse a una ECONOMÍA que cambia | Sin Manual",
-   "publishedAt": "2026-11-05T22:00:06Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [
-    "Sin Manual"
-   ],
-   "via": {
-    "Sin Manual": "el título"
-   },
-   "people": [],
-   "firstSeen": 1793919089846
-  },
-  "ATZ1DZNoWkM": {
-   "id": "ATZ1DZNoWkM",
-   "title": "Los bonos caen y el riesgo país se duplica: ¿hay temor en el Gobierno? | Julián Yosovitch",
-   "publishedAt": "2026-11-05T21:00:17Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793919089846
-  },
-  "8Vq5K2xdxtQ": {
-   "id": "8Vq5K2xdxtQ",
-   "title": "UN SÁNDWICH PARA EL CAMINO",
-   "publishedAt": "2026-11-05T19:37:48Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793919089846
-  },
-  "hMU7JXKqXoc": {
-   "id": "hMU7JXKqXoc",
-   "title": "ASÍ FUE EL FRÍO SALUDO ENTRE MILEI Y PEDRO SÁNCHEZ EN ESPAÑA",
-   "publishedAt": "2026-11-05T19:30:11Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793919089846
-  },
-  "iK8ISE1IdqY": {
-   "id": "iK8ISE1IdqY",
-   "title": "¿POR QUÉ EE.UU ESTÁ TAN INTERESADO EN ARGENTINA? | Federico Domínguez",
-   "publishedAt": "2026-11-05T18:00:37Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793919089846
-  },
-  "rUmTbqogq0M": {
-   "id": "rUmTbqogq0M",
-   "title": "El Príncipe de Puerto Madero",
-   "publishedAt": "2026-11-05T20:36:39Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793919089846
-  },
-  "92amMciuNGA": {
-   "id": "92amMciuNGA",
-   "title": "Los consejos de Joven Inversor para invertir",
-   "publishedAt": "2026-11-05T20:35:27Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793919089846
-  },
-  "f5thihZY110": {
-   "id": "f5thihZY110",
-   "title": "La importancia de dar recomendaciones en las que confiar",
-   "publishedAt": "2026-11-05T20:34:34Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793919089846
-  },
-  "k6yQmaq1Cms": {
-   "id": "k6yQmaq1Cms",
-   "title": "#3 - Misión #3 - El Granero del Mundo,  Gustavo Idígoras y Rosana Negrini",
-   "publishedAt": "2026-11-06T01:00:07Z",
-   "status": "none",
-   "start": "2026-11-06T01:00:00Z",
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793919089846
-  },
-  "K7lt8t15cjA": {
-   "id": "K7lt8t15cjA",
-   "title": "#66 - \"Prefiero ajustarme yo como persona que como empresa\", Gustavo Farías",
-   "publishedAt": "2026-11-05T23:00:08Z",
-   "status": "none",
-   "start": "2026-11-05T23:00:00Z",
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793919089846
-  },
-  "DNo9hhTlkO8": {
-   "id": "DNo9hhTlkO8",
-   "title": "#44 - El restaurante más top de José Ignacio, Federico Desseno",
-   "publishedAt": "2026-11-02T23:00:08Z",
-   "status": "none",
-   "start": "2026-11-02T23:00:00Z",
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793919089846
-  },
   "5pSJixFMTXg": {
    "id": "5pSJixFMTXg",
    "title": "¿QUÉ TIPO DE EMPRENDEDOR SOS?",
@@ -1151,6 +979,176 @@
    "via": {},
    "people": [],
    "firstSeen": 1794154128912
+  },
+  "guavmlLEk1o": {
+   "id": "guavmlLEk1o",
+   "title": "ESTA ES LA MEJOR MANERA PARA GANAR MÁS PLATA",
+   "publishedAt": "2026-11-08T20:04:16Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794169661550
+  },
+  "hcrRZ_nVM5k": {
+   "id": "hcrRZ_nVM5k",
+   "title": "🚨 URGENTE - EN VIVO | ASÍ LLEGA EL PAPA LEÓN XIV A LA ARGENTINA",
+   "publishedAt": "2026-11-08T19:24:15Z",
+   "status": "none",
+   "start": "2026-11-08T19:30:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794169661550
+  },
+  "vfiGDaMM6cI": {
+   "id": "vfiGDaMM6cI",
+   "title": "🚨 EN VIVO | CADENA NACIONAL DE MILEI CON EL PAPA LEÓN XIV",
+   "publishedAt": "2026-11-08T19:39:47Z",
+   "status": "upcoming",
+   "start": "2026-11-08T21:30:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794169661550
+  },
+  "1jdqEZdlfeY": {
+   "id": "1jdqEZdlfeY",
+   "title": "IMPUESTO A LOS CEDEARS: Yosovitch EXPLOTÓ y abrió un debate CALIENTE en Nada Personal",
+   "publishedAt": "2026-11-08T18:00:10Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794169661550
+  },
+  "ihWy6IjYF9w": {
+   "id": "ihWy6IjYF9w",
+   "title": "LA DURA ADVERTENCIA DE YOSOVITCH SOBRE LOS MERCADOS: ¿VUELVE EL KIRCHNERISMO?",
+   "publishedAt": "2026-11-08T17:10:55Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794169661550
+  },
+  "h0CJKQKEF-w": {
+   "id": "h0CJKQKEF-w",
+   "title": "El sistema educativo ve al campo como algo negativo",
+   "publishedAt": "2026-11-08T17:17:22Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794169661550
+  },
+  "7xJ4JPXwDgY": {
+   "id": "7xJ4JPXwDgY",
+   "title": "La diferencia entre invertir en Real Estate y el Mercado de Capitales",
+   "publishedAt": "2026-11-08T17:16:18Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794169661550
+  },
+  "9LPizCv4hP8": {
+   "id": "9LPizCv4hP8",
+   "title": "¿Cómo se compra un banco?",
+   "publishedAt": "2026-11-08T17:15:00Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794169661550
+  },
+  "yd7dtZquqYg": {
+   "id": "yd7dtZquqYg",
+   "title": "¿Dónde hay que invertir?",
+   "publishedAt": "2026-11-08T17:14:10Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794169661550
+  },
+  "YceiwqwTzuM": {
+   "id": "YceiwqwTzuM",
+   "title": "La Mesaza Financiera",
+   "publishedAt": "2026-11-08T17:13:29Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794169661550
+  },
+  "voJqBfzt4w0": {
+   "id": "voJqBfzt4w0",
+   "title": "Empezó a trabajar a los 13 años y creó una empresa que llegó a Boca, River y el Teatro Colón",
+   "publishedAt": "2026-11-08T17:09:48Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794169661550
+  },
+  "Rrd6cjT6GTY": {
+   "id": "Rrd6cjT6GTY",
+   "title": "#127 - Llevó sus productos a todos los clubes de Argentina, Daniel Carnaghi",
+   "publishedAt": "2026-11-08T14:53:24Z",
+   "status": "upcoming",
+   "start": "2026-11-08T23:00:00Z",
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794169661550
   }
  },
  "sent": {
@@ -1298,11 +1296,15 @@
   "l4g53QnLsAI:new": 1794154128912,
   "aj7Soti_Kuo:new": 1794154128912,
   "LCsBnb0E7N8:new": 1794154128912,
-  "i8q25GRQckA:new": 1794154128912
+  "i8q25GRQckA:new": 1794154128912,
+  "h0CJKQKEF-w:new": 1794169661550,
+  "7xJ4JPXwDgY:new": 1794169661550,
+  "9LPizCv4hP8:new": 1794169661550,
+  "yd7dtZquqYg:new": 1794169661550
  },
  "day": {
   "date": "2026-11-08",
-  "count": 4
+  "count": 8
  },
  "initialized": true,
  "lastDigest": "2026-11-08",
