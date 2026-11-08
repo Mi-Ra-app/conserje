@@ -74,32 +74,6 @@
    "people": [],
    "firstSeen": 1793900392359
   },
-  "9OThBjCOmWY": {
-   "id": "9OThBjCOmWY",
-   "title": "\"VEO VACA MUERTA COMO UNA OPCIÓN REAL\": Experto y la OPORTUNIDAD de ORO en la ERA MILEI",
-   "publishedAt": "2026-11-05T15:22:10Z",
-   "status": "none",
-   "start": "2026-11-05T14:00:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793900392359
-  },
-  "lmTdIIUz43c": {
-   "id": "lmTdIIUz43c",
-   "title": "JAVIER MILEI PISÓ FUERTE EN ESPAÑA: \"La MÁXIMA FASCISTA describe a los ESTADOS SOCIALES\"",
-   "publishedAt": "2026-11-05T14:11:26Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793900392359
-  },
   "4t6q_rLti6A": {
    "id": "4t6q_rLti6A",
    "title": "¿QUÉ PASA CON LOS VENDEDORES?",
@@ -699,8 +673,8 @@
   "qqOT0Ytp7Lo": {
    "id": "qqOT0Ytp7Lo",
    "title": "Mesaza Financiera #1 - Cocos Capital, Juntala, Allaria y Silver Cloud Advisors",
-   "publishedAt": "2026-11-06T07:41:24Z",
-   "status": "upcoming",
+   "publishedAt": "2026-11-07T23:00:08Z",
+   "status": "none",
    "start": "2026-11-07T23:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -1147,6 +1121,36 @@
    "via": {},
    "people": [],
    "firstSeen": 1794092405542
+  },
+  "EHZ27AcOXAE": {
+   "id": "EHZ27AcOXAE",
+   "title": "\"LA ARGENTINA TIENE DÓLARES\" | Javier Timerman y la verdad que NADIE cuenta",
+   "publishedAt": "2026-11-08T00:00:16Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794104150095
+  },
+  "l4g53QnLsAI": {
+   "id": "l4g53QnLsAI",
+   "title": "¿TU EMPRESA SE PUEDE VENDER?",
+   "publishedAt": "2026-11-07T23:14:26Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [
+    "Sin Manual"
+   ],
+   "via": {
+    "Sin Manual": "la descripción"
+   },
+   "people": [],
+   "firstSeen": 1794104150095
   }
  },
  "sent": {
