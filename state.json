@@ -5,75 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "Bq-cJ-7PncE": {
-   "id": "Bq-cJ-7PncE",
-   "title": "Cómo convertir una buena IDEA en una EMPRESA que sobreviva | Sin Manual con Jonatan Loidi",
-   "publishedAt": "2026-11-05T18:16:18Z",
-   "status": "none",
-   "start": "2026-11-05T17:00:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [
-    "Sin Manual"
-   ],
-   "via": {
-    "Sin Manual": "el título"
-   },
-   "people": [],
-   "firstSeen": 1793900392359
-  },
-  "DocQiBxZsqc": {
-   "id": "DocQiBxZsqc",
-   "title": "\"ARGENTINA VA A CRECER FUERTE A PARTIR DEL...\": La predicción de un ECONOMISTA que ILUSIONA",
-   "publishedAt": "2026-11-05T17:06:31Z",
-   "status": "none",
-   "start": "2026-11-05T15:00:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793900392359
-  },
-  "tCFXpYdaNRM": {
-   "id": "tCFXpYdaNRM",
-   "title": "URGENTE – CRISIS EN PARAGUAY | Renunció SANTIAGO PEÑA tras el ESCÁNDALO de UENO BANK",
-   "publishedAt": "2026-11-05T16:49:21Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793900392359
-  },
-  "DcYvRKcBuYw": {
-   "id": "DcYvRKcBuYw",
-   "title": "¿QUÉ TRABAJADORES NECESITA VACA MUERTA?",
-   "publishedAt": "2026-11-05T16:36:31Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793900392359
-  },
-  "Bu0nA3RcRZ4": {
-   "id": "Bu0nA3RcRZ4",
-   "title": "¿EL RIGI VUELVE A PONER A LA ARGENTINA EN EL MAPA? Experto lo revela",
-   "publishedAt": "2026-11-05T15:30:13Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793900392359
-  },
   "4t6q_rLti6A": {
    "id": "4t6q_rLti6A",
    "title": "¿QUÉ PASA CON LOS VENDEDORES?",
@@ -237,21 +168,6 @@
    "publishedAt": "2026-11-02T23:00:08Z",
    "status": "none",
    "start": "2026-11-02T23:00:00Z",
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793919089846
-  },
-  "C2HC8YU9kTo": {
-   "id": "C2HC8YU9kTo",
-   "title": "Un comentario en redes puede arruinarte un partido",
-   "publishedAt": "2026-11-02T15:00:10Z",
-   "status": "none",
-   "start": null,
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
    "programs": [
@@ -1151,6 +1067,90 @@
    },
    "people": [],
    "firstSeen": 1794104150095
+  },
+  "5FJK-UbSutI": {
+   "id": "5FJK-UbSutI",
+   "title": "China convirtió su economía en una POTENCIA: qué podría aprender la Argentina | Rochi Grimaldi",
+   "publishedAt": "2026-11-08T15:00:15Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794154128912
+  },
+  "HSxBL4Yrt_o": {
+   "id": "HSxBL4Yrt_o",
+   "title": "SOLÁ: \"EL PERONISMO NO ES POPULISTA\"",
+   "publishedAt": "2026-11-08T14:08:32Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794154128912
+  },
+  "NKhZfE8AfoU": {
+   "id": "NKhZfE8AfoU",
+   "title": "De vender carne a comprar Marolio: cómo empezó la expansión de una familia | Sello Argento",
+   "publishedAt": "2026-11-08T13:00:17Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794154128912
+  },
+  "aj7Soti_Kuo": {
+   "id": "aj7Soti_Kuo",
+   "title": "¿Dónde está el éxito?",
+   "publishedAt": "2026-11-08T15:00:10Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794154128912
+  },
+  "LCsBnb0E7N8": {
+   "id": "LCsBnb0E7N8",
+   "title": "La adrenalina y el miedo de un deporte extremo",
+   "publishedAt": "2026-11-08T15:00:04Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794154128912
+  },
+  "i8q25GRQckA": {
+   "id": "i8q25GRQckA",
+   "title": "Un infarto le hizo entender que habia que parar",
+   "publishedAt": "2026-11-08T14:00:23Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794154128912
   }
  },
  "sent": {
@@ -1294,15 +1294,19 @@
   "qqOT0Ytp7Lo:new": 1794065917505,
   "Zt_LKNm2IgM:new": 1794065917505,
   "ZRyQ14GJ-xQ:new": 1794065917505,
-  "fLT-9mfWccI:new": 1794065917505
+  "fLT-9mfWccI:new": 1794065917505,
+  "l4g53QnLsAI:new": 1794154128912,
+  "aj7Soti_Kuo:new": 1794154128912,
+  "LCsBnb0E7N8:new": 1794154128912,
+  "i8q25GRQckA:new": 1794154128912
  },
  "day": {
   "date": "2026-11-08",
-  "count": 0
+  "count": 4
  },
  "initialized": true,
- "lastDigest": "2026-11-07",
- "lastDigestAt": 1794065917505,
+ "lastDigest": "2026-11-08",
+ "lastDigestAt": 1794154128912,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
