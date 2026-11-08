@@ -50,51 +50,6 @@
    "people": [],
    "firstSeen": 1793934156048
   },
-  "XOIJQykaQD8": {
-   "id": "XOIJQykaQD8",
-   "title": "Franco Pisso: ¿POR QUÉ CANTIDAD ES MÁS IMPORTANTE QUE CALIDAD? | La Fórmula Podcast",
-   "publishedAt": "2026-10-16T13:10:46Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793934156048
-  },
-  "D74CUvFoLiM": {
-   "id": "D74CUvFoLiM",
-   "title": "Franco Pisso: ¿ES MÁS GRANDE EL MIEDO O EL BENEFICIO? | La Fórmula Podcast",
-   "publishedAt": "2026-10-16T12:36:32Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793934156048
-  },
-  "WbSDz0uuQuU": {
-   "id": "WbSDz0uuQuU",
-   "title": "No es lo que decís, es como lo decís: cómo influir en el resto con Franco Pisso | La Fórmula Podcast",
-   "publishedAt": "2026-10-16T11:00:07Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793934156048
-  },
   "ITkDlrNC0Uo": {
    "id": "ITkDlrNC0Uo",
    "title": "El granero del mundo",
@@ -1008,9 +963,9 @@
   },
   "vfiGDaMM6cI": {
    "id": "vfiGDaMM6cI",
-   "title": "🚨 EN VIVO | CADENA NACIONAL DE MILEI CON EL PAPA LEÓN XIV",
-   "publishedAt": "2026-11-08T19:39:47Z",
-   "status": "upcoming",
+   "title": "DISCURSOS DEL PAPA LEÓN XIV y JAVIER MILEI en el PALACIO LIBERTAD | Cadena Nacional 8/11/26",
+   "publishedAt": "2026-11-08T22:33:35Z",
+   "status": "none",
    "start": "2026-11-08T21:30:00Z",
    "channel": "El Cronista Stream",
    "handle": "@Cronista_ar",
@@ -1138,8 +1093,8 @@
   "Rrd6cjT6GTY": {
    "id": "Rrd6cjT6GTY",
    "title": "#127 - Llevó sus productos a todos los clubes de Argentina, Daniel Carnaghi",
-   "publishedAt": "2026-11-08T14:53:24Z",
-   "status": "upcoming",
+   "publishedAt": "2026-11-08T23:00:09Z",
+   "status": "live",
    "start": "2026-11-08T23:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -1149,6 +1104,47 @@
    "via": {},
    "people": [],
    "firstSeen": 1794169661550
+  },
+  "IpvH2zfGaY0": {
+   "id": "IpvH2zfGaY0",
+   "title": "🚨 EN VIVO | MILEI RECIBE AL PAPA LEÓN XIV EN CASA ROSADA",
+   "publishedAt": "2026-11-08T20:36:47Z",
+   "status": "none",
+   "start": "2026-11-08T20:35:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794182058223
+  },
+  "mivDbmL721o": {
+   "id": "mivDbmL721o",
+   "title": "León XIV llega a la Argentina y abre un debate que va más allá de la religión | Cuentas Claras",
+   "publishedAt": "2026-11-08T21:00:32Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794182058223
+  },
+  "JRstf_a8RCs": {
+   "id": "JRstf_a8RCs",
+   "title": "La diferencia de costos con China",
+   "publishedAt": "2026-11-08T21:00:07Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794182058223
   }
  },
  "sent": {
