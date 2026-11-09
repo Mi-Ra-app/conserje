@@ -951,7 +951,7 @@
   "hcrRZ_nVM5k": {
    "id": "hcrRZ_nVM5k",
    "title": "🚨 URGENTE - EN VIVO | ASÍ LLEGA EL PAPA LEÓN XIV A LA ARGENTINA",
-   "publishedAt": "2026-11-08T19:24:15Z",
+   "publishedAt": "2026-11-09T08:07:10Z",
    "status": "none",
    "start": "2026-11-08T19:30:00Z",
    "channel": "El Cronista Stream",
@@ -1108,7 +1108,7 @@
   "IpvH2zfGaY0": {
    "id": "IpvH2zfGaY0",
    "title": "🚨 EN VIVO | MILEI RECIBE AL PAPA LEÓN XIV EN CASA ROSADA",
-   "publishedAt": "2026-11-08T20:36:47Z",
+   "publishedAt": "2026-11-09T09:08:04Z",
    "status": "none",
    "start": "2026-11-08T20:35:00Z",
    "channel": "El Cronista Stream",
@@ -1296,15 +1296,19 @@
   "h0CJKQKEF-w:new": 1794169661550,
   "7xJ4JPXwDgY:new": 1794169661550,
   "9LPizCv4hP8:new": 1794169661550,
-  "yd7dtZquqYg:new": 1794169661550
+  "yd7dtZquqYg:new": 1794169661550,
+  "YceiwqwTzuM:new": 1794228566918,
+  "voJqBfzt4w0:new": 1794228566918,
+  "Rrd6cjT6GTY:new": 1794228566918,
+  "JRstf_a8RCs:new": 1794228566918
  },
  "day": {
   "date": "2026-11-09",
-  "count": 0
+  "count": 4
  },
  "initialized": true,
- "lastDigest": "2026-11-08",
- "lastDigestAt": 1794154128912,
+ "lastDigest": "2026-11-09",
+ "lastDigestAt": 1794228566918,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
