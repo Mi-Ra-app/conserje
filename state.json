@@ -219,81 +219,6 @@
    "people": [],
    "firstSeen": 1793987225600
   },
-  "g6gPfhxNrdU": {
-   "id": "g6gPfhxNrdU",
-   "title": "Darío Sztajnszrajber: “ESTA ES LA ÚNICA MANERA DE CONOCERNOS” | La Fórmula Podcast",
-   "publishedAt": "2026-10-30T15:00:27Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793987225600
-  },
-  "y31hwsgVAZk": {
-   "id": "y31hwsgVAZk",
-   "title": "Darío Sztajnszrajber: “TU MEJOR AMIGO ES TU PEOR ENEMIGO” | La Fórmula Podcast",
-   "publishedAt": "2026-10-30T13:53:41Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793987225600
-  },
-  "e0kcMlGVwEE": {
-   "id": "e0kcMlGVwEE",
-   "title": "Lo que la muerte nos enseña sobre la vida con Darío Sztajnszrajber | La Fórmula Podcast",
-   "publishedAt": "2026-10-30T11:00:19Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793987225600
-  },
-  "5w_1KjkLvUg": {
-   "id": "5w_1KjkLvUg",
-   "title": "Sofía Contreras: MENTALIDAD FIJA VS. MENTALIDAD DE CRECIMIENTO | La Fórmula Podcast",
-   "publishedAt": "2026-10-23T17:00:28Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793987225600
-  },
-  "D0u1_jgafn8": {
-   "id": "D0u1_jgafn8",
-   "title": "Sofía Contreras: LAS DOS CLAVES PARA TU ÉXITO PERSONAL | La Fórmula Podcast",
-   "publishedAt": "2026-10-23T14:14:38Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793987225600
-  },
   "ezVjn-l_h78": {
    "id": "ezVjn-l_h78",
    "title": "TRUCO ENTRE ANDREW Y PABLITO de la mano de Pampa Cerveza Argentina",
@@ -893,7 +818,7 @@
   },
   "2p_qSGv8GVI": {
    "id": "2p_qSGv8GVI",
-   "title": "Argentina espera más dólares, pero una vieja desconfianza sigue pesando | María Castiglioni",
+   "title": "Los argentinos siguen comprando dólares: ¿qué efecto tiene en la economía de Milei?",
    "publishedAt": "2026-11-09T22:00:28Z",
    "status": "none",
    "start": null,
@@ -1122,8 +1047,8 @@
   "yLPgL-LZDm4": {
    "id": "yLPgL-LZDm4",
    "title": "#45 - Dejó Mercado Libre y creó Norimoto, Valentin McArdle",
-   "publishedAt": "2026-11-08T23:49:09Z",
-   "status": "upcoming",
+   "publishedAt": "2026-11-09T23:00:07Z",
+   "status": "none",
    "start": "2026-11-09T23:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -1133,6 +1058,79 @@
    "via": {},
    "people": [],
    "firstSeen": 1794264614619
+  },
+  "-xtQRxQ5zr8": {
+   "id": "-xtQRxQ5zr8",
+   "title": "DUEÑO DE MAROLIO: \"QUIERO TENER MÁS EMPLEADOS, NO MENOS\"",
+   "publishedAt": "2026-11-09T22:55:07Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794284852054
+  },
+  "PNwX2iZgt1M": {
+   "id": "PNwX2iZgt1M",
+   "title": "El error que te hace abandonar tus objetivos con Sofía Contreras | La Fórmula Podcast",
+   "publishedAt": "2026-10-23T11:00:03Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794284852054
+  },
+  "qOI2AoaTlyM": {
+   "id": "qOI2AoaTlyM",
+   "title": "Gustavo Ruíz: “ASÍ ES SER EL PSICÓLOGO DE LOS MEJORES” | La Fórmula Podcast",
+   "publishedAt": "2026-10-21T19:00:25Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794284852054
+  },
+  "K13DWoTIuh0": {
+   "id": "K13DWoTIuh0",
+   "title": "Gustavo Ruíz: “VISUALIZAR TE PUEDE LLEVAR AL ORO” | La Fórmula Podcast",
+   "publishedAt": "2026-10-21T16:00:26Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794284852054
+  },
+  "soACaoKi7Qs": {
+   "id": "soACaoKi7Qs",
+   "title": "Gustavo Ruíz: CONEXIÓN MENTE Y CUERPO: ¿CÓMO FUNCIONA? | La Fórmula Podcast",
+   "publishedAt": "2026-10-21T15:00:05Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794284852054
   }
  },
  "sent": {
@@ -1295,8 +1293,8 @@
   "r-k2Dkla7G8:new": 1794264614619
  },
  "day": {
-  "date": "2026-11-09",
-  "count": 8
+  "date": "2026-11-10",
+  "count": 0
  },
  "initialized": true,
  "lastDigest": "2026-11-09",
