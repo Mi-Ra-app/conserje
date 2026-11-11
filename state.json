@@ -5,159 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "VzThkn2Q6po": {
-   "id": "VzThkn2Q6po",
-   "title": "¿CHINA PONE EN RIESGO A ARGENTINA?",
-   "publishedAt": "2026-11-07T17:10:18Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794080232673
-  },
-  "Y2eamoeND20": {
-   "id": "Y2eamoeND20",
-   "title": "¿CÓMO NACIÓ EL JINGLE DE MAROLIO?",
-   "publishedAt": "2026-11-07T20:32:23Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794092405542
-  },
-  "oDr0-DXXuLA": {
-   "id": "oDr0-DXXuLA",
-   "title": "El informe que ENCENDIÓ las alarmas en los bolsillos argentinos | Willy Laborda",
-   "publishedAt": "2026-11-07T20:00:35Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794092405542
-  },
-  "EHZ27AcOXAE": {
-   "id": "EHZ27AcOXAE",
-   "title": "\"LA ARGENTINA TIENE DÓLARES\" | Javier Timerman y la verdad que NADIE cuenta",
-   "publishedAt": "2026-11-08T00:00:16Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794104150095
-  },
-  "l4g53QnLsAI": {
-   "id": "l4g53QnLsAI",
-   "title": "¿TU EMPRESA SE PUEDE VENDER?",
-   "publishedAt": "2026-11-07T23:14:26Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [
-    "Sin Manual"
-   ],
-   "via": {
-    "Sin Manual": "la descripción"
-   },
-   "people": [],
-   "firstSeen": 1794104150095
-  },
-  "5FJK-UbSutI": {
-   "id": "5FJK-UbSutI",
-   "title": "China convirtió su economía en una POTENCIA: qué podría aprender la Argentina | Rochi Grimaldi",
-   "publishedAt": "2026-11-08T15:00:15Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794154128912
-  },
-  "HSxBL4Yrt_o": {
-   "id": "HSxBL4Yrt_o",
-   "title": "SOLÁ: \"EL PERONISMO NO ES POPULISTA\"",
-   "publishedAt": "2026-11-08T14:08:32Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794154128912
-  },
-  "NKhZfE8AfoU": {
-   "id": "NKhZfE8AfoU",
-   "title": "De vender carne a comprar Marolio: cómo empezó la expansión de una familia | Sello Argento",
-   "publishedAt": "2026-11-08T13:00:17Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794154128912
-  },
-  "aj7Soti_Kuo": {
-   "id": "aj7Soti_Kuo",
-   "title": "¿Dónde está el éxito?",
-   "publishedAt": "2026-11-08T15:00:10Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794154128912
-  },
-  "LCsBnb0E7N8": {
-   "id": "LCsBnb0E7N8",
-   "title": "La adrenalina y el miedo de un deporte extremo",
-   "publishedAt": "2026-11-08T15:00:04Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794154128912
-  },
-  "i8q25GRQckA": {
-   "id": "i8q25GRQckA",
-   "title": "Un infarto le hizo entender que habia que parar",
-   "publishedAt": "2026-11-08T14:00:23Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794154128912
-  },
   "guavmlLEk1o": {
    "id": "guavmlLEk1o",
    "title": "ESTA ES LA MEJOR MANERA PARA GANAR MÁS PLATA",
@@ -259,66 +106,6 @@
    "publishedAt": "2026-11-08T17:15:00Z",
    "status": "none",
    "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794169661550
-  },
-  "yd7dtZquqYg": {
-   "id": "yd7dtZquqYg",
-   "title": "¿Dónde hay que invertir?",
-   "publishedAt": "2026-11-08T17:14:10Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794169661550
-  },
-  "YceiwqwTzuM": {
-   "id": "YceiwqwTzuM",
-   "title": "La Mesaza Financiera",
-   "publishedAt": "2026-11-08T17:13:29Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794169661550
-  },
-  "voJqBfzt4w0": {
-   "id": "voJqBfzt4w0",
-   "title": "Empezó a trabajar a los 13 años y creó una empresa que llegó a Boca, River y el Teatro Colón",
-   "publishedAt": "2026-11-08T17:09:48Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794169661550
-  },
-  "Rrd6cjT6GTY": {
-   "id": "Rrd6cjT6GTY",
-   "title": "#127 - El Rey de las pantallas Led, Daniel Carnaghi",
-   "publishedAt": "2026-11-08T23:00:09Z",
-   "status": "none",
-   "start": "2026-11-08T23:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
    "programs": [
@@ -1081,9 +868,9 @@
   },
   "T3Uu52M7Ntc": {
    "id": "T3Uu52M7Ntc",
-   "title": "🟡 EN VIVO | PULSO FINANCIERO con Willy Laborda, Flor Barragan y Santi Escobar",
-   "publishedAt": "2026-11-11T13:23:45Z",
-   "status": "live",
+   "title": "“LOS ARGENTINOS SEGUIMOS COMPRANDO DÓLARES”: El dato de MATÍAS SURT que SORPRENDE",
+   "publishedAt": "2026-11-11T15:19:31Z",
+   "status": "none",
    "start": "2026-11-11T14:00:00Z",
    "channel": "El Cronista Stream",
    "handle": "@Cronista_ar",
@@ -1133,9 +920,9 @@
   },
   "vHQSbwNUlg0": {
    "id": "vHQSbwNUlg0",
-   "title": "🟣 EN VIVO | CUENTAS CLARAS con Sebas Davidovsky y Cata De Elía",
-   "publishedAt": "2026-11-11T13:25:18Z",
-   "status": "upcoming",
+   "title": "EL BOMBAZO DE MARTÍN TETAZ: \"SI MILEI CONSIGUE ESTO, ES REELECTO\" | Cuentas Claras",
+   "publishedAt": "2026-11-11T17:10:54Z",
+   "status": "none",
    "start": "2026-11-11T15:00:00Z",
    "channel": "El Cronista Stream",
    "handle": "@Cronista_ar",
@@ -1143,6 +930,211 @@
    "via": {},
    "people": [],
    "firstSeen": 1794409755339
+  },
+  "KaJ-15NQbrI": {
+   "id": "KaJ-15NQbrI",
+   "title": "NVIDIA BAJO SOSPECHA: el romance que abrió una investigación por espionaje | Yayi Morales",
+   "publishedAt": "2026-11-11T20:30:20Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794434120556
+  },
+  "56UtwpfWJ9Q": {
+   "id": "56UtwpfWJ9Q",
+   "title": "CÓMO EMPEZAR A AHORRAR PARA TU JUBILACIÓN 💰​",
+   "publishedAt": "2026-11-11T20:00:03Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794434120556
+  },
+  "rFxsyNIhhrI": {
+   "id": "rFxsyNIhhrI",
+   "title": "¿QUÉ PASARÍA CON KICILLOF PRESIDENTE?",
+   "publishedAt": "2026-11-11T19:53:59Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794434120556
+  },
+  "xuI6WKjKWyM": {
+   "id": "xuI6WKjKWyM",
+   "title": "“ARGENTINA, LEVÁNTATE Y CAMINA”: EL MENSAJE DE LEÓN XIV QUE CONMOVIÓ A TODO EL PAÍS",
+   "publishedAt": "2026-11-11T19:00:14Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794434120556
+  },
+  "0_oWl6R-aIU": {
+   "id": "0_oWl6R-aIU",
+   "title": "EN VIVO | CONFERENCIA DE PRENSA DE RAVIER TRAS LA VISITA DEL PAPA LEON XIV",
+   "publishedAt": "2026-11-11T18:04:19Z",
+   "status": "none",
+   "start": "2026-11-11T18:05:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794434120556
+  },
+  "I7k5c8unRNY": {
+   "id": "I7k5c8unRNY",
+   "title": "LOS AHORRISTAS YA COMPRAN MUCHO MÁS QUE EL BCRA",
+   "publishedAt": "2026-11-11T18:14:10Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794434120556
+  },
+  "VcBezm2xHaU": {
+   "id": "VcBezm2xHaU",
+   "title": "🔴 EN VIVO | JAVIER MILEI DESPIDE AL PAPA LEÓN XIV TRAS SU HISTÓRICA VISITA",
+   "publishedAt": "2026-11-11T17:46:59Z",
+   "status": "none",
+   "start": "2026-11-11T16:30:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794434120556
+  },
+  "ajzvBNeI7Yg": {
+   "id": "ajzvBNeI7Yg",
+   "title": "Milei frente a una deuda que la Argentina arrastra hace 40 años | Martín Tetaz",
+   "publishedAt": "2026-11-11T17:30:20Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794434120556
+  },
+  "DRNWPyXNYAE": {
+   "id": "DRNWPyXNYAE",
+   "title": "¿LA POLÍTICA DEFIENDE EL EQUILIBRIO FISCAL?",
+   "publishedAt": "2026-11-11T17:27:39Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794434120556
+  },
+  "XSsVYad08WI": {
+   "id": "XSsVYad08WI",
+   "title": "\"EL GOBIERNO EVITÓ UNA CRISIS\" | Matías Surt opinó sobre el plan de Milei",
+   "publishedAt": "2026-11-11T16:08:58Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794434120556
+  },
+  "IAL8aUe0dZ4": {
+   "id": "IAL8aUe0dZ4",
+   "title": "#8 - El Benjamin Button argentino, Marcos Apud",
+   "publishedAt": "2026-11-11T20:08:36Z",
+   "status": "upcoming",
+   "start": "2026-11-12T01:00:00Z",
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794434120556
+  },
+  "322l-5fVG50": {
+   "id": "322l-5fVG50",
+   "title": "La alimentación durante el embarazo y el impacto en los chicos",
+   "publishedAt": "2026-11-11T20:00:19Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794434120556
+  },
+  "-CC6tg576mg": {
+   "id": "-CC6tg576mg",
+   "title": "Se produce más, pero la población del campo se desarrolla cada vez menos",
+   "publishedAt": "2026-11-11T18:00:12Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794434120556
+  },
+  "4_lkPmHKdk0": {
+   "id": "4_lkPmHKdk0",
+   "title": "¿La IA nos saca capacidad de pensar?",
+   "publishedAt": "2026-11-11T18:00:08Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794434120556
+  },
+  "p-ouleb0ie0": {
+   "id": "p-ouleb0ie0",
+   "title": "#71 - De pequeños terrenos a construir más de 250.000 m² - Adolfo Cioffi",
+   "publishedAt": "2026-11-11T12:14:30Z",
+   "status": "upcoming",
+   "start": "2026-11-11T23:00:00Z",
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794434120556
   }
  },
  "sent": {
@@ -1317,11 +1309,12 @@
   "DNxDN74BRPQ:new": 1794409755339,
   "1IEr7cNaO9c:new": 1794409755339,
   "GhW4yhawPDA:new": 1794409755339,
-  "KtoTrGkcgPI:new": 1794409755339
+  "KtoTrGkcgPI:new": 1794409755339,
+  "IAL8aUe0dZ4:new": 1794434120556
  },
  "day": {
   "date": "2026-11-11",
-  "count": 7
+  "count": 8
  },
  "initialized": true,
  "lastDigest": "2026-11-11",
