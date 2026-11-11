@@ -5,101 +5,10 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "ezVjn-l_h78": {
-   "id": "ezVjn-l_h78",
-   "title": "TRUCO ENTRE ANDREW Y PABLITO de la mano de Pampa Cerveza Argentina",
-   "publishedAt": "2026-11-06T20:36:29Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794004664769
-  },
-  "KMRfDiOnLQU": {
-   "id": "KMRfDiOnLQU",
-   "title": "¿EXISTE UN CHIZITO SALUDABLE?",
-   "publishedAt": "2026-11-06T20:09:42Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794004664769
-  },
-  "UofD92uiXQQ": {
-   "id": "UofD92uiXQQ",
-   "title": "INFLACIÓN OCTUBRE: el dato de CABA anticipa una CIFRA CLAVE para todo el país",
-   "publishedAt": "2026-11-06T20:00:34Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794004664769
-  },
-  "cbZZdPo3CCY": {
-   "id": "cbZZdPo3CCY",
-   "title": "UN SÁNDWICH PARA EL CAMINO",
-   "publishedAt": "2026-11-06T18:31:50Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794004664769
-  },
-  "HmCkR5RZROE": {
-   "id": "HmCkR5RZROE",
-   "title": "DEBATE PICANTE POR LA ECONOMÍA ARGENTINA: \"LA DEUDA SE REDUJO EN LA GESTIÓN MILEI\"",
-   "publishedAt": "2026-11-06T18:30:13Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794004664769
-  },
   "2KeCxRemIHQ": {
    "id": "2KeCxRemIHQ",
    "title": "¿DE CANILLITA A CAFETERÍA?: el NEGOCIO que lanzaron con puestos de diarios",
    "publishedAt": "2026-11-07T00:36:15Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794018141517
-  },
-  "Pt1oSsUuYew": {
-   "id": "Pt1oSsUuYew",
-   "title": "TRUMP APUESTA A LA POLÍTICA EXTERIOR PARA SU LEGADO",
-   "publishedAt": "2026-11-07T00:30:11Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794018141517
-  },
-  "ixqCvAjPz_o": {
-   "id": "ixqCvAjPz_o",
-   "title": "CRUCE POR LA DEUDA: ¿SE REDUJO CON MILEI?",
-   "publishedAt": "2026-11-06T22:42:26Z",
    "status": "none",
    "start": null,
    "channel": "El Cronista Stream",
@@ -935,9 +844,9 @@
   },
   "G-NsE_UR5bo": {
    "id": "G-NsE_UR5bo",
-   "title": "🔵 EN VIVO | Gastón Riveira, dueño de La Cabrera, en Sello Argento con Jairo Straccia",
+   "title": "\"TODOS LOS DÍAS TENÉS QUE LEVANTAR LA PERSIANA\": Dueño de LA CABRERA | Sello Argento",
    "publishedAt": "2026-11-10T19:06:10Z",
-   "status": "upcoming",
+   "status": "none",
    "start": "2026-11-10T22:00:00Z",
    "channel": "El Cronista Stream",
    "handle": "@Cronista_ar",
@@ -1076,8 +985,8 @@
   "DNxDN74BRPQ": {
    "id": "DNxDN74BRPQ",
    "title": "#51 - La presión que rodea al tenis, Diego \"Peque\" Schwartzman",
-   "publishedAt": "2026-11-09T15:31:13Z",
-   "status": "upcoming",
+   "publishedAt": "2026-11-10T23:00:11Z",
+   "status": "none",
    "start": "2026-11-10T23:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -1132,6 +1041,110 @@
    "via": {},
    "people": [],
    "firstSeen": 1794341402708
+  },
+  "4t7B1TSTngs": {
+   "id": "4t7B1TSTngs",
+   "title": "¿CUÁL ES EL SECRETO DEL ÉXITO DE LA CABRERA?",
+   "publishedAt": "2026-11-11T00:31:49Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794357568612
+  },
+  "jP-Mxmfi2Jo": {
+   "id": "jP-Mxmfi2Jo",
+   "title": "DUEÑO DE LA CABRERA: \"SOY UN ROBIN HOOD DE LA GASTRONOMÍA\"",
+   "publishedAt": "2026-11-10T22:05:04Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794357568612
+  },
+  "1IEr7cNaO9c": {
+   "id": "1IEr7cNaO9c",
+   "title": "“ESTÁS DISCUTIENDO TEMAS QUE ANTES NO DISCUTÍAS”: Claudio Zuchovicki y el CAMBIO que llegó con MILEI",
+   "publishedAt": "2026-11-10T21:00:36Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [
+    {
+     "name": "Claudio Zuchovicki",
+     "confidence": "alta"
+    }
+   ],
+   "firstSeen": 1794357568612
+  },
+  "GhW4yhawPDA": {
+   "id": "GhW4yhawPDA",
+   "title": "¿Brasil nos gana la carrera agropecuaria?",
+   "publishedAt": "2026-11-10T21:00:35Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794357568612
+  },
+  "LXFj95Zt3J8": {
+   "id": "LXFj95Zt3J8",
+   "title": "Ricky Sarkany: “MI MAMÁ ME CONSOLÓ A MI EL DÍA DE SU MUERTE” | La Fórmula Podcast",
+   "publishedAt": "2026-11-06T20:00:02Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794357568612
+  },
+  "eYRgEsuhC7A": {
+   "id": "eYRgEsuhC7A",
+   "title": "Ricky Sarkany: “GUSTAVO YANKELEVICH CAMBIÓ MI DUELO” | La Fórmula Podcast",
+   "publishedAt": "2026-11-06T18:34:15Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794357568612
+  },
+  "Is6GWHL0Kfg": {
+   "id": "Is6GWHL0Kfg",
+   "title": "Ricky Sarkany: “TENÉS QUE TENER ALGO POR LO QUE VIVIR” | La Fórmula Podcast",
+   "publishedAt": "2026-11-06T18:31:25Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794357568612
   }
  },
  "sent": {
