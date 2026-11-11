@@ -5,19 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "2KeCxRemIHQ": {
-   "id": "2KeCxRemIHQ",
-   "title": "¿DE CANILLITA A CAFETERÍA?: el NEGOCIO que lanzaron con puestos de diarios",
-   "publishedAt": "2026-11-07T00:36:15Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794018141517
-  },
   "nfTnplcQ5Gk": {
    "id": "nfTnplcQ5Gk",
    "title": "Tipo de cambio flexible: qué le falta al BCRA para que funcione en Argentina | María Castiglioni",
@@ -1145,6 +1132,21 @@
    "via": {},
    "people": [],
    "firstSeen": 1794357568612
+  },
+  "KtoTrGkcgPI": {
+   "id": "KtoTrGkcgPI",
+   "title": "#13 - La historia del cofundador de Turismocity, Julián Gurfinkiel",
+   "publishedAt": "2026-11-11T01:00:10Z",
+   "status": "none",
+   "start": "2026-11-11T01:00:00Z",
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794380910915
   }
  },
  "sent": {
@@ -1315,8 +1317,8 @@
   "-yCjc_S2Ibk:new": 1794341402708
  },
  "day": {
-  "date": "2026-11-10",
-  "count": 8
+  "date": "2026-11-11",
+  "count": 0
  },
  "initialized": true,
  "lastDigest": "2026-11-10",
