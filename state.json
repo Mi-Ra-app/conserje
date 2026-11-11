@@ -5,75 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "nfTnplcQ5Gk": {
-   "id": "nfTnplcQ5Gk",
-   "title": "Tipo de cambio flexible: qué le falta al BCRA para que funcione en Argentina | María Castiglioni",
-   "publishedAt": "2026-11-07T15:00:18Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794065917505
-  },
-  "xfxiF9iB7Ss": {
-   "id": "xfxiF9iB7Ss",
-   "title": "¿PESA EL BOLSILLO AL VOTAR?",
-   "publishedAt": "2026-11-07T14:06:50Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794065917505
-  },
-  "kkR-tGCvfGo": {
-   "id": "kkR-tGCvfGo",
-   "title": "\"QUIERO TENER MÁS EMPLEADOS, NO MENOS\" | Víctor Fera en Sello Argento",
-   "publishedAt": "2026-11-07T13:00:04Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794065917505
-  },
-  "ZRyQ14GJ-xQ": {
-   "id": "ZRyQ14GJ-xQ",
-   "title": "La importancia de generar química con los inversores",
-   "publishedAt": "2026-11-07T14:00:33Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794065917505
-  },
-  "fLT-9mfWccI": {
-   "id": "fLT-9mfWccI",
-   "title": "Las cosencuencias de estar entre los mejores restaurantes del mundo",
-   "publishedAt": "2026-11-07T14:00:31Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794065917505
-  },
   "VzThkn2Q6po": {
    "id": "VzThkn2Q6po",
    "title": "¿CHINA PONE EN RIESGO A ARGENTINA?",
@@ -832,7 +763,7 @@
   "G-NsE_UR5bo": {
    "id": "G-NsE_UR5bo",
    "title": "\"TODOS LOS DÍAS TENÉS QUE LEVANTAR LA PERSIANA\": Dueño de LA CABRERA | Sello Argento",
-   "publishedAt": "2026-11-10T19:06:10Z",
+   "publishedAt": "2026-11-11T11:06:04Z",
    "status": "none",
    "start": "2026-11-10T22:00:00Z",
    "channel": "El Cronista Stream",
@@ -1147,6 +1078,71 @@
    "via": {},
    "people": [],
    "firstSeen": 1794380910915
+  },
+  "T3Uu52M7Ntc": {
+   "id": "T3Uu52M7Ntc",
+   "title": "🟡 EN VIVO | PULSO FINANCIERO con Willy Laborda, Flor Barragan y Santi Escobar",
+   "publishedAt": "2026-11-11T13:23:45Z",
+   "status": "live",
+   "start": "2026-11-11T14:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794409755339
+  },
+  "909QI8gRA6k": {
+   "id": "909QI8gRA6k",
+   "title": "EN VIVO | SANTA MISA CON EL PAPA LEÓN XIV EN LUJÁN",
+   "publishedAt": "2026-11-11T13:39:42Z",
+   "status": "none",
+   "start": "2026-11-11T13:40:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794409755339
+  },
+  "O5hKDyEbvJg": {
+   "id": "O5hKDyEbvJg",
+   "title": "¿Por qué las pymes pagan tantos impuestos en Argentina? | Esteban Wolf",
+   "publishedAt": "2026-11-11T14:20:37Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794409755339
+  },
+  "ve7TPKJid4w": {
+   "id": "ve7TPKJid4w",
+   "title": "ECONOMÍA HELICÓPTERO: ¿CÓMO ANALIZAR LOS INCENTIVOS DE DOS ECONOMÍAS DESDE EL ESPACIO AÉREO?",
+   "publishedAt": "2026-11-11T14:11:36Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794409755339
+  },
+  "vHQSbwNUlg0": {
+   "id": "vHQSbwNUlg0",
+   "title": "🟣 EN VIVO | CUENTAS CLARAS con Sebas Davidovsky y Cata De Elía",
+   "publishedAt": "2026-11-11T13:25:18Z",
+   "status": "upcoming",
+   "start": "2026-11-11T15:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794409755339
   }
  },
  "sent": {
@@ -1314,15 +1310,22 @@
   "OaUin4RLvAM:new": 1794315182724,
   "yLPgL-LZDm4:new": 1794315182724,
   "XsdopVQf6kE:new": 1794341402708,
-  "-yCjc_S2Ibk:new": 1794341402708
+  "-yCjc_S2Ibk:new": 1794341402708,
+  "lexHpiUY2EI:new": 1794409755339,
+  "W41Yd4w6-hE:new": 1794409755339,
+  "L9UI4zvuzO0:new": 1794409755339,
+  "DNxDN74BRPQ:new": 1794409755339,
+  "1IEr7cNaO9c:new": 1794409755339,
+  "GhW4yhawPDA:new": 1794409755339,
+  "KtoTrGkcgPI:new": 1794409755339
  },
  "day": {
   "date": "2026-11-11",
-  "count": 0
+  "count": 7
  },
  "initialized": true,
- "lastDigest": "2026-11-10",
- "lastDigestAt": 1794315182724,
+ "lastDigest": "2026-11-11",
+ "lastDigestAt": 1794409755339,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
