@@ -852,7 +852,7 @@
   "909QI8gRA6k": {
    "id": "909QI8gRA6k",
    "title": "EN VIVO | SANTA MISA CON EL PAPA LEÓN XIV EN LUJÁN",
-   "publishedAt": "2026-11-11T13:39:42Z",
+   "publishedAt": "2026-11-12T03:01:08Z",
    "status": "none",
    "start": "2026-11-11T13:40:00Z",
    "channel": "El Cronista Stream",
@@ -956,7 +956,7 @@
   "0_oWl6R-aIU": {
    "id": "0_oWl6R-aIU",
    "title": "EN VIVO | CONFERENCIA DE PRENSA DE RAVIER TRAS LA VISITA DEL PAPA LEON XIV",
-   "publishedAt": "2026-11-11T18:04:19Z",
+   "publishedAt": "2026-11-12T06:50:16Z",
    "status": "none",
    "start": "2026-11-11T18:05:00Z",
    "channel": "El Cronista Stream",
@@ -1306,11 +1306,15 @@
   "1IEr7cNaO9c:new": 1794409755339,
   "GhW4yhawPDA:new": 1794409755339,
   "KtoTrGkcgPI:new": 1794409755339,
-  "IAL8aUe0dZ4:new": 1794434120556
+  "IAL8aUe0dZ4:new": 1794434120556,
+  "322l-5fVG50:new": 1794478785091,
+  "-CC6tg576mg:new": 1794478785091,
+  "4_lkPmHKdk0:new": 1794478785091,
+  "p-ouleb0ie0:new": 1794478785091
  },
  "day": {
-  "date": "2026-11-11",
-  "count": 8
+  "date": "2026-11-12",
+  "count": 4
  },
  "initialized": true,
  "lastDigest": "2026-11-11",
