@@ -85,36 +85,6 @@
    "people": [],
    "firstSeen": 1794169661550
   },
-  "7xJ4JPXwDgY": {
-   "id": "7xJ4JPXwDgY",
-   "title": "La diferencia entre invertir en Real Estate y el Mercado de Capitales",
-   "publishedAt": "2026-11-08T17:16:18Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794169661550
-  },
-  "9LPizCv4hP8": {
-   "id": "9LPizCv4hP8",
-   "title": "¿Cómo se compra un banco?",
-   "publishedAt": "2026-11-08T17:15:00Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794169661550
-  },
   "IpvH2zfGaY0": {
    "id": "IpvH2zfGaY0",
    "title": "✝ JAVIER MILEI RECIBIÓ AL PAPA LEÓN XIV EN CASA ROSADA",
@@ -1064,8 +1034,8 @@
   "IAL8aUe0dZ4": {
    "id": "IAL8aUe0dZ4",
    "title": "#8 - El Benjamin Button argentino, Marcos Apud",
-   "publishedAt": "2026-11-11T20:08:36Z",
-   "status": "upcoming",
+   "publishedAt": "2026-11-12T01:00:08Z",
+   "status": "none",
    "start": "2026-11-12T01:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -1124,8 +1094,8 @@
   "p-ouleb0ie0": {
    "id": "p-ouleb0ie0",
    "title": "#71 - De pequeños terrenos a construir más de 250.000 m² - Adolfo Cioffi",
-   "publishedAt": "2026-11-11T12:14:30Z",
-   "status": "upcoming",
+   "publishedAt": "2026-11-11T23:00:08Z",
+   "status": "none",
    "start": "2026-11-11T23:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -1135,6 +1105,32 @@
    "via": {},
    "people": [],
    "firstSeen": 1794434120556
+  },
+  "uwKfXNJKS0M": {
+   "id": "uwKfXNJKS0M",
+   "title": "¿ESPIONAJE EN NVIDIA? El ESCÁNDALO del CEO y su amante",
+   "publishedAt": "2026-11-11T23:05:41Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794451177248
+  },
+  "6WVQNRp9UTA": {
+   "id": "6WVQNRp9UTA",
+   "title": "Qué está viendo el mercado que hace subir el riesgo país de la Argentina | Cuentas Claras",
+   "publishedAt": "2026-11-11T22:00:08Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794451177248
   }
  },
  "sent": {
