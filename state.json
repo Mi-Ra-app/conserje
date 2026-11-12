@@ -5,127 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "guavmlLEk1o": {
-   "id": "guavmlLEk1o",
-   "title": "ESTA ES LA MEJOR MANERA PARA GANAR MÁS PLATA",
-   "publishedAt": "2026-11-08T20:04:16Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794169661550
-  },
-  "hcrRZ_nVM5k": {
-   "id": "hcrRZ_nVM5k",
-   "title": "🚨 ASÍ LLEGÓ EL PAPA LEÓN XIV A LA ARGENTINA",
-   "publishedAt": "2026-11-09T08:07:10Z",
-   "status": "none",
-   "start": "2026-11-08T19:30:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794169661550
-  },
-  "vfiGDaMM6cI": {
-   "id": "vfiGDaMM6cI",
-   "title": "DISCURSOS DEL PAPA LEÓN XIV y JAVIER MILEI en el PALACIO LIBERTAD | Cadena Nacional 8/11/26",
-   "publishedAt": "2026-11-08T22:33:35Z",
-   "status": "none",
-   "start": "2026-11-08T21:30:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794169661550
-  },
-  "1jdqEZdlfeY": {
-   "id": "1jdqEZdlfeY",
-   "title": "IMPUESTO A LOS CEDEARS: Yosovitch EXPLOTÓ y abrió un debate CALIENTE en Nada Personal",
-   "publishedAt": "2026-11-08T18:00:10Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794169661550
-  },
-  "ihWy6IjYF9w": {
-   "id": "ihWy6IjYF9w",
-   "title": "LA DURA ADVERTENCIA DE YOSOVITCH SOBRE LOS MERCADOS: ¿VUELVE EL KIRCHNERISMO?",
-   "publishedAt": "2026-11-08T17:10:55Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794169661550
-  },
-  "h0CJKQKEF-w": {
-   "id": "h0CJKQKEF-w",
-   "title": "El sistema educativo ve al campo como algo negativo",
-   "publishedAt": "2026-11-08T17:17:22Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794169661550
-  },
-  "IpvH2zfGaY0": {
-   "id": "IpvH2zfGaY0",
-   "title": "✝ JAVIER MILEI RECIBIÓ AL PAPA LEÓN XIV EN CASA ROSADA",
-   "publishedAt": "2026-11-09T09:08:04Z",
-   "status": "none",
-   "start": "2026-11-08T20:35:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794182058223
-  },
-  "mivDbmL721o": {
-   "id": "mivDbmL721o",
-   "title": "León XIV llega a la Argentina y abre un debate que va más allá de la religión | Cuentas Claras",
-   "publishedAt": "2026-11-08T21:00:32Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794182058223
-  },
-  "JRstf_a8RCs": {
-   "id": "JRstf_a8RCs",
-   "title": "La diferencia de costos con China",
-   "publishedAt": "2026-11-08T21:00:07Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794182058223
-  },
   "2p_qSGv8GVI": {
    "id": "2p_qSGv8GVI",
    "title": "Los argentinos siguen comprando dólares: ¿qué efecto tiene en la economía de Milei?",
@@ -345,21 +224,6 @@
    "publishedAt": "2026-11-09T21:36:13Z",
    "status": "none",
    "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794264614619
-  },
-  "yLPgL-LZDm4": {
-   "id": "yLPgL-LZDm4",
-   "title": "#45 - ¿Cómo logra Norimoto tener 25.000 clientes por mes?, Valentin McArdle",
-   "publishedAt": "2026-11-09T23:00:07Z",
-   "status": "none",
-   "start": "2026-11-09T23:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
    "programs": [
@@ -1131,6 +995,144 @@
    "via": {},
    "people": [],
    "firstSeen": 1794451177248
+  },
+  "iWQSylZm39Q": {
+   "id": "iWQSylZm39Q",
+   "title": "Cómo adaptar tu negocio a un futuro que ya está cambiando las reglas | Sin Manual con Jonatan Loidi",
+   "publishedAt": "2026-11-12T13:06:12Z",
+   "status": "none",
+   "start": "2026-11-12T17:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [
+    "Sin Manual"
+   ],
+   "via": {
+    "Sin Manual": "el título"
+   },
+   "people": [],
+   "firstSeen": 1794508170994
+  },
+  "DZGbLmvQ9Pw": {
+   "id": "DZGbLmvQ9Pw",
+   "title": "¿EL RUMBO ECONÓMICO DE MILEI ES EL CORRECTO? Roberto García Moritán | Cuentas Claras",
+   "publishedAt": "2026-11-12T17:41:15Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794508170994
+  },
+  "VJDTGOSm_0I": {
+   "id": "VJDTGOSm_0I",
+   "title": "\"HAY QUE DARLE COMPETIVIDAD A LAS PYMES\": Roberto García Moritán en Cuentas Claras",
+   "publishedAt": "2026-11-12T17:16:38Z",
+   "status": "none",
+   "start": "2026-11-12T15:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794508170994
+  },
+  "26ePRL8Q4xY": {
+   "id": "26ePRL8Q4xY",
+   "title": "ESCÁNDALO DE NVIDIA: ¿QUÉ VA A PASAR CON LAS ACCIONES?",
+   "publishedAt": "2026-11-12T16:49:06Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794508170994
+  },
+  "Qxjgj6oHd7c": {
+   "id": "Qxjgj6oHd7c",
+   "title": "¿POR QUÉ ARGENTINA NO LOGRA BAJAR EL RIESGO PAÍS? | José Dapena",
+   "publishedAt": "2026-11-12T15:59:21Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794508170994
+  },
+  "Lgqqi_AaFCA": {
+   "id": "Lgqqi_AaFCA",
+   "title": "ESCÁNDALO MUNDIAL: Willy Laborda REACCIONA a la RENUNCIA de JENSEN HUANG, CEO DE NVIDIA",
+   "publishedAt": "2026-11-12T15:20:37Z",
+   "status": "none",
+   "start": "2026-11-12T14:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794508170994
+  },
+  "6cn0xTw7DpQ": {
+   "id": "6cn0xTw7DpQ",
+   "title": "NVIDIA EN SHOCK: Jensen Huang renuncio a su cargo como CEO",
+   "publishedAt": "2026-11-12T15:05:15Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794508170994
+  },
+  "ITOoGwswPlQ": {
+   "id": "ITOoGwswPlQ",
+   "title": "LA PROVINCIA DE CÓRDOBA TIENE SU PROPIO SUR",
+   "publishedAt": "2026-11-12T13:42:18Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794508170994
+  },
+  "e2TVQHPGnHs": {
+   "id": "e2TVQHPGnHs",
+   "title": "Le dijeron que 9 de cada 10 empresas cerraban, pero el confió en la suya",
+   "publishedAt": "2026-11-12T17:00:06Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794508170994
+  },
+  "woGcrmt93q0": {
+   "id": "woGcrmt93q0",
+   "title": "Tener toda la información no asegura el éxito de la inversión",
+   "publishedAt": "2026-11-12T14:00:01Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794508170994
   }
  },
  "sent": {
@@ -1310,15 +1312,18 @@
   "322l-5fVG50:new": 1794478785091,
   "-CC6tg576mg:new": 1794478785091,
   "4_lkPmHKdk0:new": 1794478785091,
-  "p-ouleb0ie0:new": 1794478785091
+  "p-ouleb0ie0:new": 1794478785091,
+  "iWQSylZm39Q:new": 1794508170994,
+  "e2TVQHPGnHs:new": 1794508170994,
+  "woGcrmt93q0:new": 1794508170994
  },
  "day": {
   "date": "2026-11-12",
-  "count": 4
+  "count": 7
  },
  "initialized": true,
- "lastDigest": "2026-11-11",
- "lastDigestAt": 1794409755339,
+ "lastDigest": "2026-11-12",
+ "lastDigestAt": 1794508170994,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
