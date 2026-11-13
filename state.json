@@ -5,34 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "-xtQRxQ5zr8": {
-   "id": "-xtQRxQ5zr8",
-   "title": "DUEÑO DE MAROLIO: \"QUIERO TENER MÁS EMPLEADOS, NO MENOS\"",
-   "publishedAt": "2026-11-09T22:55:07Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794284852054
-  },
-  "PNwX2iZgt1M": {
-   "id": "PNwX2iZgt1M",
-   "title": "El error que te hace abandonar tus objetivos con Sofía Contreras | La Fórmula Podcast",
-   "publishedAt": "2026-10-23T11:00:03Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794284852054
-  },
   "g6gPfhxNrdU": {
    "id": "g6gPfhxNrdU",
    "title": "Darío Sztajnszrajber: “ESTA ES LA ÚNICA MANERA DE CONOCERNOS” | La Fórmula Podcast",
@@ -67,36 +39,6 @@
    "id": "e0kcMlGVwEE",
    "title": "Lo que la muerte nos enseña sobre la vida con Darío Sztajnszrajber | La Fórmula Podcast",
    "publishedAt": "2026-10-30T11:00:19Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794315182724
-  },
-  "5w_1KjkLvUg": {
-   "id": "5w_1KjkLvUg",
-   "title": "Sofía Contreras: MENTALIDAD FIJA VS. MENTALIDAD DE CRECIMIENTO | La Fórmula Podcast",
-   "publishedAt": "2026-10-23T17:00:28Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794315182724
-  },
-  "D0u1_jgafn8": {
-   "id": "D0u1_jgafn8",
-   "title": "Sofía Contreras: LAS DOS CLAVES PARA TU ÉXITO PERSONAL | La Fórmula Podcast",
-   "publishedAt": "2026-10-23T14:14:38Z",
    "status": "none",
    "start": null,
    "channel": "La Fórmula Podcast",
@@ -948,7 +890,7 @@
    "id": "2-sYXVO66Ts",
    "title": "#67 - El desafío de transformar el agro argentino, María Pisanu",
    "publishedAt": "2026-11-12T23:00:20Z",
-   "status": "live",
+   "status": "none",
    "start": "2026-11-12T23:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -1127,8 +1069,8 @@
   "pv4nJD7Ye6A": {
    "id": "pv4nJD7Ye6A",
    "title": "#4 - Misión 4 - ¿Qué AMBA necesitamos para la Argentina Potencia?, María Migliore y Alejandro Csome",
-   "publishedAt": "2026-11-12T14:50:33Z",
-   "status": "upcoming",
+   "publishedAt": "2026-11-13T01:00:08Z",
+   "status": "none",
    "start": "2026-11-13T01:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -1138,6 +1080,64 @@
    "via": {},
    "people": [],
    "firstSeen": 1794527295044
+  },
+  "pcMQL_QP_A0": {
+   "id": "pcMQL_QP_A0",
+   "title": "MORITÁN: \"DONDE HAY UNA PROHIBICIÓN, HAY NEGOCIO\"",
+   "publishedAt": "2026-11-13T00:20:14Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794544672802
+  },
+  "qOI2AoaTlyM": {
+   "id": "qOI2AoaTlyM",
+   "title": "Gustavo Ruíz: “ASÍ ES SER EL PSICÓLOGO DE LOS MEJORES” | La Fórmula Podcast",
+   "publishedAt": "2026-10-21T19:00:25Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794544672802
+  },
+  "K13DWoTIuh0": {
+   "id": "K13DWoTIuh0",
+   "title": "Gustavo Ruíz: “VISUALIZAR TE PUEDE LLEVAR AL ORO” | La Fórmula Podcast",
+   "publishedAt": "2026-10-21T16:00:26Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794544672802
+  },
+  "soACaoKi7Qs": {
+   "id": "soACaoKi7Qs",
+   "title": "Gustavo Ruíz: CONEXIÓN MENTE Y CUERPO: ¿CÓMO FUNCIONA? | La Fórmula Podcast",
+   "publishedAt": "2026-10-21T15:00:05Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794544672802
   }
  },
  "sent": {
@@ -1324,8 +1324,8 @@
   "zbfQglNJCyk:new": 1794527295044
  },
  "day": {
-  "date": "2026-11-12",
-  "count": 8
+  "date": "2026-11-13",
+  "count": 0
  },
  "initialized": true,
  "lastDigest": "2026-11-12",
