@@ -5,51 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "g6gPfhxNrdU": {
-   "id": "g6gPfhxNrdU",
-   "title": "Darío Sztajnszrajber: “ESTA ES LA ÚNICA MANERA DE CONOCERNOS” | La Fórmula Podcast",
-   "publishedAt": "2026-10-30T15:00:27Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794315182724
-  },
-  "y31hwsgVAZk": {
-   "id": "y31hwsgVAZk",
-   "title": "Darío Sztajnszrajber: “TU MEJOR AMIGO ES TU PEOR ENEMIGO” | La Fórmula Podcast",
-   "publishedAt": "2026-10-30T13:53:41Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794315182724
-  },
-  "e0kcMlGVwEE": {
-   "id": "e0kcMlGVwEE",
-   "title": "Lo que la muerte nos enseña sobre la vida con Darío Sztajnszrajber | La Fórmula Podcast",
-   "publishedAt": "2026-10-30T11:00:19Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794315182724
-  },
   "G-NsE_UR5bo": {
    "id": "G-NsE_UR5bo",
    "title": "\"TODOS LOS DÍAS TENÉS QUE LEVANTAR LA PERSIANA\": Dueño de LA CABRERA | Sello Argento",
@@ -224,21 +179,6 @@
    "id": "RBgsNlrbRy8",
    "title": "Reconstruirse: cómo seguir adelante cuando la vida cambia con Ricky Sarkany | La Fórmula Podcast",
    "publishedAt": "2026-11-06T11:00:21Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794341402708
-  },
-  "BiJETDqwWTI": {
-   "id": "BiJETDqwWTI",
-   "title": "Darío Sztajnszrajber: ¿LA FILOSOFÍA ES INÚTIL? | La Fórmula Podcast",
-   "publishedAt": "2026-10-30T17:30:18Z",
    "status": "none",
    "start": null,
    "channel": "La Fórmula Podcast",
@@ -805,7 +745,7 @@
   },
   "in9DKwscCb8": {
    "id": "in9DKwscCb8",
-   "title": "Dejó la empresa familiar a los 40 y volvió a empezar: la historia de RAPANUI y Diego Fenoglio",
+   "title": "\"ARGENTINA TIENE UN POTENCIAL ENORME\": Diego FENOGLIO y su apoyo al PLAN de MILEI",
    "publishedAt": "2026-11-12T22:00:27Z",
    "status": "none",
    "start": null,
@@ -1138,6 +1078,66 @@
    "via": {},
    "people": [],
    "firstSeen": 1794544672802
+  },
+  "Cl39zWEz3fA": {
+   "id": "Cl39zWEz3fA",
+   "title": "Tu trabajo está en riesgo: cómo sobrevivir a la IA con Jon Hernández | La Fórmula Podcast",
+   "publishedAt": "2026-11-13T11:00:39Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794573487736
+  },
+  "5w_1KjkLvUg": {
+   "id": "5w_1KjkLvUg",
+   "title": "Sofía Contreras: MENTALIDAD FIJA VS. MENTALIDAD DE CRECIMIENTO | La Fórmula Podcast",
+   "publishedAt": "2026-10-23T17:00:28Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794573487736
+  },
+  "D0u1_jgafn8": {
+   "id": "D0u1_jgafn8",
+   "title": "Sofía Contreras: LAS DOS CLAVES PARA TU ÉXITO PERSONAL | La Fórmula Podcast",
+   "publishedAt": "2026-10-23T14:14:38Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794573487736
+  },
+  "PNwX2iZgt1M": {
+   "id": "PNwX2iZgt1M",
+   "title": "El error que te hace abandonar tus objetivos con Sofía Contreras | La Fórmula Podcast",
+   "publishedAt": "2026-10-23T11:00:03Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794573487736
   }
  },
  "sent": {
@@ -1321,15 +1321,23 @@
   "iWQSylZm39Q:new": 1794508170994,
   "e2TVQHPGnHs:new": 1794508170994,
   "woGcrmt93q0:new": 1794508170994,
-  "zbfQglNJCyk:new": 1794527295044
+  "zbfQglNJCyk:new": 1794527295044,
+  "2-sYXVO66Ts:new": 1794573487736,
+  "gaJT8cjjyhQ:new": 1794573487736,
+  "p5NJnit-nxE:new": 1794573487736,
+  "5UeEouEmjvg:new": 1794573487736,
+  "L6r7qyAL26U:new": 1794573487736,
+  "JvuKSAS4ugs:new": 1794573487736,
+  "WtGkScsmNHo:new": 1794573487736,
+  "wxx9jTIGXbE:new": 1794573487736
  },
  "day": {
   "date": "2026-11-13",
-  "count": 0
+  "count": 8
  },
  "initialized": true,
- "lastDigest": "2026-11-12",
- "lastDigestAt": 1794508170994,
+ "lastDigest": "2026-11-13",
+ "lastDigestAt": 1794573487736,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
