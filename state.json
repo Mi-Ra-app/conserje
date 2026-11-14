@@ -5,58 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "KaJ-15NQbrI": {
-   "id": "KaJ-15NQbrI",
-   "title": "NVIDIA BAJO SOSPECHA: el romance que abrió una investigación por espionaje | Yayi Morales",
-   "publishedAt": "2026-11-11T20:30:20Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794434120556
-  },
-  "56UtwpfWJ9Q": {
-   "id": "56UtwpfWJ9Q",
-   "title": "CÓMO EMPEZAR A AHORRAR PARA TU JUBILACIÓN 💰​",
-   "publishedAt": "2026-11-11T20:00:03Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794434120556
-  },
-  "rFxsyNIhhrI": {
-   "id": "rFxsyNIhhrI",
-   "title": "¿QUÉ PASARÍA CON KICILLOF PRESIDENTE?",
-   "publishedAt": "2026-11-11T19:53:59Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794434120556
-  },
-  "xuI6WKjKWyM": {
-   "id": "xuI6WKjKWyM",
-   "title": "“ARGENTINA, LEVÁNTATE Y CAMINA”: EL MENSAJE DE LEÓN XIV QUE CONMOVIÓ A TODO EL PAÍS",
-   "publishedAt": "2026-11-11T19:00:14Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794434120556
-  },
   "uwKfXNJKS0M": {
    "id": "uwKfXNJKS0M",
    "title": "¿ESPIONAJE EN NVIDIA? El ESCÁNDALO del CEO y su amante",
@@ -1139,6 +1087,62 @@
    "via": {},
    "people": [],
    "firstSeen": 1794617545176
+  },
+  "E4T_FpdLZBY": {
+   "id": "E4T_FpdLZBY",
+   "title": "¿MILEI DEBERÍA CAMBIAR EL RUMBO?",
+   "publishedAt": "2026-11-14T14:14:07Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794666192728
+  },
+  "bqd08F_kIKY": {
+   "id": "bqd08F_kIKY",
+   "title": "El dueño de La Cabrera revela que hay detrás del PRECIO de su CARNE | Sello Argento",
+   "publishedAt": "2026-11-14T13:00:11Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794666192728
+  },
+  "6h5ZMivs9hk": {
+   "id": "6h5ZMivs9hk",
+   "title": "El difícil camino para ser top 10 del mundo",
+   "publishedAt": "2026-11-14T14:00:36Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794666192728
+  },
+  "mmHP5Hw-3ZM": {
+   "id": "mmHP5Hw-3ZM",
+   "title": "¿Cómo es el ingreso de los hijos a la empresa familiar?",
+   "publishedAt": "2026-11-14T14:00:32Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794666192728
   }
  },
  "sent": {
@@ -1330,15 +1334,23 @@
   "L6r7qyAL26U:new": 1794573487736,
   "JvuKSAS4ugs:new": 1794573487736,
   "WtGkScsmNHo:new": 1794573487736,
-  "wxx9jTIGXbE:new": 1794573487736
+  "wxx9jTIGXbE:new": 1794573487736,
+  "BBD6oLtnNRM:new": 1794666192728,
+  "mLwh-JjtLKo:new": 1794666192728,
+  "_xsoojfmOM8:new": 1794666192728,
+  "zDV7IB18kGc:new": 1794666192728,
+  "iQXYPvPA1H4:new": 1794666192728,
+  "JFiVlRj1Ubc:new": 1794666192728,
+  "YJVxF1sVkaY:new": 1794666192728,
+  "6h5ZMivs9hk:new": 1794666192728
  },
  "day": {
   "date": "2026-11-14",
-  "count": 0
+  "count": 8
  },
  "initialized": true,
- "lastDigest": "2026-11-13",
- "lastDigestAt": 1794573487736,
+ "lastDigest": "2026-11-14",
+ "lastDigestAt": 1794666192728,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
