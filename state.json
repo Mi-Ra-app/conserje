@@ -5,75 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "iWQSylZm39Q": {
-   "id": "iWQSylZm39Q",
-   "title": "Cómo adaptar tu negocio a un futuro que ya está cambiando las reglas | Sin Manual con Jonatan Loidi",
-   "publishedAt": "2026-11-12T18:30:44Z",
-   "status": "none",
-   "start": "2026-11-12T17:00:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [
-    "Sin Manual"
-   ],
-   "via": {
-    "Sin Manual": "el título"
-   },
-   "people": [],
-   "firstSeen": 1794508170994
-  },
-  "DZGbLmvQ9Pw": {
-   "id": "DZGbLmvQ9Pw",
-   "title": "¿EL RUMBO ECONÓMICO DE MILEI ES EL CORRECTO? Roberto García Moritán | Cuentas Claras",
-   "publishedAt": "2026-11-12T17:41:15Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794508170994
-  },
-  "VJDTGOSm_0I": {
-   "id": "VJDTGOSm_0I",
-   "title": "\"HAY QUE DARLE COMPETIVIDAD A LAS PYMES\": Roberto García Moritán en Cuentas Claras",
-   "publishedAt": "2026-11-12T17:16:38Z",
-   "status": "none",
-   "start": "2026-11-12T15:00:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794508170994
-  },
-  "26ePRL8Q4xY": {
-   "id": "26ePRL8Q4xY",
-   "title": "ESCÁNDALO DE NVIDIA: ¿QUÉ VA A PASAR CON LAS ACCIONES?",
-   "publishedAt": "2026-11-12T16:49:06Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794508170994
-  },
-  "Qxjgj6oHd7c": {
-   "id": "Qxjgj6oHd7c",
-   "title": "¿POR QUÉ ARGENTINA NO LOGRA BAJAR EL RIESGO PAÍS? | José Dapena",
-   "publishedAt": "2026-11-12T15:59:21Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794508170994
-  },
   "in9DKwscCb8": {
    "id": "in9DKwscCb8",
    "title": "\"ARGENTINA TIENE UN POTENCIAL ENORME\": Diego FENOGLIO y su apoyo al PLAN de MILEI",
@@ -328,21 +259,6 @@
    "publishedAt": "2026-11-12T20:00:25Z",
    "status": "none",
    "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794527295044
-  },
-  "pv4nJD7Ye6A": {
-   "id": "pv4nJD7Ye6A",
-   "title": "#4 - Misión 4 - ¿Qué AMBA necesitamos para la Argentina Potencia?, María Migliore y Alejandro Csome",
-   "publishedAt": "2026-11-13T01:00:08Z",
-   "status": "none",
-   "start": "2026-11-13T01:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
    "programs": [
@@ -1147,6 +1063,86 @@
    "via": {},
    "people": [],
    "firstSeen": 1794684091533
+  },
+  "tZKMTfqjWkk": {
+   "id": "tZKMTfqjWkk",
+   "title": "¿QUÉ PASÓ REALMENTE CON NVIDIA Y LA ESPÍA CHINA? Pablo Finanzas",
+   "publishedAt": "2026-11-14T23:12:15Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794698014139
+  },
+  "66IZSZVa--4": {
+   "id": "66IZSZVa--4",
+   "title": "EL DUEÑO DE RAPANUI EXPLICA LA CLAVE DEL ÉXITO DE SU EMPRESA",
+   "publishedAt": "2026-11-14T23:03:57Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794698014139
+  },
+  "XmDYDjk8bnA": {
+   "id": "XmDYDjk8bnA",
+   "title": "EN VIVO | DISCURSO DE MILEI EN EL MUSEO DE LA CASA ROSADA",
+   "publishedAt": "2026-11-14T20:40:43Z",
+   "status": "none",
+   "start": "2026-11-14T20:45:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794698014139
+  },
+  "NhiKE2s_TPo": {
+   "id": "NhiKE2s_TPo",
+   "title": "EL DUEÑO DE UNA DE LAS PARRILLA MÁS RECONOCIDAS, CONTUNDENTE: \"SOY EL ROBIN HOOD DE LA GASTRONOMÍA\"",
+   "publishedAt": "2026-11-14T20:15:26Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794698014139
+  },
+  "mLRUdaDEXj4": {
+   "id": "mLRUdaDEXj4",
+   "title": "EL NUEVO CONGRESO DE ESTADOS UNIDOS PONE EL FOCO EN ARGENTINA 🔍💵",
+   "publishedAt": "2026-11-14T20:00:27Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794698014139
+  },
+  "fO0w93riukQ": {
+   "id": "fO0w93riukQ",
+   "title": "El consejo para vivir más y mejor",
+   "publishedAt": "2026-11-14T21:00:10Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794698014139
   }
  },
  "sent": {
