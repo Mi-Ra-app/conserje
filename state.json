@@ -103,51 +103,6 @@
    "people": [],
    "firstSeen": 1794527295044
   },
-  "NMEC_3yhSJo": {
-   "id": "NMEC_3yhSJo",
-   "title": "El problema de los residuos que Argentina no logra resolver",
-   "publishedAt": "2026-11-12T23:25:49Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794527295044
-  },
-  "gaJT8cjjyhQ": {
-   "id": "gaJT8cjjyhQ",
-   "title": "Emprendió con su novia y hoy tienen 1.000 empleados",
-   "publishedAt": "2026-11-12T23:24:36Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794527295044
-  },
-  "p5NJnit-nxE": {
-   "id": "p5NJnit-nxE",
-   "title": "Los 800 errores que se cometen al arrancar a emprender",
-   "publishedAt": "2026-11-12T23:23:42Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794527295044
-  },
   "pcMQL_QP_A0": {
    "id": "pcMQL_QP_A0",
    "title": "MORITÁN: \"DONDE HAY UNA PROHIBICIÓN, HAY NEGOCIO\"",
@@ -1125,7 +1080,7 @@
   },
   "gUf8KD3NxuM": {
    "id": "gUf8KD3NxuM",
-   "title": "Mesaza Express #2 - Visuar (Productor de Samsung), FADEP (El Pyme), Grupo Tronchetto",
+   "title": "Mesaza Express #2 - Visuar (Fabricante de Samsung), FADEP (El Pyme) y Grupo Tronchetto",
    "publishedAt": "2026-11-15T01:21:47Z",
    "status": "upcoming",
    "start": "2026-11-15T23:00:00Z",
@@ -1137,6 +1092,45 @@
    "via": {},
    "people": [],
    "firstSeen": 1794761122075
+  },
+  "yvDjkPF-IVM": {
+   "id": "yvDjkPF-IVM",
+   "title": "Mauro Albarracín (LESA): \"Nunca vi tantos muertos y descuartizados en mi vida\" | LQD",
+   "publishedAt": "2026-11-15T21:00:36Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794777960160
+  },
+  "tI0SC3Tc0po": {
+   "id": "tI0SC3Tc0po",
+   "title": "\"MILEI TIENE LA BILLETERA DE CHINA Y DE EE.UU\": el análisis de Fabián Calle para 2027",
+   "publishedAt": "2026-11-15T18:00:08Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794777960160
+  },
+  "iENp5DLpU3c": {
+   "id": "iENp5DLpU3c",
+   "title": "¿POR QUÉ TENEMOS MÁS DE UN TRABAJO?",
+   "publishedAt": "2026-11-15T17:07:10Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794777960160
   }
  },
  "sent": {
