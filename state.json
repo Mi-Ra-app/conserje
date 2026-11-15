@@ -253,21 +253,6 @@
    "people": [],
    "firstSeen": 1794527295044
   },
-  "ZH1rM7xwozU": {
-   "id": "ZH1rM7xwozU",
-   "title": "La trucha le ganó al salmón",
-   "publishedAt": "2026-11-12T20:00:25Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794527295044
-  },
   "pcMQL_QP_A0": {
    "id": "pcMQL_QP_A0",
    "title": "MORITÁN: \"DONDE HAY UNA PROHIBICIÓN, HAY NEGOCIO\"",
@@ -427,7 +412,7 @@
   },
   "vBKaunEQjyU": {
    "id": "vBKaunEQjyU",
-   "title": "DE 1,9% A 2,2%: LA INFLACIÓN DE OCTUBRE SE ACELERÓ Y SORPRENDIÓ A TODOS | Cuentas Claras",
+   "title": "\"SI IRÁN NOS DECLARA TERRORISTAS, NOS VIENE BÁRBARO\": FABIÁN CALLE SOLTÓ LA BOMBA",
    "publishedAt": "2026-11-13T17:08:17Z",
    "status": "none",
    "start": "2026-11-13T15:00:00Z",
@@ -1143,6 +1128,21 @@
    "via": {},
    "people": [],
    "firstSeen": 1794698014139
+  },
+  "pv4nJD7Ye6A": {
+   "id": "pv4nJD7Ye6A",
+   "title": "#4 - Misión 4 - ¿Qué AMBA necesitamos para la Argentina Potencia?, María Migliore y Alejandro Csome",
+   "publishedAt": "2026-11-13T01:00:08Z",
+   "status": "none",
+   "start": "2026-11-13T01:00:00Z",
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794710455744
   }
  },
  "sent": {
