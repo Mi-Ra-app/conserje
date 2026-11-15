@@ -148,111 +148,6 @@
    "people": [],
    "firstSeen": 1794527295044
   },
-  "5UeEouEmjvg": {
-   "id": "5UeEouEmjvg",
-   "title": "La presión de la falta económica de la familia",
-   "publishedAt": "2026-11-12T23:22:42Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794527295044
-  },
-  "L6r7qyAL26U": {
-   "id": "L6r7qyAL26U",
-   "title": "El Peque: la vida de un top ten del tenis",
-   "publishedAt": "2026-11-12T23:21:39Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794527295044
-  },
-  "JvuKSAS4ugs": {
-   "id": "JvuKSAS4ugs",
-   "title": "El Benjamin Button argentino",
-   "publishedAt": "2026-11-12T23:20:28Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794527295044
-  },
-  "WtGkScsmNHo": {
-   "id": "WtGkScsmNHo",
-   "title": "¿Se puede tener 49 años y tener la genética de un bebe?",
-   "publishedAt": "2026-11-12T23:19:34Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794527295044
-  },
-  "wxx9jTIGXbE": {
-   "id": "wxx9jTIGXbE",
-   "title": "¿Cómo funciona TurismoCity?",
-   "publishedAt": "2026-11-12T23:17:42Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794527295044
-  },
-  "nn0R8JXAGLY": {
-   "id": "nn0R8JXAGLY",
-   "title": "El cofundador de TurismoCity",
-   "publishedAt": "2026-11-12T23:16:58Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794527295044
-  },
-  "yddu1hcg9cc": {
-   "id": "yddu1hcg9cc",
-   "title": "El AMBA, ¿un proceso que fracasó?",
-   "publishedAt": "2026-11-12T23:15:02Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794527295044
-  },
   "pcMQL_QP_A0": {
    "id": "pcMQL_QP_A0",
    "title": "MORITÁN: \"DONDE HAY UNA PROHIBICIÓN, HAY NEGOCIO\"",
@@ -1078,7 +973,7 @@
   "XmDYDjk8bnA": {
    "id": "XmDYDjk8bnA",
    "title": "EN VIVO | DISCURSO DE MILEI EN EL MUSEO DE LA CASA ROSADA",
-   "publishedAt": "2026-11-14T20:40:43Z",
+   "publishedAt": "2026-11-15T10:18:04Z",
    "status": "none",
    "start": "2026-11-14T20:45:00Z",
    "channel": "El Cronista Stream",
@@ -1143,6 +1038,105 @@
    "via": {},
    "people": [],
    "firstSeen": 1794710455744
+  },
+  "kzNFhFNBkuc": {
+   "id": "kzNFhFNBkuc",
+   "title": "No terminaron la secundaria y ya tienen su propia EMPRESA | Damián Di Pace",
+   "publishedAt": "2026-11-15T15:00:33Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794761122075
+  },
+  "vQfizPQg5kA": {
+   "id": "vQfizPQg5kA",
+   "title": "¿CUÁNTO CUESTA UN ASADO?",
+   "publishedAt": "2026-11-15T14:33:22Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794761122075
+  },
+  "_nxfjYPrmIk": {
+   "id": "_nxfjYPrmIk",
+   "title": "\"ESTAMOS CERCA DE ABRIR LA CABRERA EN VACA MUERTA\": Gastón Riveira | Sello Argento",
+   "publishedAt": "2026-11-15T13:00:03Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794761122075
+  },
+  "AJ1ubWFLmtM": {
+   "id": "AJ1ubWFLmtM",
+   "title": "La vida post retiro del tenis",
+   "publishedAt": "2026-11-15T14:00:36Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794761122075
+  },
+  "x7-Ii0eR1I8": {
+   "id": "x7-Ii0eR1I8",
+   "title": "Los hábitos más saludables para vivir mejor",
+   "publishedAt": "2026-11-15T14:00:32Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794761122075
+  },
+  "mvASHCY4MzE": {
+   "id": "mvASHCY4MzE",
+   "title": "Un francés los subestimó y terminaron haciendo negocios millonarios",
+   "publishedAt": "2026-11-15T14:00:29Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794761122075
+  },
+  "gUf8KD3NxuM": {
+   "id": "gUf8KD3NxuM",
+   "title": "Mesaza Express #2 - Visuar (Productor de Samsung), FADEP (El Pyme), Grupo Tronchetto",
+   "publishedAt": "2026-11-15T01:21:47Z",
+   "status": "upcoming",
+   "start": "2026-11-15T23:00:00Z",
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794761122075
   }
  },
  "sent": {
@@ -1342,15 +1336,23 @@
   "iQXYPvPA1H4:new": 1794666192728,
   "JFiVlRj1Ubc:new": 1794666192728,
   "YJVxF1sVkaY:new": 1794666192728,
-  "6h5ZMivs9hk:new": 1794666192728
+  "6h5ZMivs9hk:new": 1794666192728,
+  "vNzUzaM7OCo:new": 1794761122075,
+  "cjVxtqrckQE:new": 1794761122075,
+  "6RDlUj0-s98:new": 1794761122075,
+  "dfBzqxesr8k:new": 1794761122075,
+  "fO0w93riukQ:new": 1794761122075,
+  "pv4nJD7Ye6A:new": 1794761122075,
+  "AJ1ubWFLmtM:new": 1794761122075,
+  "x7-Ii0eR1I8:new": 1794761122075
  },
  "day": {
   "date": "2026-11-15",
-  "count": 0
+  "count": 8
  },
  "initialized": true,
- "lastDigest": "2026-11-14",
- "lastDigestAt": 1794666192728,
+ "lastDigest": "2026-11-15",
+ "lastDigestAt": 1794761122075,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
