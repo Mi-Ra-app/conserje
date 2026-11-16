@@ -44,65 +44,6 @@
    "people": [],
    "firstSeen": 1794527295044
   },
-  "YY2OlpY17tQ": {
-   "id": "YY2OlpY17tQ",
-   "title": "La inversión que POCOS VEN y que puede llegar a ser un BOOM en 5 años | Alejo Rodríguez Cacio",
-   "publishedAt": "2026-11-12T20:30:04Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794527295044
-  },
-  "qgCnAjWARCg": {
-   "id": "qgCnAjWARCg",
-   "title": "¿QUÉ LE PIDE EL FUNDADOR DE RAPANUI A MILEI?",
-   "publishedAt": "2026-11-12T19:54:30Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794527295044
-  },
-  "zbfQglNJCyk": {
-   "id": "zbfQglNJCyk",
-   "title": "NVIDIA DESPUÉS DEL ESCANDÁLO: Por qué algunos inversores ven una OPORTUNIDAD | Alan Zuchovicki",
-   "publishedAt": "2026-11-12T19:00:01Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [
-    {
-     "name": "Claudio Zuchovicki",
-     "confidence": "alta"
-    }
-   ],
-   "firstSeen": 1794527295044
-  },
-  "2-sYXVO66Ts": {
-   "id": "2-sYXVO66Ts",
-   "title": "#67 - El desafío de transformar el agro argentino, María Pisanu",
-   "publishedAt": "2026-11-12T23:00:20Z",
-   "status": "none",
-   "start": "2026-11-12T23:00:00Z",
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794527295044
-  },
   "pcMQL_QP_A0": {
    "id": "pcMQL_QP_A0",
    "title": "MORITÁN: \"DONDE HAY UNA PROHIBICIÓN, HAY NEGOCIO\"",
@@ -1131,6 +1072,66 @@
    "via": {},
    "people": [],
    "firstSeen": 1794777960160
+  },
+  "14sSAZ3ki74": {
+   "id": "14sSAZ3ki74",
+   "title": "\"Las ciudades que más se desarrollan son las que desarrollan su industria\"",
+   "publishedAt": "2026-11-16T02:03:31Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794816829981
+  },
+  "27ryt_rybIY": {
+   "id": "27ryt_rybIY",
+   "title": "\"La casta política está cazando en el zoológico\"",
+   "publishedAt": "2026-11-16T02:02:33Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794816829981
+  },
+  "qTM4Y4CkZXE": {
+   "id": "qTM4Y4CkZXE",
+   "title": "¿Hacia dónde va la industria argentina?",
+   "publishedAt": "2026-11-16T02:00:53Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794816829981
+  },
+  "komMQFKNTUE": {
+   "id": "komMQFKNTUE",
+   "title": "\"Romper la industria en estos términos es una política boba\"",
+   "publishedAt": "2026-11-16T01:59:48Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794816829981
   }
  },
  "sent": {
@@ -1341,8 +1342,8 @@
   "x7-Ii0eR1I8:new": 1794761122075
  },
  "day": {
-  "date": "2026-11-15",
-  "count": 8
+  "date": "2026-11-16",
+  "count": 0
  },
  "initialized": true,
  "lastDigest": "2026-11-15",
