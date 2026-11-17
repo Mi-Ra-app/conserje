@@ -5,84 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "dQ7O8Vdf2Sk": {
-   "id": "dQ7O8Vdf2Sk",
-   "title": "¿FUE UN ACCIDENTE? El escándalo de NVIDIA y JENSEN HUANG explicado DESDE CERO | LQD",
-   "publishedAt": "2026-11-13T18:36:54Z",
-   "status": "none",
-   "start": "2026-11-13T17:00:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794600125018
-  },
-  "s-7KDUldW_s": {
-   "id": "s-7KDUldW_s",
-   "title": "IRÁN ACUSÓ A LAS FUERZAS ARMADAS ARGENTINAS DE \"TERRORISTAS\": ¿PELIGRO INMINENTE?",
-   "publishedAt": "2026-11-13T18:09:56Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794600125018
-  },
-  "ts3HvV3PoRE": {
-   "id": "ts3HvV3PoRE",
-   "title": "El Vaticano eligió un Papa estadounidense y su visita a la Argentina no fue casual | Fabián Calle",
-   "publishedAt": "2026-11-13T17:32:14Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794600125018
-  },
-  "vBKaunEQjyU": {
-   "id": "vBKaunEQjyU",
-   "title": "\"SI IRÁN NOS DECLARA TERRORISTAS, NOS VIENE BÁRBARO\": FABIÁN CALLE SOLTÓ LA BOMBA",
-   "publishedAt": "2026-11-13T17:08:17Z",
-   "status": "none",
-   "start": "2026-11-13T15:00:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794600125018
-  },
-  "ERHZSyKNeHA": {
-   "id": "ERHZSyKNeHA",
-   "title": "QUÉ TENER EN CUENTA ANTES DE SACAR UN CRÉDITO HIPOTECARIO 🏠",
-   "publishedAt": "2026-11-13T17:07:47Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794600125018
-  },
-  "wNPeTUvw2Io": {
-   "id": "wNPeTUvw2Io",
-   "title": "¿CUÁNTO CUESTA UN ALTO GUISO HOY?",
-   "publishedAt": "2026-11-13T16:10:57Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794600125018
-  },
   "3tY7Ogt8RRM": {
    "id": "3tY7Ogt8RRM",
    "title": "VIVIR EN UN CEMENTERIO: LA TENDENCIA INMOBILIARIA QUE CRECE EN ESTADOS UNIDOS",
@@ -1124,6 +1046,96 @@
    "via": {},
    "people": [],
    "firstSeen": 1794881149458
+  },
+  "FRmz_0LfQCg": {
+   "id": "FRmz_0LfQCg",
+   "title": "Jon Hernández: TU GENERACIÓN PODRÍA NO MORIR | La Fórmula Podcast",
+   "publishedAt": "2026-11-13T19:00:02Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794912075550
+  },
+  "g5oLAaGJOTo": {
+   "id": "g5oLAaGJOTo",
+   "title": "Jon Hernández: EL PELIGRO DE LA IA QUE NADIE ESTÁ MIRANDO | La Fórmula Podcast",
+   "publishedAt": "2026-11-13T17:00:10Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794912075550
+  },
+  "f6IO7JRp-vU": {
+   "id": "f6IO7JRp-vU",
+   "title": "Jon Hernández: EL DÍA QUE LA IA HACKEÓ A SUS PROPIOS CREADORES | La Fórmula Podcast",
+   "publishedAt": "2026-11-13T15:00:07Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794912075550
+  },
+  "E9J-8HSFGVc": {
+   "id": "E9J-8HSFGVc",
+   "title": "Jon Hernández: ¿TU TRABAJO TIENE LOS DÍAS CONTADOS? | La Fórmula Podcast",
+   "publishedAt": "2026-11-13T14:00:14Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794912075550
+  },
+  "NcH-Y4BZFgM": {
+   "id": "NcH-Y4BZFgM",
+   "title": "Jon Hernández: 250 PROFESIONES DEJAN DE TENER VALOR CADA DÍA | La Fórmula Podcast",
+   "publishedAt": "2026-11-13T13:10:11Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794912075550
+  },
+  "BiJETDqwWTI": {
+   "id": "BiJETDqwWTI",
+   "title": "Darío Sztajnszrajber: ¿LA FILOSOFÍA ES INÚTIL? | La Fórmula Podcast",
+   "publishedAt": "2026-10-30T17:30:18Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1794912075550
   }
  },
  "sent": {
@@ -1339,10 +1351,18 @@
   "qAgy-4uXa8o:new": 1794854118869,
   "yD8VW9DTGiY:new": 1794854118869,
   "QwmHsCB2xxE:new": 1794854118869,
-  "NOKKm1QzTAY:new": 1794854118869
+  "NOKKm1QzTAY:new": 1794854118869,
+  "NbgAPl4HI4A:new": 1794912075550,
+  "JB2drz7Sd-c:new": 1794912075550,
+  "r2saF4GH92I:new": 1794912075550,
+  "GqTuuEeT6Uk:new": 1794912075550,
+  "N98rkUuxpDw:new": 1794912075550,
+  "gKb6W9IxcZw:new": 1794912075550,
+  "h3HgH6opYOM:new": 1794912075550,
+  "juJspJwUca4:new": 1794912075550
  },
  "day": {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "count": 8
  },
  "initialized": true,
