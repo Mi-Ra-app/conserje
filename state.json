@@ -854,7 +854,7 @@
   "QaEH49_39b0": {
    "id": "QaEH49_39b0",
    "title": "EN VIVO | Conferencia de prensa del vocero presidencial Adrián Ravier",
-   "publishedAt": "2026-11-17T13:56:21Z",
+   "publishedAt": "2026-11-18T03:11:22Z",
    "status": "none",
    "start": "2026-11-17T14:00:00Z",
    "channel": "El Cronista Stream",
@@ -1043,7 +1043,7 @@
    "id": "UpVmgYV3yAI",
    "title": "#14 - Vendió su primera empresa, fundó Conexa y hoy opera en 14 países, James Daintree",
    "publishedAt": "2026-11-18T01:00:07Z",
-   "status": "live",
+   "status": "none",
    "start": "2026-11-18T01:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -1354,8 +1354,8 @@
   "juJspJwUca4:new": 1794912075550
  },
  "day": {
-  "date": "2026-11-17",
-  "count": 8
+  "date": "2026-11-18",
+  "count": 0
  },
  "initialized": true,
  "lastDigest": "2026-11-17",
