@@ -57,32 +57,6 @@
    "people": [],
    "firstSeen": 1794854118869
   },
-  "TUIt2sk6SOU": {
-   "id": "TUIt2sk6SOU",
-   "title": "109 PUNTOS MENOS: El análisis de Willy Laborda al RIESGO PAÍS de MILEI | Pulso Financiero",
-   "publishedAt": "2026-11-16T15:27:38Z",
-   "status": "none",
-   "start": "2026-11-16T14:00:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794854118869
-  },
-  "4GN5lKh5i3o": {
-   "id": "4GN5lKh5i3o",
-   "title": "LA ADVERTENCIA DEL JP MORGAN PARA LA ECONOMÍA DE MILEI EN 2027 | Pulso Financiero",
-   "publishedAt": "2026-11-16T15:26:44Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794854118869
-  },
   "YPWdNj7UovQ": {
    "id": "YPWdNj7UovQ",
    "title": "EN VIVO | DISCURSO DE MILEI EN LA GALA DEL CONSEJO INTERAMERICANO DE COMERCIO Y PRODUCCIÓN",
@@ -855,7 +829,7 @@
   "EVmJonuB_nI": {
    "id": "EVmJonuB_nI",
    "title": "EN VIVO | MILEI RECIBE UN DOCTORADO HONORIS CAUSA EN LA UNIVERSIDAD DE BELGRANO",
-   "publishedAt": "2026-11-18T12:52:59Z",
+   "publishedAt": "2026-11-19T02:15:40Z",
    "status": "none",
    "start": "2026-11-18T12:52:59Z",
    "channel": "El Cronista Stream",
@@ -1062,8 +1036,8 @@
   "i1cLNI4yZOg": {
    "id": "i1cLNI4yZOg",
    "title": "#9 - \"Nadie quiere ser pediatra\", la crisis de la salud en la Argentina - Fernando Burgos",
-   "publishedAt": "2026-11-18T10:54:17Z",
-   "status": "upcoming",
+   "publishedAt": "2026-11-19T01:00:08Z",
+   "status": "none",
    "start": "2026-11-19T01:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -1118,6 +1092,34 @@
    "via": {},
    "people": [],
    "firstSeen": 1795047590410
+  },
+  "2V3HXjqSb_0": {
+   "id": "2V3HXjqSb_0",
+   "title": "TRUMP, XI Y PUTIN SE REÚNEN EN UNA CUMBRE EN CHINA",
+   "publishedAt": "2026-11-19T01:00:02Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795074220999
+  },
+  "JB2drz7Sd-c": {
+   "id": "JB2drz7Sd-c",
+   "title": "#46 - La psicóloga que busca crear los mejores vinos del mundo, Juliana del Águila Eurnekian",
+   "publishedAt": "2026-11-16T23:00:08Z",
+   "status": "none",
+   "start": "2026-11-16T23:00:00Z",
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795074220999
   }
  },
  "sent": {
@@ -1351,8 +1353,8 @@
   "i1cLNI4yZOg:new": 1795047590410
  },
  "day": {
-  "date": "2026-11-18",
-  "count": 7
+  "date": "2026-11-19",
+  "count": 0
  },
  "initialized": true,
  "lastDigest": "2026-11-18",
