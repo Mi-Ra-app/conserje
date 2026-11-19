@@ -5,58 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "ggGSGyvcQxQ": {
-   "id": "ggGSGyvcQxQ",
-   "title": "El riesgo país sube pese a que Milei no cambió su plan: qué teme el mercado | Julián Neufeld",
-   "publishedAt": "2026-11-16T18:32:56Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794854118869
-  },
-  "rBsIOWZ0aqs": {
-   "id": "rBsIOWZ0aqs",
-   "title": "¿QUÉ ALERTA JPMORGAN SOBRE LA INFLACIÓN?",
-   "publishedAt": "2026-11-16T17:16:31Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794854118869
-  },
-  "3qEys1OR06Y": {
-   "id": "3qEys1OR06Y",
-   "title": "\"LA INFLACIÓN BAJA\": La CONTUNDENTE definición de YOSOVITCH sobre el plan de Milei",
-   "publishedAt": "2026-11-16T17:06:14Z",
-   "status": "none",
-   "start": "2026-11-16T15:00:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794854118869
-  },
-  "HPoCSKbRr9g": {
-   "id": "HPoCSKbRr9g",
-   "title": "ARGENTINA ESTÁ CARA, PERO NO EN TODO: el contraste que sorprende a un economista ESPAÑOL",
-   "publishedAt": "2026-11-16T17:00:05Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794854118869
-  },
   "YPWdNj7UovQ": {
    "id": "YPWdNj7UovQ",
    "title": "EN VIVO | DISCURSO DE MILEI EN LA GALA DEL CONSEJO INTERAMERICANO DE COMERCIO Y PRODUCCIÓN",
@@ -261,36 +209,6 @@
    "id": "g6gPfhxNrdU",
    "title": "Darío Sztajnszrajber: “ESTA ES LA ÚNICA MANERA DE CONOCERNOS” | La Fórmula Podcast",
    "publishedAt": "2026-10-30T15:00:27Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794881149458
-  },
-  "y31hwsgVAZk": {
-   "id": "y31hwsgVAZk",
-   "title": "Darío Sztajnszrajber: “TU MEJOR AMIGO ES TU PEOR ENEMIGO” | La Fórmula Podcast",
-   "publishedAt": "2026-10-30T13:53:41Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794881149458
-  },
-  "e0kcMlGVwEE": {
-   "id": "e0kcMlGVwEE",
-   "title": "Lo que la muerte nos enseña sobre la vida con Darío Sztajnszrajber | La Fórmula Podcast",
-   "publishedAt": "2026-10-30T11:00:19Z",
    "status": "none",
    "start": null,
    "channel": "La Fórmula Podcast",
@@ -1120,6 +1038,88 @@
    "via": {},
    "people": [],
    "firstSeen": 1795074220999
+  },
+  "8USjPYnSZWg": {
+   "id": "8USjPYnSZWg",
+   "title": "MILEI Y LA ECONOMÍA: ¿LA GENTE LLEGA A FIN DE MES? | CUENTAS CLARAS EN VIVO",
+   "publishedAt": "2026-11-19T13:34:42Z",
+   "status": "live",
+   "start": "2026-11-19T15:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795106945944
+  },
+  "c1NnmIp3iLY": {
+   "id": "c1NnmIp3iLY",
+   "title": "\"LA REGLA FISCAL ES MILEI\"",
+   "publishedAt": "2026-11-19T16:35:05Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795106945944
+  },
+  "jgKqNPjRaMA": {
+   "id": "jgKqNPjRaMA",
+   "title": "“LA DISCIPLINA FISCAL ES EL MAYOR ACTIVO DEL GOBIERNO” | Francisco Roch",
+   "publishedAt": "2026-11-19T15:46:01Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795106945944
+  },
+  "qgDfSC1_LAQ": {
+   "id": "qgDfSC1_LAQ",
+   "title": "“LA REGLA FISCAL ES MILEI”: ECONOMISTA ALERTA POR EL FUTURO DE LA ECONOMÍA ARGENTINA",
+   "publishedAt": "2026-11-19T15:25:38Z",
+   "status": "none",
+   "start": "2026-11-19T14:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795106945944
+  },
+  "XRRS7XjT6WM": {
+   "id": "XRRS7XjT6WM",
+   "title": "“LA INFLACIÓN ESTÁ BAJANDO”: Yosovitch explica por qué todavía no llega a cero",
+   "publishedAt": "2026-11-19T14:20:53Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795106945944
+  },
+  "nRFp7MR4N-M": {
+   "id": "nRFp7MR4N-M",
+   "title": "🔵 EN VIVO | SIN MANUAL con Jonatan Loidi, Gaita González, Elena Financiera y Seba Koroch",
+   "publishedAt": "2026-11-19T13:37:43Z",
+   "status": "upcoming",
+   "start": "2026-11-19T17:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [
+    "Sin Manual"
+   ],
+   "via": {
+    "Sin Manual": "el título"
+   },
+   "people": [],
+   "firstSeen": 1795106945944
   }
  },
  "sent": {
@@ -1350,15 +1350,18 @@
   "UpVmgYV3yAI:new": 1795025109904,
   "B27Xs_8AS9g:new": 1795025109904,
   "Gnt3KKqph0M:new": 1795047590410,
-  "i1cLNI4yZOg:new": 1795047590410
+  "i1cLNI4yZOg:new": 1795047590410,
+  "nRFp7MR4N-M:new": 1795106945944,
+  "nRFp7MR4N-M:300": 1795106945944,
+  "nRFp7MR4N-M:60": 1795106945944
  },
  "day": {
   "date": "2026-11-19",
-  "count": 0
+  "count": 1
  },
  "initialized": true,
- "lastDigest": "2026-11-18",
- "lastDigestAt": 1795025109904,
+ "lastDigest": "2026-11-19",
+ "lastDigestAt": 1795106945944,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
