@@ -20,81 +20,6 @@
    "people": [],
    "firstSeen": 1794912075550
   },
-  "g5oLAaGJOTo": {
-   "id": "g5oLAaGJOTo",
-   "title": "Jon Hernández: EL PELIGRO DE LA IA QUE NADIE ESTÁ MIRANDO | La Fórmula Podcast",
-   "publishedAt": "2026-11-13T17:00:10Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794912075550
-  },
-  "f6IO7JRp-vU": {
-   "id": "f6IO7JRp-vU",
-   "title": "Jon Hernández: EL DÍA QUE LA IA HACKEÓ A SUS PROPIOS CREADORES | La Fórmula Podcast",
-   "publishedAt": "2026-11-13T15:00:07Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794912075550
-  },
-  "E9J-8HSFGVc": {
-   "id": "E9J-8HSFGVc",
-   "title": "Jon Hernández: ¿TU TRABAJO TIENE LOS DÍAS CONTADOS? | La Fórmula Podcast",
-   "publishedAt": "2026-11-13T14:00:14Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794912075550
-  },
-  "NcH-Y4BZFgM": {
-   "id": "NcH-Y4BZFgM",
-   "title": "Jon Hernández: 250 PROFESIONES DEJAN DE TENER VALOR CADA DÍA | La Fórmula Podcast",
-   "publishedAt": "2026-11-13T13:10:11Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794912075550
-  },
-  "BiJETDqwWTI": {
-   "id": "BiJETDqwWTI",
-   "title": "Darío Sztajnszrajber: ¿LA FILOSOFÍA ES INÚTIL? | La Fórmula Podcast",
-   "publishedAt": "2026-10-30T17:30:18Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794912075550
-  },
   "_4X7wmvDkSE": {
    "id": "_4X7wmvDkSE",
    "title": "La amenaza a Sandra Pettovello que hizo EXPLOTAR a Willy Laborda | Pulso Financiero",
@@ -852,7 +777,7 @@
   },
   "jgKqNPjRaMA": {
    "id": "jgKqNPjRaMA",
-   "title": "“LA DISCIPLINA FISCAL ES EL MAYOR ACTIVO DEL GOBIERNO” | Francisco Roch",
+   "title": "La ley que podría hacer SOSTENIBLE el ajuste fiscal argentino | Pulso Financiero",
    "publishedAt": "2026-11-19T15:46:01Z",
    "status": "none",
    "start": null,
@@ -891,18 +816,14 @@
   },
   "nRFp7MR4N-M": {
    "id": "nRFp7MR4N-M",
-   "title": "¿EXISTE UN MANUAL PARA EL ÉXITO? Luis Ventura habló de todo con Jonatan Loidi",
+   "title": "\"SI SE PONE LAS PILAS, VA A HACER UNA BUENA GESTIÓN\": Luis Ventura y su mirada sobre MILEI",
    "publishedAt": "2026-11-19T18:08:10Z",
    "status": "none",
    "start": "2026-11-19T17:00:00Z",
    "channel": "El Cronista Stream",
    "handle": "@Cronista_ar",
-   "programs": [
-    "Sin Manual"
-   ],
-   "via": {
-    "Sin Manual": "el título"
-   },
+   "programs": [],
+   "via": {},
    "people": [],
    "firstSeen": 1795106945944
   },
@@ -964,7 +885,7 @@
   },
   "O1Lvl23gEq0": {
    "id": "O1Lvl23gEq0",
-   "title": "\"NO ES NUEVO QUE LA GENTE NO LLEGUE A FIN DE MES\" | Intenso DEBATE por la ECONOMIA de Milei",
+   "title": "¿MILEI PUEDE REACTIVAR LA ECONOMÍA SIN EMITIR? | Julián Yosovitch",
    "publishedAt": "2026-11-19T20:15:08Z",
    "status": "none",
    "start": null,
@@ -1016,7 +937,7 @@
   },
   "_4jbQIFgEMU": {
    "id": "_4jbQIFgEMU",
-   "title": "#68 - La empresa que revoluciona el campo y levanta U$S10 millones, Matías Lopresto y Daniel Bianchi",
+   "title": "#68 - “Yo quería tener mi proyecto, tener algo propio” , Matías Lopresto y Daniel Bianchi",
    "publishedAt": "2026-11-19T23:00:07Z",
    "status": "none",
    "start": "2026-11-19T23:00:00Z",
@@ -1118,6 +1039,75 @@
    "via": {},
    "people": [],
    "firstSeen": 1795147694425
+  },
+  "uuBO_59HpRY": {
+   "id": "uuBO_59HpRY",
+   "title": "🔴 EN VIVO | LQD con Juli Zancada, Andrew Losano, Sofi Altuna y Pablo Finanzas",
+   "publishedAt": "2026-11-20T12:37:17Z",
+   "status": "upcoming",
+   "start": "2026-11-20T17:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795179056336
+  },
+  "0NUZwiKb_m4": {
+   "id": "0NUZwiKb_m4",
+   "title": "🟣 EN VIVO | CUENTAS CLARAS con Sebas Davidovsky y Cata De Elía",
+   "publishedAt": "2026-11-20T12:35:19Z",
+   "status": "upcoming",
+   "start": "2026-11-20T15:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795179056336
+  },
+  "gt5sE-t7c4s": {
+   "id": "gt5sE-t7c4s",
+   "title": "🟡 EN VIVO | PULSO FINANCIERO con Willy Laborda, Flor Barragan y Santi Escobar",
+   "publishedAt": "2026-11-20T12:32:19Z",
+   "status": "upcoming",
+   "start": "2026-11-20T14:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795179056336
+  },
+  "r2saF4GH92I": {
+   "id": "r2saF4GH92I",
+   "title": "La Fábrica #",
+   "publishedAt": "2026-11-16T21:48:03Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795179056336
+  },
+  "qobRsKhaodU": {
+   "id": "qobRsKhaodU",
+   "title": "Manuel Sans Segarra y Eduardo Strauch: una conversación sobre resiliencia | La Fórmula Podcast",
+   "publishedAt": "2026-11-20T11:00:05Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795179056336
   }
  },
  "sent": {
@@ -1353,15 +1343,16 @@
   "nRFp7MR4N-M:300": 1795106945944,
   "nRFp7MR4N-M:60": 1795106945944,
   "TX8mO0Juu0A:new": 1795130558317,
-  "_4jbQIFgEMU:new": 1795130558317
+  "_4jbQIFgEMU:new": 1795130558317,
+  "JQFO4ljRspo:new": 1795179056336
  },
  "day": {
   "date": "2026-11-20",
-  "count": 0
+  "count": 1
  },
  "initialized": true,
- "lastDigest": "2026-11-19",
- "lastDigestAt": 1795106945944,
+ "lastDigest": "2026-11-20",
+ "lastDigestAt": 1795179056336,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
