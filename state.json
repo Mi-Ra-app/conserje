@@ -5,86 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "YPWdNj7UovQ": {
-   "id": "YPWdNj7UovQ",
-   "title": "EN VIVO | DISCURSO DE MILEI EN LA GALA DEL CONSEJO INTERAMERICANO DE COMERCIO Y PRODUCCIÓN",
-   "publishedAt": "2026-11-17T00:46:07Z",
-   "status": "none",
-   "start": "2026-11-16T23:12:35Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794881149458
-  },
-  "rX4Jr72VzS0": {
-   "id": "rX4Jr72VzS0",
-   "title": "¿SOMOS RACIONALES CON LA PLATA?",
-   "publishedAt": "2026-11-16T21:33:47Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794881149458
-  },
-  "a-4pLCghqDg": {
-   "id": "a-4pLCghqDg",
-   "title": "El dato salarial que anticipa el desafío de Milei para los próximos meses | Yayi Morales",
-   "publishedAt": "2026-11-16T21:30:31Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794881149458
-  },
-  "HIlwEJfLUeE": {
-   "id": "HIlwEJfLUeE",
-   "title": "El 2,2% reabre el debate sobre la inflación y la promesa del Gobierno | Julián Yosovitch",
-   "publishedAt": "2026-11-16T20:00:02Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794881149458
-  },
-  "ICsUov5GeGI": {
-   "id": "ICsUov5GeGI",
-   "title": "¿FUE UN ERROR PROMETER INFLACIÓN 0?",
-   "publishedAt": "2026-11-16T19:19:39Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794881149458
-  },
-  "r2saF4GH92I": {
-   "id": "r2saF4GH92I",
-   "title": "La Fábrica #",
-   "publishedAt": "2026-11-16T21:48:03Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1794881149458
-  },
   "FRmz_0LfQCg": {
    "id": "FRmz_0LfQCg",
    "title": "Jon Hernández: TU GENERACIÓN PODRÍA NO MORIR | La Fórmula Podcast",
@@ -1098,7 +1018,7 @@
    "id": "_4jbQIFgEMU",
    "title": "#68 - La empresa que revoluciona el campo y levanta U$S10 millones, Matías Lopresto y Daniel Bianchi",
    "publishedAt": "2026-11-19T23:00:07Z",
-   "status": "live",
+   "status": "none",
    "start": "2026-11-19T23:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -1108,6 +1028,96 @@
    "via": {},
    "people": [],
    "firstSeen": 1795130558317
+  },
+  "JQFO4ljRspo": {
+   "id": "JQFO4ljRspo",
+   "title": "#5 - Misión #5, la soberanía de los ríos y mares - Carlos Casime y Luciano Orellano",
+   "publishedAt": "2026-11-20T01:00:07Z",
+   "status": "none",
+   "start": "2026-11-20T01:00:00Z",
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795147694425
+  },
+  "GqTuuEeT6Uk": {
+   "id": "GqTuuEeT6Uk",
+   "title": "Las heladeras argentinas están desapareciendo",
+   "publishedAt": "2026-11-16T21:29:33Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795147694425
+  },
+  "N98rkUuxpDw": {
+   "id": "N98rkUuxpDw",
+   "title": "Invertir hoy en Argentina",
+   "publishedAt": "2026-11-16T21:27:24Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795147694425
+  },
+  "gKb6W9IxcZw": {
+   "id": "gKb6W9IxcZw",
+   "title": "¿Es positiva la reforma laboral?",
+   "publishedAt": "2026-11-16T21:24:45Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795147694425
+  },
+  "h3HgH6opYOM": {
+   "id": "h3HgH6opYOM",
+   "title": "Ingresos Brutos, el impuesto más distorsivo",
+   "publishedAt": "2026-11-16T21:23:57Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795147694425
+  },
+  "Cl39zWEz3fA": {
+   "id": "Cl39zWEz3fA",
+   "title": "Tu trabajo está en riesgo: cómo sobrevivir a la IA con Jon Hernández | La Fórmula Podcast",
+   "publishedAt": "2026-11-13T11:00:39Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795147694425
   }
  },
  "sent": {
@@ -1346,8 +1356,8 @@
   "_4jbQIFgEMU:new": 1795130558317
  },
  "day": {
-  "date": "2026-11-19",
-  "count": 3
+  "date": "2026-11-20",
+  "count": 0
  },
  "initialized": true,
  "lastDigest": "2026-11-19",
