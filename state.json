@@ -5,71 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "T2L2ZCi4zk0": {
-   "id": "T2L2ZCi4zk0",
-   "title": "EL LUGAR DE ARGENTINA QUE VISITAN MÁS EXTRANJEROS QUE ARGENTINOS",
-   "publishedAt": "2026-11-19T00:07:57Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795047590410
-  },
-  "G2SmujzkIgg": {
-   "id": "G2SmujzkIgg",
-   "title": "¿La ECONOMÍA ARGENTINA no crece por la FALTA DE DÓLARES? | Cuentas Claras",
-   "publishedAt": "2026-11-18T21:30:05Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795047590410
-  },
-  "l7Gm6Zxmd3I": {
-   "id": "l7Gm6Zxmd3I",
-   "title": "PASSERINI CONTRA LA ECONOMÍA DE MILEI",
-   "publishedAt": "2026-11-18T21:08:23Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795047590410
-  },
-  "8ZRux5mXPb8": {
-   "id": "8ZRux5mXPb8",
-   "title": "Casi una década de salarios en caída: por qué el informal muestra otra historia",
-   "publishedAt": "2026-11-18T20:00:10Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795047590410
-  },
-  "aYgAJIDPRGo": {
-   "id": "aYgAJIDPRGo",
-   "title": "TIENE 22 AÑOS, ES ARGENTINO Y CREÓ SU PROPIA AEROLÍNEA",
-   "publishedAt": "2026-11-18T19:02:15Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795047590410
-  },
   "2V3HXjqSb_0": {
    "id": "2V3HXjqSb_0",
    "title": "TRUMP, XI Y PUTIN SE REÚNEN EN UNA CUMBRE EN CHINA",
@@ -79,21 +14,6 @@
    "channel": "El Cronista Stream",
    "handle": "@Cronista_ar",
    "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795074220999
-  },
-  "JB2drz7Sd-c": {
-   "id": "JB2drz7Sd-c",
-   "title": "#46 - La psicóloga que busca crear los mejores vinos del mundo, Juliana del Águila Eurnekian",
-   "publishedAt": "2026-11-16T23:00:08Z",
-   "status": "none",
-   "start": "2026-11-16T23:00:00Z",
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
    "via": {},
    "people": [],
    "firstSeen": 1795074220999
@@ -1139,6 +1059,90 @@
    "via": {},
    "people": [],
    "firstSeen": 1795279542817
+  },
+  "QhQKcIcEM_M": {
+   "id": "QhQKcIcEM_M",
+   "title": "ASÍ FUNCIONAN LOS AUTOS AUTÓNOMOS DE CHINA",
+   "publishedAt": "2026-11-21T20:04:13Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795298323798
+  },
+  "paxGXwgFxD4": {
+   "id": "paxGXwgFxD4",
+   "title": "El riesgo político que podría complicar a la Argentina en 2027 | Francisco Roch",
+   "publishedAt": "2026-11-21T19:00:07Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795298323798
+  },
+  "usX1XtBQiCw": {
+   "id": "usX1XtBQiCw",
+   "title": "\"ACÁ PARECÍA QUE EN TEXAS HABÍA GANADO DEL CAÑO\"",
+   "publishedAt": "2026-11-21T17:09:30Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795298323798
+  },
+  "2qcA4q2UpUQ": {
+   "id": "2qcA4q2UpUQ",
+   "title": "Gabriel Rolón: “SIEMPRE VAN A FALTAR 5 PARA EL PESO” | La Fórmula Podcast",
+   "publishedAt": "2026-11-18T23:00:14Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795298323798
+  },
+  "v_mXfSKdoDY": {
+   "id": "v_mXfSKdoDY",
+   "title": "Gabriel Rolón: EL DUELO DE LO QUE NO PUDO SER | La Fórmula Podcast",
+   "publishedAt": "2026-11-18T20:00:08Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795298323798
+  },
+  "80ddkAMT__s": {
+   "id": "80ddkAMT__s",
+   "title": "Gabriel Rolón: LA LECCIÓN DE MI PADRE QUE CAMBIÓ MI VIDA | La Fórmula Podcast",
+   "publishedAt": "2026-11-18T19:00:04Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795298323798
   }
  },
  "sent": {
