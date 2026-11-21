@@ -5,45 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "KK_eGAKDkNI": {
-   "id": "KK_eGAKDkNI",
-   "title": "Esta es la MALDICIÓN que vive Argentina con el dólar hace 80 AÑOS",
-   "publishedAt": "2026-11-18T17:16:51Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795025109904
-  },
-  "Z_onrD12zuQ": {
-   "id": "Z_onrD12zuQ",
-   "title": "\"MILEI NO VA A SER REELECTO\": DANIEL PASSERINI ADVIERTE | Cuentas Claras",
-   "publishedAt": "2026-11-18T17:07:32Z",
-   "status": "none",
-   "start": "2026-11-18T15:00:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795025109904
-  },
-  "xZ4Pz5p4JOk": {
-   "id": "xZ4Pz5p4JOk",
-   "title": "Fundó su propia AEROLÍNEA a los 20 AÑOS | Francisco Errecart, CEO de Humming Airways",
-   "publishedAt": "2026-11-18T17:00:28Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795025109904
-  },
   "T2L2ZCi4zk0": {
    "id": "T2L2ZCi4zk0",
    "title": "EL LUGAR DE ARGENTINA QUE VISITAN MÁS EXTRANJEROS QUE ARGENTINOS",
@@ -105,94 +66,6 @@
    "channel": "El Cronista Stream",
    "handle": "@Cronista_ar",
    "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795047590410
-  },
-  "AlUP8BEaPpo": {
-   "id": "AlUP8BEaPpo",
-   "title": "MILEI Y LA ECONOMÍA ARGENTINA: ¿por qué no llega la recuperación? | Daniel Passerini",
-   "publishedAt": "2026-11-18T18:30:26Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795047590410
-  },
-  "Gnt3KKqph0M": {
-   "id": "Gnt3KKqph0M",
-   "title": "Se recibió siendo madre de 3 hijos",
-   "publishedAt": "2026-11-18T19:00:25Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795047590410
-  },
-  "i1cLNI4yZOg": {
-   "id": "i1cLNI4yZOg",
-   "title": "#9 - \"Nadie quiere ser pediatra\", la crisis de la salud en la Argentina - Fernando Burgos",
-   "publishedAt": "2026-11-19T01:00:08Z",
-   "status": "none",
-   "start": "2026-11-19T01:00:00Z",
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795047590410
-  },
-  "2qcA4q2UpUQ": {
-   "id": "2qcA4q2UpUQ",
-   "title": "Gabriel Rolón: “SIEMPRE VAN A FALTAR 5 PARA EL PESO” | La Fórmula Podcast",
-   "publishedAt": "2026-11-18T23:00:14Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795047590410
-  },
-  "v_mXfSKdoDY": {
-   "id": "v_mXfSKdoDY",
-   "title": "Gabriel Rolón: EL DUELO DE LO QUE NO PUDO SER | La Fórmula Podcast",
-   "publishedAt": "2026-11-18T20:00:08Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795047590410
-  },
-  "80ddkAMT__s": {
-   "id": "80ddkAMT__s",
-   "title": "Gabriel Rolón: LA LECCIÓN DE MI PADRE QUE CAMBIÓ MI VIDA | La Fórmula Podcast",
-   "publishedAt": "2026-11-18T19:00:04Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
    "via": {},
    "people": [],
    "firstSeen": 1795047590410
@@ -1137,6 +1010,135 @@
    "via": {},
    "people": [],
    "firstSeen": 1795251886903
+  },
+  "kv7LA-z4cXs": {
+   "id": "kv7LA-z4cXs",
+   "title": "El pluriempleo crece en Argentina: la realidad de millones de argentinos | Rochi Grimaldi",
+   "publishedAt": "2026-11-21T16:00:19Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795279542817
+  },
+  "qPPwfnyZEug": {
+   "id": "qPPwfnyZEug",
+   "title": "BREY APUNTÓ CONTRA EL CONGRESO DE ALBERTO",
+   "publishedAt": "2026-11-21T14:05:32Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795279542817
+  },
+  "-H7-ZkOdjfs": {
+   "id": "-H7-ZkOdjfs",
+   "title": "\"ARGENTINA ES EL MAYOR CONSUMIDOR DE ALFAJORES\" | Claudio Messina",
+   "publishedAt": "2026-11-21T13:00:07Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795279542817
+  },
+  "3tlBEtPVGIU": {
+   "id": "3tlBEtPVGIU",
+   "title": "La vida teniendo dislexia",
+   "publishedAt": "2026-11-21T15:00:29Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795279542817
+  },
+  "zFfYK7OpHjs": {
+   "id": "zFfYK7OpHjs",
+   "title": "\"La herencia es un error de cálculos\"",
+   "publishedAt": "2026-11-21T15:00:00Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795279542817
+  },
+  "lr1OMXa00eE": {
+   "id": "lr1OMXa00eE",
+   "title": "Gabriel Rolón: “SI NO DUELE, ES PORQUE NO AMASTE” | La Fórmula Podcast",
+   "publishedAt": "2026-11-18T17:00:13Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795279542817
+  },
+  "fivg0PHj3NU": {
+   "id": "fivg0PHj3NU",
+   "title": "Gabriel Rolón: “LE PRESENTO BATALLA AL DOLOR Y NO ME ESCAPO” | La Fórmula Podcast",
+   "publishedAt": "2026-11-18T15:00:06Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795279542817
+  },
+  "vkc647ESDNY": {
+   "id": "vkc647ESDNY",
+   "title": "Gabriel Rolón: “LA FELICIDAD NO EXISTE”: ¿QUÉ ES LA FALTACIDAD? | La Fórmula Podcast",
+   "publishedAt": "2026-11-18T14:05:29Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795279542817
+  },
+  "lZmAo_VdtKE": {
+   "id": "lZmAo_VdtKE",
+   "title": "¿Por qué nunca nada nos alcanza?: el deseo y la falta con Gabriel Rolón | La Fórmula Podcast",
+   "publishedAt": "2026-11-18T11:00:13Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795279542817
   }
  },
  "sent": {
@@ -1376,15 +1378,23 @@
   "JQFO4ljRspo:new": 1795179056336,
   "a7NPsP3nkcs:new": 1795207988170,
   "v5S8nfSFF4Q:new": 1795207988170,
-  "UPfuOMjrk6Q:new": 1795226118874
+  "UPfuOMjrk6Q:new": 1795226118874,
+  "KtJK8htcoYw:new": 1795279542817,
+  "o5gda238RzA:new": 1795279542817,
+  "2H_c0Ux4ckc:new": 1795279542817,
+  "zGE_KAZlD7w:new": 1795279542817,
+  "Wm4Y3fSDcrQ:new": 1795279542817,
+  "482n634yQvM:new": 1795279542817,
+  "UuAqKWiCDPo:new": 1795279542817,
+  "M-WwwX_RXsU:new": 1795279542817
  },
  "day": {
   "date": "2026-11-21",
-  "count": 0
+  "count": 8
  },
  "initialized": true,
- "lastDigest": "2026-11-20",
- "lastDigestAt": 1795179056336,
+ "lastDigest": "2026-11-21",
+ "lastDigestAt": 1795279542817,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
