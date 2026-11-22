@@ -74,45 +74,6 @@
    "people": [],
    "firstSeen": 1795130558317
   },
-  "B7f2IUC37cc": {
-   "id": "B7f2IUC37cc",
-   "title": "¿QUÉ NECESITÁS PARA EXPORTAR?",
-   "publishedAt": "2026-11-19T18:43:55Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795130558317
-  },
-  "-nYEBv01yUY": {
-   "id": "-nYEBv01yUY",
-   "title": "CRISTIAN RITONDO: “LAS PASO PUEDEN ATENTAR CONTRA EL PROGRAMA ECONÓMICO”",
-   "publishedAt": "2026-11-19T18:07:37Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795130558317
-  },
-  "R5IOAd-ouEg": {
-   "id": "R5IOAd-ouEg",
-   "title": "Milei frenó la “maquinita”: ¿qué sigue impidiendo que la Argentina crezca?",
-   "publishedAt": "2026-11-19T17:18:10Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795130558317
-  },
   "JQFO4ljRspo": {
    "id": "JQFO4ljRspo",
    "title": "#5 - Misión #5, la soberanía de los ríos y mares - Carlos Casime y Luciano Orellano",
@@ -1153,6 +1114,47 @@
    "via": {},
    "people": [],
    "firstSeen": 1795367866891
+  },
+  "yBAzeT98tbE": {
+   "id": "yBAzeT98tbE",
+   "title": "EL LUGAR PARA SACAR A LOS PORTEÑOS DE BUENOS AIRES",
+   "publishedAt": "2026-11-22T20:06:26Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795387162944
+  },
+  "M35l7thGiV4": {
+   "id": "M35l7thGiV4",
+   "title": "El antecedente que explica por qué los DÓLARES podrían volver a salir de los BANCOS",
+   "publishedAt": "2026-11-22T19:00:21Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795387162944
+  },
+  "jNCwfRjal04": {
+   "id": "jNCwfRjal04",
+   "title": "#128 - Jugó un Mundial de Rugby y armó un negocio de US$400 millones, Federico Pucciariello",
+   "publishedAt": "2026-11-22T15:06:04Z",
+   "status": "upcoming",
+   "start": "2026-11-22T23:00:00Z",
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795387162944
   }
  },
  "sent": {
@@ -1405,11 +1407,12 @@
   "R4sy6d2SLYU:new": 1795367866891,
   "smTBjWzCL7s:new": 1795367866891,
   "1F75gSoRGO8:new": 1795367866891,
-  "5fSiFGWhn3I:new": 1795367866891
+  "5fSiFGWhn3I:new": 1795367866891,
+  "jNCwfRjal04:new": 1795387162944
  },
  "day": {
   "date": "2026-11-22",
-  "count": 5
+  "count": 6
  },
  "initialized": true,
  "lastDigest": "2026-11-22",
