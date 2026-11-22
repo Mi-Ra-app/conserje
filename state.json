@@ -5,19 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "2V3HXjqSb_0": {
-   "id": "2V3HXjqSb_0",
-   "title": "TRUMP, XI Y PUTIN SE REÚNEN EN UNA CUMBRE EN CHINA",
-   "publishedAt": "2026-11-19T01:00:02Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795074220999
-  },
   "8USjPYnSZWg": {
    "id": "8USjPYnSZWg",
    "title": "CRISTIAN RITONDO SIN FILTRO: \"HAY QUE SACAR AL POPULISMO DE PBA\" | Cuentas Claras",
@@ -1143,6 +1130,23 @@
    "via": {},
    "people": [],
    "firstSeen": 1795298323798
+  },
+  "bcJn_UyAqlQ": {
+   "id": "bcJn_UyAqlQ",
+   "title": "POR NO HACER ESTO TE VA MAL EN LOS NEGOCIOS",
+   "publishedAt": "2026-11-21T23:05:31Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [
+    "Sin Manual"
+   ],
+   "via": {
+    "Sin Manual": "la descripción"
+   },
+   "people": [],
+   "firstSeen": 1795312673314
   }
  },
  "sent": {
