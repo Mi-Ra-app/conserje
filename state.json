@@ -5,84 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "8USjPYnSZWg": {
-   "id": "8USjPYnSZWg",
-   "title": "CRISTIAN RITONDO SIN FILTRO: \"HAY QUE SACAR AL POPULISMO DE PBA\" | Cuentas Claras",
-   "publishedAt": "2026-11-19T17:06:24Z",
-   "status": "none",
-   "start": "2026-11-19T15:00:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795106945944
-  },
-  "c1NnmIp3iLY": {
-   "id": "c1NnmIp3iLY",
-   "title": "\"LA REGLA FISCAL ES MILEI\"",
-   "publishedAt": "2026-11-19T16:35:05Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795106945944
-  },
-  "jgKqNPjRaMA": {
-   "id": "jgKqNPjRaMA",
-   "title": "La ley que podría hacer SOSTENIBLE el ajuste fiscal argentino | Pulso Financiero",
-   "publishedAt": "2026-11-19T15:46:01Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795106945944
-  },
-  "qgDfSC1_LAQ": {
-   "id": "qgDfSC1_LAQ",
-   "title": "EL DÓLAR, PRENDIDO FUEGO: El análisis de WILLY LABORDA en Pulso Financiero",
-   "publishedAt": "2026-11-19T15:25:38Z",
-   "status": "none",
-   "start": "2026-11-19T14:00:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795106945944
-  },
-  "XRRS7XjT6WM": {
-   "id": "XRRS7XjT6WM",
-   "title": "“LA INFLACIÓN ESTÁ BAJANDO”: Yosovitch explica por qué todavía no llega a cero",
-   "publishedAt": "2026-11-19T14:20:53Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795106945944
-  },
-  "nRFp7MR4N-M": {
-   "id": "nRFp7MR4N-M",
-   "title": "\"SI SE PONE LAS PILAS, VA A HACER UNA BUENA GESTIÓN\": Luis Ventura y su mirada sobre MILEI",
-   "publishedAt": "2026-11-19T18:08:10Z",
-   "status": "none",
-   "start": "2026-11-19T17:00:00Z",
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795106945944
-  },
   "hTu-xTczNPc": {
    "id": "hTu-xTczNPc",
    "title": "¿CÓMO SACAR AL POPULISMO BONAERENSE?",
@@ -187,21 +109,6 @@
    "channel": "El Cronista Stream",
    "handle": "@Cronista_ar",
    "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795130558317
-  },
-  "_4jbQIFgEMU": {
-   "id": "_4jbQIFgEMU",
-   "title": "#68 - “Yo quería tener mi proyecto, tener algo propio” , Matías Lopresto y Daniel Bianchi",
-   "publishedAt": "2026-11-19T23:00:07Z",
-   "status": "none",
-   "start": "2026-11-19T23:00:00Z",
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
    "via": {},
    "people": [],
    "firstSeen": 1795130558317
@@ -1147,6 +1054,105 @@
    },
    "people": [],
    "firstSeen": 1795312673314
+  },
+  "GOH7-K6NyNw": {
+   "id": "GOH7-K6NyNw",
+   "title": "Adecoagro busca quedarse con Sancor y ampliar su negocio lácteo | Cuentas Claras",
+   "publishedAt": "2026-11-22T16:00:21Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795367866891
+  },
+  "fokT6alLGHk": {
+   "id": "fokT6alLGHk",
+   "title": "¿QUIÉN PUEDE DECIR ALFAJOR TRIPLE?",
+   "publishedAt": "2026-11-22T14:06:56Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795367866891
+  },
+  "pALfxdPu1Bw": {
+   "id": "pALfxdPu1Bw",
+   "title": "“UN ALFAJOR NO PUEDE SUPERAR LOS $2.000”: Messina y la paradoja de los precios del mercado",
+   "publishedAt": "2026-11-22T13:00:10Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795367866891
+  },
+  "R4sy6d2SLYU": {
+   "id": "R4sy6d2SLYU",
+   "title": "Los consejos de un Pediatra para los padres",
+   "publishedAt": "2026-11-22T15:00:19Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795367866891
+  },
+  "smTBjWzCL7s": {
+   "id": "smTBjWzCL7s",
+   "title": "5 empresas controlan el 60% de los mares del mundo",
+   "publishedAt": "2026-11-22T15:00:04Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795367866891
+  },
+  "1F75gSoRGO8": {
+   "id": "1F75gSoRGO8",
+   "title": "Las secuelas de la UFC",
+   "publishedAt": "2026-11-22T14:00:38Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795367866891
+  },
+  "5fSiFGWhn3I": {
+   "id": "5fSiFGWhn3I",
+   "title": "El sacrificio económico del emprendedor",
+   "publishedAt": "2026-11-22T14:00:19Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795367866891
   }
  },
  "sent": {
@@ -1394,15 +1400,20 @@
   "Wm4Y3fSDcrQ:new": 1795279542817,
   "482n634yQvM:new": 1795279542817,
   "UuAqKWiCDPo:new": 1795279542817,
-  "M-WwwX_RXsU:new": 1795279542817
+  "M-WwwX_RXsU:new": 1795279542817,
+  "bcJn_UyAqlQ:new": 1795367866891,
+  "R4sy6d2SLYU:new": 1795367866891,
+  "smTBjWzCL7s:new": 1795367866891,
+  "1F75gSoRGO8:new": 1795367866891,
+  "5fSiFGWhn3I:new": 1795367866891
  },
  "day": {
   "date": "2026-11-22",
-  "count": 0
+  "count": 5
  },
  "initialized": true,
- "lastDigest": "2026-11-21",
- "lastDigestAt": 1795279542817,
+ "lastDigest": "2026-11-22",
+ "lastDigestAt": 1795367866891,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
