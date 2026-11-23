@@ -18,19 +18,6 @@
    "people": [],
    "firstSeen": 1795130558317
   },
-  "3npVEAbqcr4": {
-   "id": "3npVEAbqcr4",
-   "title": "BUKELE DESPLEGÓ TROPAS EN HAITÍ PARA COMBATIR A LAS PANDILLAS",
-   "publishedAt": "2026-11-19T22:35:07Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795130558317
-  },
   "JQFO4ljRspo": {
    "id": "JQFO4ljRspo",
    "title": "#5 - Misión #5, la soberanía de los ríos y mares - Carlos Casime y Luciano Orellano",
@@ -1155,6 +1142,23 @@
    "via": {},
    "people": [],
    "firstSeen": 1795403260956
+  },
+  "TX8mO0Juu0A": {
+   "id": "TX8mO0Juu0A",
+   "title": "NO SABÍA DONDE METERSE: Luis Ventura y el RECUERDO de sus mejores PRIMICIAS | Sin Manual",
+   "publishedAt": "2026-11-19T22:00:06Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [
+    "Sin Manual"
+   ],
+   "via": {
+    "Sin Manual": "el título"
+   },
+   "people": [],
+   "firstSeen": 1795436922356
   }
  },
  "sent": {
@@ -1408,15 +1412,17 @@
   "smTBjWzCL7s:new": 1795367866891,
   "1F75gSoRGO8:new": 1795367866891,
   "5fSiFGWhn3I:new": 1795367866891,
-  "jNCwfRjal04:new": 1795387162944
+  "jNCwfRjal04:new": 1795387162944,
+  "Ud4boq81e0s:new": 1795436922356,
+  "_cux4lr_dIA:new": 1795436922356
  },
  "day": {
   "date": "2026-11-23",
-  "count": 0
+  "count": 2
  },
  "initialized": true,
- "lastDigest": "2026-11-22",
- "lastDigestAt": 1795367866891,
+ "lastDigest": "2026-11-23",
+ "lastDigestAt": 1795436922356,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
