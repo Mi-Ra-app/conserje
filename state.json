@@ -31,49 +31,6 @@
    "people": [],
    "firstSeen": 1795130558317
   },
-  "TX8mO0Juu0A": {
-   "id": "TX8mO0Juu0A",
-   "title": "NO SABÍA DONDE METERSE: Luis Ventura y el RECUERDO de sus mejores PRIMICIAS | Sin Manual",
-   "publishedAt": "2026-11-19T22:00:06Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [
-    "Sin Manual"
-   ],
-   "via": {
-    "Sin Manual": "el título"
-   },
-   "people": [],
-   "firstSeen": 1795130558317
-  },
-  "-EfPacE7RsY": {
-   "id": "-EfPacE7RsY",
-   "title": "¿QUÉ LE RECLAMA VENTURA A MILEI?",
-   "publishedAt": "2026-11-19T21:07:41Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795130558317
-  },
-  "O1Lvl23gEq0": {
-   "id": "O1Lvl23gEq0",
-   "title": "¿MILEI PUEDE REACTIVAR LA ECONOMÍA SIN EMITIR? | Julián Yosovitch",
-   "publishedAt": "2026-11-19T20:15:08Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795130558317
-  },
   "JQFO4ljRspo": {
    "id": "JQFO4ljRspo",
    "title": "#5 - Misión #5, la soberanía de los ríos y mares - Carlos Casime y Luciano Orellano",
@@ -1144,8 +1101,8 @@
   "jNCwfRjal04": {
    "id": "jNCwfRjal04",
    "title": "#128 - Jugó un Mundial de Rugby y armó un negocio de US$400 millones, Federico Pucciariello",
-   "publishedAt": "2026-11-22T15:06:04Z",
-   "status": "upcoming",
+   "publishedAt": "2026-11-22T23:00:07Z",
+   "status": "none",
    "start": "2026-11-22T23:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -1155,6 +1112,49 @@
    "via": {},
    "people": [],
    "firstSeen": 1795387162944
+  },
+  "tKf-dKX_iXU": {
+   "id": "tKf-dKX_iXU",
+   "title": "¿CUÁNTO VALE UNA MARCA DE LUJO? ASÍ ES EL NEGOCIO DE LAS COPIAS",
+   "publishedAt": "2026-11-22T23:06:50Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795403260956
+  },
+  "Ud4boq81e0s": {
+   "id": "Ud4boq81e0s",
+   "title": "\"El Capitalismo no tiene otra solución que la guerra\"",
+   "publishedAt": "2026-11-22T23:39:48Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795403260956
+  },
+  "_cux4lr_dIA": {
+   "id": "_cux4lr_dIA",
+   "title": "Le dijeron que dejara el rugby, jugó un Mundial y terminó armando un negocio de US$400 millones",
+   "publishedAt": "2026-11-22T23:38:19Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795403260956
   }
  },
  "sent": {
@@ -1411,8 +1411,8 @@
   "jNCwfRjal04:new": 1795387162944
  },
  "day": {
-  "date": "2026-11-22",
-  "count": 6
+  "date": "2026-11-23",
+  "count": 0
  },
  "initialized": true,
  "lastDigest": "2026-11-22",
