@@ -5,192 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "EKwC9wKrWBQ": {
-   "id": "EKwC9wKrWBQ",
-   "title": "DEBUT RÉCORD DE ANTHROPIC EN WALL STREET",
-   "publishedAt": "2026-11-20T20:49:34Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795207988170
-  },
-  "a7NPsP3nkcs": {
-   "id": "a7NPsP3nkcs",
-   "title": "¿Conviene comprar acciones de Anthropic después de su debut? | Alan Zuchovicki",
-   "publishedAt": "2026-11-20T19:35:11Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [
-    {
-     "name": "Claudio Zuchovicki",
-     "confidence": "alta"
-    }
-   ],
-   "firstSeen": 1795207988170
-  },
-  "knewgigmb2A": {
-   "id": "knewgigmb2A",
-   "title": "ECONOMISTA: \"MARÍN DEBERÍA SEGUIR CON UN CAMBIO DE GOBIERNO\"",
-   "publishedAt": "2026-11-20T18:47:08Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795207988170
-  },
-  "wc_8yGrR1gU": {
-   "id": "wc_8yGrR1gU",
-   "title": "La duda que inquieta al mercado: de dónde saldrán los dólares para pagar la deuda",
-   "publishedAt": "2026-11-20T17:22:58Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795207988170
-  },
-  "pe_Nn7obHVw": {
-   "id": "pe_Nn7obHVw",
-   "title": "¿HAY QUE REFORMAR LA CONSTITUCIÓN?",
-   "publishedAt": "2026-11-20T16:37:32Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795207988170
-  },
-  "bu_iHPqUqYE": {
-   "id": "bu_iHPqUqYE",
-   "title": "EL RIESGO PAÍS SUPERA LOS 1.000 PUNTOS Y ENCENDIÓ LAS ALARMAS EN LOS MERCADOS | Emilio Ocampo",
-   "publishedAt": "2026-11-20T15:46:22Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795207988170
-  },
-  "u3aj0JXEP7U": {
-   "id": "u3aj0JXEP7U",
-   "title": "El costo de bajar la inflación: ¿qué debe hacer Milei para frenarla? | Julián Yosovitch",
-   "publishedAt": "2026-11-20T14:51:15Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795207988170
-  },
-  "v5S8nfSFF4Q": {
-   "id": "v5S8nfSFF4Q",
-   "title": "#36 - ¿Cómo invierte y maneja el riesgo un ex CEO del HSBC?, Gabriel \"Pajaro\" Martino",
-   "publishedAt": "2026-11-20T23:00:10Z",
-   "status": "none",
-   "start": "2026-11-20T23:00:00Z",
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795207988170
-  },
-  "u-_rabV5gf4": {
-   "id": "u-_rabV5gf4",
-   "title": "Manuel Sans Segarra y Eduardo Strauch: LA ENSEÑANZA QUE LA MUERTE ME DEJÓ | La Fórmula Podcast",
-   "publishedAt": "2026-11-20T20:00:08Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795207988170
-  },
-  "LUEegmZxOGw": {
-   "id": "LUEegmZxOGw",
-   "title": "Manuel Sans Segarra y Eduardo Strauch: 72 DÍAS ENTRE LA VIDA Y LA MUERTE | La Fórmula Podcast",
-   "publishedAt": "2026-11-20T17:30:13Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795207988170
-  },
-  "FvSWdtQnFzc": {
-   "id": "FvSWdtQnFzc",
-   "title": "Manuel Sans Segarra y Eduardo Strauch: “CUANDO ME ACERQUÉ A LA MUERTE SENTÍ PLACER”",
-   "publishedAt": "2026-11-20T16:30:16Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795207988170
-  },
-  "DWOzjaIZfxA": {
-   "id": "DWOzjaIZfxA",
-   "title": "Manuel Sans Segarra y Eduardo Strauch: ¿QUÉ SON LA VIDA Y LA MUERTE? | La Fórmula Podcast",
-   "publishedAt": "2026-11-20T15:30:32Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795207988170
-  },
-  "NZOQM5v9i4c": {
-   "id": "NZOQM5v9i4c",
-   "title": "Manuel Sans Segarra y Eduardo Strauch: ¿QUÉ HAY DESPUÉS DE LA MUERTE? | La Fórmula Podcast",
-   "publishedAt": "2026-11-20T14:29:14Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795207988170
-  },
   "8lAjP3SlxR8": {
    "id": "8lAjP3SlxR8",
    "title": "DESDE BANCOS HASTA SUPERMERCADOS: CRECE EL TEMOR A LOS CIBERATAQUES⁠",
@@ -1147,6 +961,181 @@
    "via": {},
    "people": [],
    "firstSeen": 1795514159575
+  },
+  "Nv8ph0C2r4M": {
+   "id": "Nv8ph0C2r4M",
+   "title": "“EL PUNTO CENTRAL ES SOSTENER EL RUMBO”: el desafío que enfrentan MILEI y CAPUTO",
+   "publishedAt": "2026-11-24T20:00:08Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795552109677
+  },
+  "klkDf2PSg8k": {
+   "id": "klkDf2PSg8k",
+   "title": "EL DÓLAR Y EL RIESGO PAÍS SE DISPARAN: ¿EL PLAN DE MILEI CONTRA LAS CUERDAS?",
+   "publishedAt": "2026-11-24T19:32:45Z",
+   "status": "none",
+   "start": "2026-11-24T15:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795552109677
+  },
+  "UEg9dJN2ikI": {
+   "id": "UEg9dJN2ikI",
+   "title": "¿CÓMO FRENAR LA INFLACIÓN?",
+   "publishedAt": "2026-11-24T19:13:21Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795552109677
+  },
+  "E9v6Io9SwWw": {
+   "id": "E9v6Io9SwWw",
+   "title": "¿QUÉ ESTÁ PASANDO CON EL CONSUMO EN LA ERA MILEI? | Guillermo Oliveto",
+   "publishedAt": "2026-11-24T18:30:29Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795552109677
+  },
+  "0mBlCLtgMOA": {
+   "id": "0mBlCLtgMOA",
+   "title": "¿Por qué suben el RIESGO PAÍS y el DÓLAR en la Argentina? | Iván Carrino",
+   "publishedAt": "2026-11-24T17:12:53Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795552109677
+  },
+  "G3xFNaR-OZs": {
+   "id": "G3xFNaR-OZs",
+   "title": "¿QUÉ FRENA EL CRÉDITO EN ARGENTINA?",
+   "publishedAt": "2026-11-24T16:37:35Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795552109677
+  },
+  "x-A4yCeFL-A": {
+   "id": "x-A4yCeFL-A",
+   "title": "\"QUE LLUEVA EN ARGENTINA ES SINÓNIMO DE BUENA COSECHA\" | Horacio Busanello",
+   "publishedAt": "2026-11-24T15:19:50Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795552109677
+  },
+  "5a1VbBm434c": {
+   "id": "5a1VbBm434c",
+   "title": "¿MÁS PROBLEMAS PARA LAS EMPRESAS?: Willy Laborda reacciona al nuevo RÉGIMEN LABORAL de PBA",
+   "publishedAt": "2026-11-24T15:08:11Z",
+   "status": "none",
+   "start": "2026-11-24T14:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795552109677
+  },
+  "9bUgrNG7wQ4": {
+   "id": "9bUgrNG7wQ4",
+   "title": "¿EL MERCADO ESTÁ ENTRANDO EN UNA CRISIS? | @AxelBeckerOK LO REVELA",
+   "publishedAt": "2026-11-24T14:28:34Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795552109677
+  },
+  "GrR2q2mF_T0": {
+   "id": "GrR2q2mF_T0",
+   "title": "🔵 EN VIVO | Kuky Pumar, creador del REINO INFANTIL, con Jairo Straccia en Sello Argento",
+   "publishedAt": "2026-11-24T13:32:17Z",
+   "status": "upcoming",
+   "start": "2026-11-24T22:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795552109677
+  },
+  "BM_9CZ2GDdo": {
+   "id": "BM_9CZ2GDdo",
+   "title": "#15 - De invertir su sueldo a construir una fintech que busca conectar al mundo, Joaquín Fagalde",
+   "publishedAt": "2026-11-22T19:45:56Z",
+   "status": "upcoming",
+   "start": "2026-11-25T01:00:00Z",
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795552109677
+  },
+  "M07jtRrECoM": {
+   "id": "M07jtRrECoM",
+   "title": "#53 - Dejó el fútbol profesional y encontró su camino en el futsal, Facundo Schusterman",
+   "publishedAt": "2026-11-22T18:46:38Z",
+   "status": "upcoming",
+   "start": "2026-11-24T23:00:00Z",
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795552109677
+  },
+  "g5oLAaGJOTo": {
+   "id": "g5oLAaGJOTo",
+   "title": "Jon Hernández: EL PELIGRO DE LA IA QUE NADIE ESTÁ MIRANDO | La Fórmula Podcast",
+   "publishedAt": "2026-11-13T17:00:10Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795552109677
   }
  },
  "sent": {
@@ -1404,15 +1393,17 @@
   "Ud4boq81e0s:new": 1795436922356,
   "_cux4lr_dIA:new": 1795436922356,
   "fADnRFNBjzA:new": 1795479199035,
-  "E6p277fmQmA:new": 1795479199035
+  "E6p277fmQmA:new": 1795479199035,
+  "BM_9CZ2GDdo:new": 1795552109677,
+  "M07jtRrECoM:new": 1795552109677
  },
  "day": {
   "date": "2026-11-24",
-  "count": 0
+  "count": 2
  },
  "initialized": true,
- "lastDigest": "2026-11-23",
- "lastDigestAt": 1795436922356,
+ "lastDigest": "2026-11-24",
+ "lastDigestAt": 1795552109677,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
