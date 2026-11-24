@@ -191,21 +191,6 @@
    "people": [],
    "firstSeen": 1795207988170
   },
-  "g5oLAaGJOTo": {
-   "id": "g5oLAaGJOTo",
-   "title": "Jon Hernández: EL PELIGRO DE LA IA QUE NADIE ESTÁ MIRANDO | La Fórmula Podcast",
-   "publishedAt": "2026-11-13T17:00:10Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fórmula Podcast",
-   "handle": "@laformulapod",
-   "programs": [
-    "La Fórmula Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795207988170
-  },
   "8lAjP3SlxR8": {
    "id": "8lAjP3SlxR8",
    "title": "DESDE BANCOS HASTA SUPERMERCADOS: CRECE EL TEMOR A LOS CIBERATAQUES⁠",
@@ -1147,6 +1132,21 @@
    "via": {},
    "people": [],
    "firstSeen": 1795479199035
+  },
+  "qobRsKhaodU": {
+   "id": "qobRsKhaodU",
+   "title": "Manuel Sans Segarra y Eduardo Strauch: una conversación sobre resiliencia | La Fórmula Podcast",
+   "publishedAt": "2026-11-20T11:00:05Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795514159575
   }
  },
  "sent": {
@@ -1407,8 +1407,8 @@
   "E6p277fmQmA:new": 1795479199035
  },
  "day": {
-  "date": "2026-11-23",
-  "count": 4
+  "date": "2026-11-24",
+  "count": 0
  },
  "initialized": true,
  "lastDigest": "2026-11-23",
