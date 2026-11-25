@@ -110,81 +110,6 @@
    "people": [],
    "firstSeen": 1795251886903
   },
-  "M-WwwX_RXsU": {
-   "id": "M-WwwX_RXsU",
-   "title": "El uso de las desventajas a tu favor",
-   "publishedAt": "2026-11-21T06:27:34Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795251886903
-  },
-  "Lpn0UK8Bo8E": {
-   "id": "Lpn0UK8Bo8E",
-   "title": "Lo que la IA no nos puede sacar",
-   "publishedAt": "2026-11-21T06:26:45Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795251886903
-  },
-  "wZ3kpFkHADg": {
-   "id": "wZ3kpFkHADg",
-   "title": "El creador de Conexa",
-   "publishedAt": "2026-11-21T06:25:47Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795251886903
-  },
-  "MmBUWxX6KbU": {
-   "id": "MmBUWxX6KbU",
-   "title": "Lo más difícil de abrir un restaurante",
-   "publishedAt": "2026-11-21T06:24:42Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795251886903
-  },
-  "-iX_MzweetM": {
-   "id": "-iX_MzweetM",
-   "title": "La crisis mundial del vino",
-   "publishedAt": "2026-11-21T06:23:53Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795251886903
-  },
   "kv7LA-z4cXs": {
    "id": "kv7LA-z4cXs",
    "title": "El pluriempleo crece en Argentina: la realidad de millones de argentinos | Rochi Grimaldi",
@@ -967,7 +892,7 @@
   },
   "BECxYJai3FU": {
    "id": "BECxYJai3FU",
-   "title": "“SI TENEMOS UN DÓLAR A $1.650…”: El pronóstico del GURÚ DEL BLUE para la economía de Milei",
+   "title": "EL BCRA NO COMPRÓ DÓLARES Y CRECE LA PRESIÓN: QUE VE SALVADOR DI STÉFANO",
    "publishedAt": "2026-11-25T01:11:46Z",
    "status": "none",
    "start": null,
@@ -980,7 +905,7 @@
   },
   "lGSxpBRVLWM": {
    "id": "lGSxpBRVLWM",
-   "title": "ALERTA DÓLAR Y RIESGO PAÍS: ¿ES PARA PREOCUPARNOS? DEBATE ENTRE ECONOMISTAS | Nada Personal",
+   "title": "\"ESTAMOS VIVIENDO UNA ÉPOCA INCREÍBLE\": Salvador DI STÉFANO y su visión sobre MILEI",
    "publishedAt": "2026-11-25T00:37:31Z",
    "status": "none",
    "start": "2026-11-24T23:00:00Z",
@@ -1130,6 +1055,75 @@
    "via": {},
    "people": [],
    "firstSeen": 1795578076234
+  },
+  "gN0Aron1gnk": {
+   "id": "gN0Aron1gnk",
+   "title": "🟣 EN VIVO | CUENTAS CLARAS con Sebas Davidovsky y Cata De Elía",
+   "publishedAt": "2026-11-25T12:56:29Z",
+   "status": "upcoming",
+   "start": "2026-11-25T15:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795613457788
+  },
+  "QJRI8VP0eAI": {
+   "id": "QJRI8VP0eAI",
+   "title": "🟡 EN VIVO | PULSO FINANCIERO con Willy Laborda, Flor Barragan y Santi Escobar",
+   "publishedAt": "2026-11-25T12:55:21Z",
+   "status": "upcoming",
+   "start": "2026-11-25T14:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795613457788
+  },
+  "1xrphflmOU8": {
+   "id": "1xrphflmOU8",
+   "title": "¿POR QUÉ CRECE EL TRABAJO EN NEGRO? El ANÁLISIS de SALVADOR DI STEFANO",
+   "publishedAt": "2026-11-25T11:08:05Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795613457788
+  },
+  "PZeB41WM9UM": {
+   "id": "PZeB41WM9UM",
+   "title": "Meditación para calmar la mente y reprogramar tu cerebro con Mario Alonso Puig | La Fórmula Podcast",
+   "publishedAt": "2026-11-25T11:00:11Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795613457788
+  },
+  "FRmz_0LfQCg": {
+   "id": "FRmz_0LfQCg",
+   "title": "Jon Hernández: TU GENERACIÓN PODRÍA NO MORIR | La Fórmula Podcast",
+   "publishedAt": "2026-11-13T19:00:02Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795613457788
   }
  },
  "sent": {
@@ -1396,8 +1390,8 @@
   "count": 0
  },
  "initialized": true,
- "lastDigest": "2026-11-24",
- "lastDigestAt": 1795552109677,
+ "lastDigest": "2026-11-25",
+ "lastDigestAt": 1795613457788,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
