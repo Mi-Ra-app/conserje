@@ -5,23 +5,6 @@
   "@LaFabricaDelPodcast": "UUDFajagyC0Rq7l5mRSdUnIA"
  },
  "items": {
-  "bcJn_UyAqlQ": {
-   "id": "bcJn_UyAqlQ",
-   "title": "POR NO HACER ESTO TE VA MAL EN LOS NEGOCIOS",
-   "publishedAt": "2026-11-21T23:05:31Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [
-    "Sin Manual"
-   ],
-   "via": {
-    "Sin Manual": "la descripción"
-   },
-   "people": [],
-   "firstSeen": 1795312673314
-  },
   "GOH7-K6NyNw": {
    "id": "GOH7-K6NyNw",
    "title": "Adecoagro busca quedarse con Sancor y ampliar su negocio lácteo | Cuentas Claras",
@@ -44,79 +27,6 @@
    "channel": "El Cronista Stream",
    "handle": "@Cronista_ar",
    "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795367866891
-  },
-  "pALfxdPu1Bw": {
-   "id": "pALfxdPu1Bw",
-   "title": "“UN ALFAJOR NO PUEDE SUPERAR LOS $2.000”: Messina y la paradoja de los precios del mercado",
-   "publishedAt": "2026-11-22T13:00:10Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795367866891
-  },
-  "R4sy6d2SLYU": {
-   "id": "R4sy6d2SLYU",
-   "title": "Los consejos de un Pediatra para los padres",
-   "publishedAt": "2026-11-22T15:00:19Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795367866891
-  },
-  "smTBjWzCL7s": {
-   "id": "smTBjWzCL7s",
-   "title": "5 empresas controlan el 60% de los mares del mundo",
-   "publishedAt": "2026-11-22T15:00:04Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795367866891
-  },
-  "1F75gSoRGO8": {
-   "id": "1F75gSoRGO8",
-   "title": "Las secuelas de la UFC",
-   "publishedAt": "2026-11-22T14:00:38Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795367866891
-  },
-  "5fSiFGWhn3I": {
-   "id": "5fSiFGWhn3I",
-   "title": "El sacrificio económico del emprendedor",
-   "publishedAt": "2026-11-22T14:00:19Z",
-   "status": "none",
-   "start": null,
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
    "via": {},
    "people": [],
    "firstSeen": 1795367866891
@@ -1110,6 +1020,94 @@
    "via": {},
    "people": [],
    "firstSeen": 1795667938404
+  },
+  "RTz-86kD5Xk": {
+   "id": "RTz-86kD5Xk",
+   "title": "ECONOMÍA DE MILEI: ¿REPUNTA EN 2027? JAVIER MEZZINA | PULSO FINANCIERO EN VIVO",
+   "publishedAt": "2026-11-26T12:44:41Z",
+   "status": "live",
+   "start": "2026-11-26T14:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795703314059
+  },
+  "ufER6fzfAKw": {
+   "id": "ufER6fzfAKw",
+   "title": "🔵 EN VIVO | SIN MANUAL con Jonatan Loidi, Gaita González, Elena Financiera y Seba Koroch",
+   "publishedAt": "2026-11-26T12:51:26Z",
+   "status": "upcoming",
+   "start": "2026-11-26T17:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [
+    "Sin Manual"
+   ],
+   "via": {
+    "Sin Manual": "el título"
+   },
+   "people": [],
+   "firstSeen": 1795703314059
+  },
+  "3adjqOcGTak": {
+   "id": "3adjqOcGTak",
+   "title": "🟣 EN VIVO | CUENTAS CLARAS con Sebas Davidovsky y Cata De Elía",
+   "publishedAt": "2026-11-26T12:47:22Z",
+   "status": "upcoming",
+   "start": "2026-11-26T15:00:00Z",
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795703314059
+  },
+  "2qcA4q2UpUQ": {
+   "id": "2qcA4q2UpUQ",
+   "title": "Gabriel Rolón: “SIEMPRE VAN A FALTAR 5 PARA EL PESO” | La Fórmula Podcast",
+   "publishedAt": "2026-11-18T23:00:14Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795703314059
+  },
+  "v_mXfSKdoDY": {
+   "id": "v_mXfSKdoDY",
+   "title": "Gabriel Rolón: EL DUELO DE LO QUE NO PUDO SER | La Fórmula Podcast",
+   "publishedAt": "2026-11-18T20:00:08Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795703314059
+  },
+  "80ddkAMT__s": {
+   "id": "80ddkAMT__s",
+   "title": "Gabriel Rolón: LA LECCIÓN DE MI PADRE QUE CAMBIÓ MI VIDA | La Fórmula Podcast",
+   "publishedAt": "2026-11-18T19:00:04Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795703314059
   }
  },
  "sent": {
@@ -1371,15 +1369,19 @@
   "BM_9CZ2GDdo:new": 1795552109677,
   "M07jtRrECoM:new": 1795552109677,
   "0kS5HWrtM5g:new": 1795646781830,
-  "qO05nJxNvlw:new": 1795646781830
+  "qO05nJxNvlw:new": 1795646781830,
+  "3tlBEtPVGIU:new": 1795703314059,
+  "zFfYK7OpHjs:new": 1795703314059,
+  "ufER6fzfAKw:new": 1795703314059,
+  "ufER6fzfAKw:300": 1795703314059
  },
  "day": {
   "date": "2026-11-26",
-  "count": 0
+  "count": 3
  },
  "initialized": true,
- "lastDigest": "2026-11-25",
- "lastDigestAt": 1795613457788,
+ "lastDigest": "2026-11-26",
+ "lastDigestAt": 1795703314059,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
