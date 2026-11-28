@@ -57,19 +57,6 @@
    "people": [],
    "firstSeen": 1795646781830
   },
-  "sJODYz-gPF0": {
-   "id": "sJODYz-gPF0",
-   "title": "LAS CLAVES PARA EMPEZAR A INVERTIR SI NO SABÉS CÓMO",
-   "publishedAt": "2026-11-25T18:07:53Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795646781830
-  },
   "eQCJcr6lhus": {
    "id": "eQCJcr6lhus",
    "title": "LAS TRES ESTAFAS MÁS COMUNES Y CÓMO EVITARLAS 🚨",
@@ -1138,6 +1125,19 @@
    "via": {},
    "people": [],
    "firstSeen": 1795841446609
+  },
+  "EV1MzBmjB60": {
+   "id": "EV1MzBmjB60",
+   "title": "El modelo de negocio de LA GRANJA DE ZENÓN: así convierte canciones en DINERO",
+   "publishedAt": "2026-11-28T13:00:00Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795873711529
   }
  },
  "sent": {
@@ -1414,15 +1414,16 @@
   "ws7GhuMGnoY:new": 1795791693477,
   "hDd5GpcWLdE:new": 1795791693477,
   "OT_-199gYdk:new": 1795791693477,
-  "1qd9zuqhqwo:new": 1795791693477
+  "1qd9zuqhqwo:new": 1795791693477,
+  "spo0wlk5DM0:new": 1795873711529
  },
  "day": {
   "date": "2026-11-28",
-  "count": 0
+  "count": 1
  },
  "initialized": true,
- "lastDigest": "2026-11-27",
- "lastDigestAt": 1795791693477,
+ "lastDigest": "2026-11-28",
+ "lastDigestAt": 1795873711529,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
