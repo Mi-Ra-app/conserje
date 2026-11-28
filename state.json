@@ -70,101 +70,6 @@
    "people": [],
    "firstSeen": 1795646781830
   },
-  "35rsHXaQ-yE": {
-   "id": "35rsHXaQ-yE",
-   "title": "DIPUTADO LIBERTARIO, PICANTE: \"QUIERO DIVIDIR EN DOS LA PROVINCIA\"",
-   "publishedAt": "2026-11-25T17:46:50Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795646781830
-  },
-  "Ltq0l9Gb4RY": {
-   "id": "Ltq0l9Gb4RY",
-   "title": "\"LA PROVINCIA, ASÍ COMO ESTÁ, NO ES VIABLE\": La advertencia de OSCAR LIBERMAN",
-   "publishedAt": "2026-11-25T17:00:00Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795646781830
-  },
-  "yUf_ptURQs4": {
-   "id": "yUf_ptURQs4",
-   "title": "FESTEJA MILEI: YPF SUMA INVERSIONES RÉCORD EN VACA MUERTA | Pulso Financiero",
-   "publishedAt": "2026-11-25T15:42:28Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795646781830
-  },
-  "rpsXSJlScWY": {
-   "id": "rpsXSJlScWY",
-   "title": "ALERTA DÓLAR Y RIESGO PAÍS: ¿EL PLAN DE MILEI CORRE PELIGRO? | Nada Personal",
-   "publishedAt": "2026-11-25T14:44:03Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795646781830
-  },
-  "hX5qDOrZuoc": {
-   "id": "hX5qDOrZuoc",
-   "title": "¿POR QUÉ UNA EMPRESA PLANIFICA SU CRECIMIENTO PARA EVITAR TENER DELEGADOS SINDICALES?",
-   "publishedAt": "2026-11-25T14:16:39Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795646781830
-  },
-  "0kS5HWrtM5g": {
-   "id": "0kS5HWrtM5g",
-   "title": "#10 - ¿Qué le pasa a nuestro cerebro en un mundo cada vez más acelerado? , Ignacio Brusco",
-   "publishedAt": "2026-11-26T01:00:06Z",
-   "status": "none",
-   "start": "2026-11-26T01:00:00Z",
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795646781830
-  },
-  "qO05nJxNvlw": {
-   "id": "qO05nJxNvlw",
-   "title": "#73 - Se fue del país con US$5.000 y hoy desarrolla edificios en tres países, Julián Genijovich",
-   "publishedAt": "2026-11-25T23:00:08Z",
-   "status": "none",
-   "start": "2026-11-25T23:00:00Z",
-   "channel": "La Fábrica Podcast",
-   "handle": "@LaFabricaDelPodcast",
-   "programs": [
-    "La Fábrica Podcast"
-   ],
-   "via": {},
-   "people": [],
-   "firstSeen": 1795646781830
-  },
   "eQCJcr6lhus": {
    "id": "eQCJcr6lhus",
    "title": "LAS TRES ESTAFAS MÁS COMUNES Y CÓMO EVITARLAS 🚨",
@@ -840,7 +745,7 @@
    "id": "spo0wlk5DM0",
    "title": "#37 - ¿Por qué nos cuesta tanto hablar de plata con nuestros hijos?, Gabriela Totaro",
    "publishedAt": "2026-11-27T23:00:09Z",
-   "status": "live",
+   "status": "none",
    "start": "2026-11-27T23:00:00Z",
    "channel": "La Fábrica Podcast",
    "handle": "@LaFabricaDelPodcast",
@@ -1130,6 +1035,109 @@
    "via": {},
    "people": [],
    "firstSeen": 1795821976637
+  },
+  "xC31MHcSHzo": {
+   "id": "xC31MHcSHzo",
+   "title": "LA ESTRATEGIA DE SÁNCHEZ PARA ENFRENTAR A LA DERECHA EN ESPAÑA 🇪🇸",
+   "publishedAt": "2026-11-28T00:09:33Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795841446609
+  },
+  "1oLXvme--Oc": {
+   "id": "1oLXvme--Oc",
+   "title": "Mario Alonso Puig: JÓVENES DE ACERO: ESPERANZA EN UNA NUEVA GENERACIÓN | La Fórmula Podcast",
+   "publishedAt": "2026-11-25T19:00:33Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795841446609
+  },
+  "6ISrVTJ3YTM": {
+   "id": "6ISrVTJ3YTM",
+   "title": "Mario Alonso Puig: MEDITACIÓN: ENCONTRÁ CLARIDAD Y ACEPTÁ TU INTERIOR | La Fórmula Podcast",
+   "publishedAt": "2026-11-25T17:00:28Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795841446609
+  },
+  "9Ynz90G_uGs": {
+   "id": "9Ynz90G_uGs",
+   "title": "Mario Alonso Puig: SEÑALES DE ADICCIÓN: PEQUEÑAS ALARMAS QUE IGNORAMOS | La Fórmula Podcast",
+   "publishedAt": "2026-11-25T16:00:04Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795841446609
+  },
+  "WS-NoJ8Dzpc": {
+   "id": "WS-NoJ8Dzpc",
+   "title": "Mario Alonso Puig: INTUICIÓN MÉDICA: DIAGNÓSTICOS MILAGROSOS EN CIRUGÍA | La Fórmula Podcast",
+   "publishedAt": "2026-11-25T14:47:22Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795841446609
+  },
+  "PZeB41WM9UM": {
+   "id": "PZeB41WM9UM",
+   "title": "Meditación para calmar la mente y reprogramar tu cerebro con Mario Alonso Puig | La Fórmula Podcast",
+   "publishedAt": "2026-11-25T11:00:11Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795841446609
+  },
+  "u-_rabV5gf4": {
+   "id": "u-_rabV5gf4",
+   "title": "Manuel Sans Segarra y Eduardo Strauch: LA ENSEÑANZA QUE LA MUERTE ME DEJÓ | La Fórmula Podcast",
+   "publishedAt": "2026-11-20T20:00:08Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fórmula Podcast",
+   "handle": "@laformulapod",
+   "programs": [
+    "La Fórmula Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1795841446609
   }
  },
  "sent": {
@@ -1409,8 +1417,8 @@
   "1qd9zuqhqwo:new": 1795791693477
  },
  "day": {
-  "date": "2026-11-27",
-  "count": 8
+  "date": "2026-11-28",
+  "count": 0
  },
  "initialized": true,
  "lastDigest": "2026-11-27",
